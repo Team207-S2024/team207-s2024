@@ -17,8 +17,9 @@ The goals for this project, and this team, were to be decided as the following:
 ## Product Mission Statement
 
 ## Communication Channels
-| Name  | First Choice | Second Choice | Third Choice|
-| ------------- | ------------- |
+Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page. 
+| Name  | First Choice | Second Choice | Third Choice |
+| ------------- | ------------- | ------------- | ------------- |
 | Manuel Garcia | Discord | Email | Phone |
 | Michaela De Angelis Werner | Discord | Phone | Email|
 | Isaac D. Linares | Discord | Phone | Email |
@@ -44,7 +45,7 @@ an hour or so late in case people in the group will have prior engagements.
 Table 2: A list of roles and responsibilities that each member has currently pledged to.
 
 | Role | Name | Duties |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Meeting Leader | Manuel Garcia | The meeting leader is responsible for scheduling meetings, and getting everyone on track with what needs to get done. Effectively, they will be the ones in charge of each meeting. |
 | Project Manager | Michaela De Angelis Werner | The project manager is responsible for making sure that the project is advancing along the agreed-upon schedule, and reminding people of upcoming assignments that need to be done. |
 | Assignment Manager | Isaac Linares | The assignment manager will keep track of and remind others of upcoming due dates. They will also make sure assignments are formatted correctly and handle submissions. |
