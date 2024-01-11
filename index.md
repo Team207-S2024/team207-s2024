@@ -1,4 +1,4 @@
-# Team 207 Github
+# Team 207-<Insert Title Here>
 
 _EGR314 Spring 2024_
 
