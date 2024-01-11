@@ -17,9 +17,6 @@ The goals for this project, and this team, were to be decided as the following:
 ## Product Mission Statement
 
 ## Communication Channels
-
-Table 1: Team Member Communication Modes. Note that sensitive information has been redacted as this is a public page.
-
 | Name  | First Choice | Second Choice | Third Choice|
 | ------------- | ------------- |
 | Manuel Garcia | Discord | Email | Phone |
