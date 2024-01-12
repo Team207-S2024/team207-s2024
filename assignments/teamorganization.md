@@ -14,6 +14,8 @@ The goals for this project, and this team, were to be decided as the following:
 
 * Something that all team members can be happy with.
 
+Although these goals may shift and change in the future, the beginning points of this project had these overall goals that would be the basic building blocks for how the path of the project would go. 
+
 ## Product Mission Statement
 
 ## Communication Channels
