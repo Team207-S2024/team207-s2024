@@ -8,6 +8,6 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 # Appendix
 
-[Appendix A: Team Organization Document] (team207-s2024/assignments/teamorganization)
+[Appendix A: Team Organization Document](team207-s2024/assignments/teamorganization)
 
-[Appendix B: User Needs and Benchmarking] (team207-s2024/assignments/userneeds-benchmarking)
+[Appendix B: User Needs and Benchmarking](team207-s2024/assignments/userneeds-benchmarking)
