@@ -39,7 +39,7 @@ determine the best alternative for all parties involved.
 
 ## Meeting Schedule
 
-**Mandatory Meetings: ~4:30 - 6:00 PM on Mondays and Wednesdays. **
+**Mandatory Meetings: ~4:30 - 6:00 PM on Mondays and Wednesdays.**
 This seemed to be a free period for each person on average per week, and would allow for the group to work together on a 
 standard basis outside of class. There can and will be exceptions to the starting time, in terms of officially starting 
 an hour or so late in case people in the group will have prior engagements. 
