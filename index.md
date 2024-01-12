@@ -6,8 +6,12 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 # Report
 
-# Appendix
+# Assignments
 
 [Appendix A: Team Organization Document](assignments/teamorganization)
 
 [Appendix B: User Needs and Benchmarking](assignments/userneeds-benchmarking)
+
+[Appendix C: Product Requirements Document](assignments/productrequirements)
+
+[Appendix D: Design Ideation](assignments/designideation)
