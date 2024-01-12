@@ -62,7 +62,7 @@ best to be responsible for their individual assignments and complete them in a t
 reminded to either complete their work or to upload it to the Google Drive. Outside of the roles stated above, each person 
 still has their own responsibility to their own work to complete on-time. 
 
-## Team Coordination ad Accounability
+## Team Coordination and Accounability
 
 As stated previously, each person will be expected to be at least somewhat engaged in the Discord server and respond 
 accordingly to what is being asked in it. It’s a requirement that each person attempts to contribute to group discussions 
