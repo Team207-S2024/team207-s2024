@@ -1,4 +1,4 @@
-# Team 207- _Atmos-Gear_
+# Team 207: _Atmos-Gear_
 
 _ASU EGR314 Spring 2024, Travis Kelley_
 
