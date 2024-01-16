@@ -18,6 +18,8 @@ Although these goals may shift and change in the future, the beginning points of
 
 ## Product Mission Statement
 
+The mission of the team is to create a sensor-based weather reporting product that is unique, portable, professional, reliable, and user friendly. It is something that should be focused on that a person can easily use and install themselves, and is relatively simple to collect data from, along with contingency plans in case things go awry.
+
 ## Communication Channels
 
 Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page. 
@@ -82,5 +84,11 @@ with the instructor and issue a pink slip.
 Michaela De Angelis Werner
 
 Manuel Garcia
+
+Isaac D. Linares
+
+JJ Sales
+
+Team 207
 
 [Back](/)
