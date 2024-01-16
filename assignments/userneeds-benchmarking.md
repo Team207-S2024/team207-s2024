@@ -10,28 +10,28 @@ and organizing the user needs of this project significantly easier. The format w
  
 ### Search 1
  
-**Keywords Used: ** Portable weather station
+**Keywords Used:** Portable weather station
  
-**Link: ** [Link](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1)
+**Link:** [Link](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1)
 
 Insert Image Here
 
 _Figure 1: Portable Weather Station_
 
-**Title: ** sainlogic Wireless Weather Station with Outdoor Sensor, 8-in-1 Weather Station with Weather Forecast, Temperature, Air Pressure, Humidity, Wind Gauge, Rain Gauge, Moon Phase, Alarm Clock (No WiFi)
+**Title:** sainlogic Wireless Weather Station with Outdoor Sensor, 8-in-1 Weather Station with Weather Forecast, Temperature, Air Pressure, Humidity, Wind Gauge, Rain Gauge, Moon Phase, Alarm Clock (No WiFi)
 
-**Price: ** $129.99
+**Price:** $129.99
 
-**Vendor: ** Sainlogic
+**Vendor:** Sainlogic
 
-**Description: ** Easily call up information on temperature, humidity, etc.
+**Description:** Easily call up information on temperature, humidity, etc.
 The reception range of the device has been improved which means the measurements 
 of sainlogic weather station are more accurate. The wireless weather station with
 rain gauge and wind speed measures indoor/outdoor temperature and humidity, wind 
 speed/direction, air pressure. Experience the convenience of your personal home
 weather station.
  
-**Positive Comments: ** 
+**Positive Comments:** 
 
 | Review  | Customer Need Notes |
 | ------------- | ------------- |
