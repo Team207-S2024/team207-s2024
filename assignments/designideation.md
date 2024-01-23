@@ -4,7 +4,7 @@
 
 The team worked on a Jamboard in order to figure out and throw ideas at the wall to see what would stick. It was over the course of a week, but the majority of the ideas came in near the end. Many different ideas were thrown out,  though some show more promise than others.
 
-Insert Image Here
+Insert Image Here here
 
 _Figure 1: Jamboard of 100+ Ideas_
 
