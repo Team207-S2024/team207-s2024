@@ -6,7 +6,7 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 # Report
 
-[Report Link](/assignments/report)
+[Report Link](assignments/report)
 
 # Assignments
 
