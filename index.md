@@ -17,5 +17,3 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 [Appendix C: Product Requirements Document](assignments/productrequirements)
 
 [Appendix D: Design Ideation](assignments/designideation)
-
-[test](assignments/help)
