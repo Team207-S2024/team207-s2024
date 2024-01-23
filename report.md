@@ -17,7 +17,7 @@ ASU Polytechnic, EGR 314, Travis Kelley
 The following subsections will detail our process for the team charter and mission statement. For the sake of
 succinctness, everything else is consolidated into the appendix.
 
-Refer to [Appendix A: Team Organization Assignment](/team207-s2024/assignments/teamorganization) 
+Refer to [Appendix A: Team Organization Assignment](assignments/teamorganization) 
 for further information about our team organization and team decisions.
 
 ### Team Charter
@@ -43,15 +43,15 @@ insert stuff about user needs
 
 _Figure 1: 
 
-Refer to [Appendix B: User Needs and Benchmarking Assignment](/team207-s2024/assignments/userneeds-benchmarking)
+Refer to [Appendix B: User Needs and Benchmarking Assignment](assignments/userneeds-benchmarking)
 for further information and the final table derived from the work. 
 
-Refer to [Appendix C: Product Requirements Document Assignment](/team207-s2024/assignments/productrequirements)
+Refer to [Appendix C: Product Requirements Document Assignment](assignments/productrequirements)
 for further information about the brainstorming the team did for this assignment.
 
 ## Design Ideation
 
-Refer to [Appendix D: Design Ideation Assignment](/team207-s2024/assignments/designideation)
+Refer to [Appendix D: Design Ideation Assignment](assignments/designideation)
 for further information.
 
 
