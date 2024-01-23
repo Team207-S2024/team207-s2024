@@ -1,15 +1,13 @@
 # User Needs and Benchmarking
 
-## User Needs
-
-### Voice of the Customer Benchmarking
+## Voice of the Customer Benchmarking
 
 The team chose to begin figuring out what needs that the product would require to be successful by studying multiple other
 commercial products, and exhaustively note their pros and cons. With this knowledge written out, it would make the process 
 of creating and organizing the user needs of this project significantly easier. The format was created in order to organize 
 the data in as digestible way as possible. 
 
-#### Search 1
+### Search 1
 
 **Keywords Used:** Portable weather station
 
@@ -139,7 +137,7 @@ convenience of your personal home weather station.
   </tr>
 </table>
 
-#### Search 2
+### Search 2
 
 **Keywords Used:** _weather sensors_
 
@@ -276,7 +274,7 @@ Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. 
   </tr>
 </table>
 
-#### Search 3
+### Search 3
 
 **Keywords Used:** Portable weather station
 
@@ -406,7 +404,7 @@ Be sure to install in an open area where wind and weather pass by the sensor. Ac
   </tr>
 </table>
 
-#### Search 4
+### Search 4
 
 **Keywords Used: Portable Weather Station**
 
@@ -592,7 +590,7 @@ Final note. I have owned several ambient weather products and all have performed
   </tr>
 </table>
 
-#### Search 5
+### Search 5
 
 **Keywords Used:** Portable Weather Station
 
@@ -732,11 +730,11 @@ I won't be replacing batteries this time. We will use the unit for internal data
   </tr>
 </table>
 
-### Process of Organizing Needs
+## Process of Organizing Needs
 
 The group made a decision to begin processing the list of needs through a shared Jamboard for ease of use to add to over the weekend, on top of during the scheduled meeting time. A few of the ideas came from cannibalizing what was found through the VOC studies, but for the most part a lot of the needs were made impromptu. These upcoming lists would be extremely vital for the design ideation process. 
 
-#### Drafting Needs
+### Drafting Needs
 
 The group began brainstorming needs on the Jamboard, throwing concepts at the theoretical wall to see what would stick. The board would be crucial in compiling a more solid idea with regards to what the group would want to do for this project. 
 
@@ -744,7 +742,7 @@ Insert Image Here
 
 _Figure 6: Finished Jamboard Page of User Needs_
 
-#### Grouping Needs
+### Grouping Needs
 
 Once the set of needs was completed, the team began to group the needs in the following categories: Safety, Manufacturing, Hardware/Product Design, Customizability, Interactivity/User Experience, and Software Functionality. Note that many of the needs could have filled out multiple different sections, and it was up to the individual grouping them to discern the best one out of them.
 
@@ -753,7 +751,7 @@ Insert Image Here
 _Figure 7: Finished Jamboard Page of the Groups of Needs_
 
 
-#### Ranking Needs
+### Ranking Needs
 
 As soon as the needs were sufficiently grouped in a way all group members could agree upon, the lists were further organized by ranking each need in each category in order of importance- 3 stars for the most important, 1 stars for the least important. 
 
