@@ -222,9 +222,9 @@ rotating wind turbine shells. The device does not have to be turned in the direc
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery.
+   <td rowspan="3" >The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery.
 <p>
-Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.”
+Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.
    </td>
    <td colspan="2" >The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)
    </td>
@@ -238,7 +238,7 @@ Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. 
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died.”
+   <td rowspan="3" >Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died.
    </td>
    <td colspan="2" >The product has a low battery life. (explicit)
    </td>
@@ -252,7 +252,7 @@ Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. 
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“It seems work ok, i havnt cimpared it to others so i cant say better or worse then others. I like the design of the blades but i was hoping for measurments in cfms and it does not. Gives mph and like metric system. “
+   <td rowspan="3" >It seems work ok, i havnt cimpared it to others so i cant say better or worse then others. I like the design of the blades but i was hoping for measurments in cfms and it does not. Gives mph and like metric system.
    </td>
    <td colspan="2" >The product doesn’t output measurements in other units. (explicit)
    </td>
