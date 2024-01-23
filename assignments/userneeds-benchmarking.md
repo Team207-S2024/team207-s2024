@@ -168,7 +168,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“Simple. Straightforward. Clearly presents the info I wanted to get wind readings from my porch. It's a fave. One caveat re "easy to use" was difficulty seating the battery. Sent the first one back because three people tried to seat the battery, and none of us could figure it out. Thought something must have broken. When replacement had same problem, I kept at it until I finally worked it out. You actually have to pull the clip back toward you, insert the battery, then push the clip back into place. Simple enough, but goes against all my experience (and that of my friends).”
+   <td rowspan="3" >Simple. Straightforward. Clearly presents the info I wanted to get wind readings from my porch. It's a fave. One caveat re "easy to use" was difficulty seating the battery. Sent the first one back because three people tried to seat the battery, and none of us could figure it out. Thought something must have broken. When replacement had same problem, I kept at it until I finally worked it out. You actually have to pull the clip back toward you, insert the battery, then push the clip back into place. Simple enough, but goes against all my experience (and that of my friends).
    </td>
    <td colspan="2" >The product is simple and easy to use for the user to manage. (explicit)
    </td>
@@ -182,7 +182,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“great design that just needs to be held vertical in any direction, so you don't need to know exactly where the wind is coming from like other fan windmeters to get an accurate reading, has average and high wind readings, seams reasonably well constructed, the windmeter is a little larger than most other windmeters I have owned but the design is worth it.”
+   <td rowspan="3" >great design that just needs to be held vertical in any direction, so you don't need to know exactly where the wind is coming from like other fan windmeters to get an accurate reading, has average and high wind readings, seams reasonably well constructed, the windmeter is a little larger than most other windmeters I have owned but the design is worth it.
    </td>
    <td colspan="2" >The product doesn’t require fiddling to get it to work as it’s meant to. (explicit)
    </td>
@@ -196,15 +196,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
    </td>
   </tr>
   <tr>
-   <td rowspan="3" >“Works very well, and has a higher max speed than most others!
-<p>
-Was able to test and get pretty accurate readings.
-<p>
-It seems like it might be a bit fragile, time will tell.
-<p>
-So far no problems with reliability.
-<p>
-would be nice if it was back lit.”
+   <td rowspan="3" >Works very well, and has a higher max speed than most others! Was able to test and get pretty accurate readings. It seems like it might be a bit fragile, time will tell. So far no problems with reliability. would be nice if it was back lit.
    </td>
    <td colspan="2" >The product is better at certain things than its competition. (latent)
    </td>
@@ -218,6 +210,7 @@ would be nice if it was back lit.”
    </td>
   </tr>
 </table>
+
 
 **Negative Comments:**
 
@@ -273,6 +266,7 @@ Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. 
    </td>
   </tr>
 </table>
+
 
 ### Search 3
 
