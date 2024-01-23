@@ -1,4 +1,4 @@
-# User Needs and Benchmarking
+![image](https://github.com/Team207-S2024/team207-s2024/assets/156377035/4e59af3d-6095-4e98-b5b6-9bbb06d5551c)# User Needs and Benchmarking
 
 ## Voice of the Customer Benchmarking
 
@@ -13,7 +13,8 @@ the data in as digestible way as possible.
 
 **Link:** [https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1)
 
-![portable weather station](/team207-s2024/images/userneeds-benchmarking/image8.png)
+![portable weather station](https://github.com/Team207-S2024/team207-s2024/assets/156377035/a84367e8-db4d-4b34-aa30-2d3617422c69)
+
 
 _Figure 1: Portable Weather Station_
 
