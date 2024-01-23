@@ -214,6 +214,38 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Negative Comments:**
 
+<table>
+  <tr>
+   <td>Review
+   </td>
+   <td colspan="2" >Customer Need Notes
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.
+   </td>
+   <td colspan="2" >The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >The product is hard to recharge battery-wise. (explicit)
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >There may be issues with the product’s design with regards to the turbine. (explicit)
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died.
+   </td>
+   <td colspan="2" >The product has a low battery life. (explicit)
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >The display isn’t particularly bright. (explicit)
+   </td>
+  </tr>
+
 ### Search 3
 
 **Keywords Used:** Portable weather station
