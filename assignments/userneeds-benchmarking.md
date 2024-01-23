@@ -162,7 +162,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-   <td>Review
+   <td> Review
    </td>
    <td colspan="2" >Customer Need Notes
    </td>
@@ -213,60 +213,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 
 **Negative Comments:**
-
-<table>
-  <tr>
-   <td>Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3" >The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery.
-<p>
-Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.
-   </td>
-   <td colspan="2" >The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The product is hard to recharge battery-wise. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >There may be issues with the product’s design with regards to the turbine. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3" >Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died.
-   </td>
-   <td colspan="2" >The product has a low battery life. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The display isn’t particularly bright. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The product isn’t on-par with other competitive products. (latent)
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3" >It seems work ok, i havnt cimpared it to others so i cant say better or worse then others. I like the design of the blades but i was hoping for measurments in cfms and it does not. Gives mph and like metric system.
-   </td>
-   <td colspan="2" >The product doesn’t output measurements in other units. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The product is ultimately a bit mediocre, and isn’t out of this world. (latent)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The design of the mechanics of the product is good, but the software is less good. (explicit)
-   </td>
-  </tr>
-</table>
-
 
 ### Search 3
 
