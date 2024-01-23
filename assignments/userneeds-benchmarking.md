@@ -214,37 +214,25 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Negative Comments:**
 
-<table>
-  <tr>
-   <td>Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3" >The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.
-   </td>
-   <td colspan="2" >The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The product is hard to recharge battery-wise. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >There may be issues with the product’s design with regards to the turbine. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td rowspan="3" >Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died.
-   </td>
-   <td colspan="2" >The product has a low battery life. (explicit)
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >The display isn’t particularly bright. (explicit)
-   </td>
-  </tr>
+| Review | Customer Need Notes |
+|-------|------------------------|
+|The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.| The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)|
+| | The product is hard to recharge battery-wise. (explicit)|
+| | There may be issues with the product’s design with regards to the turbine. (explicit)|
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died. | The product has a low battery life. (explicit)  |
+| | The display isn’t particularly bright. (explicit) |
+| | The product isn’t on-par with other competitive products. (latent) |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+
 
 ### Search 3
 
@@ -269,6 +257,24 @@ your exact locationAtomic clock updates time for consistent accuracy and no manu
 Durable, weather resistant construction. Strong signal penetration (enhanced 433 MHz)
 
 **Positive Comments:**
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
 
 **Negative Comments:**
 
