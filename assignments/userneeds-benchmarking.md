@@ -349,7 +349,43 @@ _Figure 4: Portable Weather Station_
 
 **Positive Comments:**
 
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
 **Negative Comments:**
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
+
+| Review | Customer Need Notes |
+|-------|------------------------|
+| x | y |
+| | y |
+| | y |
 
 ### Search 5
 
