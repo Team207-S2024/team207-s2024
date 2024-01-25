@@ -49,7 +49,7 @@ _Figure 4: Visual Representation of GPS Plus Cat Collar_
 
 _Figure 4a: .svg Version of a Visual Representation (will be provided in .zip)_
 
-**Optimal Sunlight for a Plant**
+### Optimal Sunlight for a Plant
 
 This device would feature a sensor that is able to detect temperature and humidity levels which would then send data over to the stand, the stand, which is controlled by a motor mechanism would then move the plant sitting inside the pot to the optimal position to either increase or decrease the received sunlight by the plant. The device could also send over data via wifi and alert the user with weather conditions such as temperature and humidity and update the user on the life of their plant.  
 
