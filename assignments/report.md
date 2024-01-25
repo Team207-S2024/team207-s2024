@@ -17,7 +17,7 @@ ASU Polytechnic, EGR 314, Travis Kelley
 The following subsections will detail our process for the team charter and mission statement. For the sake of
 succinctness, everything else is consolidated into the appendix.
 
-Refer to [Appendix A: Team Organization Assignment](assignments/teamorganization) 
+Refer to [Appendix A: Team Organization Assignment](teamorganization) 
 for further information about our team organization and team decisions.
 
 ### Team Charter
@@ -53,12 +53,12 @@ _Figure 2: Finished Jamboard Page of the Groups of Needs_
 
 _Figure 3: Finished Jamboard Page for Ranking Needs_
 
-Refer to [Appendix B: User Needs and Benchmarking Assignment](assignments/userneeds-benchmarking)
+Refer to [Appendix B: User Needs and Benchmarking Assignment](userneeds-benchmarking)
 for further information, the content of the VOC research, and the final table derived from the work. 
 
 The PRD (Product Requirements Document) was developed soon after, which involved creating unique scenarios for a potential product in order to generate further ideas as well as brainstorming potential stakeholders and what each person wanted from the project. Open questions were also developed that can hopefully be answered as the product develops. 
 
-Refer to [Appendix C: Product Requirements Document Assignment](assignments/productrequirements)
+Refer to [Appendix C: Product Requirements Document Assignment](productrequirements)
 for further information about the brainstorming the team did for this assignment, including the stories and aspects created.
 
 ## Design Ideation
@@ -105,7 +105,7 @@ This device would feature a sensor that is able to detect temperature and humidi
 
 _Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight_
 
-Refer to [Appendix D: Design Ideation Assignment](assignments/designideation)
+Refer to [Appendix D: Design Ideation Assignment](designideation)
 for further information.
 
 
