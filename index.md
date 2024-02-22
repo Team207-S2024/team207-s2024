@@ -26,7 +26,7 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 [Appendix H: Microcontroller Selection](assignments/microcontrollerselection)
 
-[Appendix I: Software Proposal](assignments/sofwareproposal)
+[Appendix I: Software Proposal](assignments/softwareproposal)
 
 [Appendix J: Hardware Proposal](assignments/hardwareproposal)
 
