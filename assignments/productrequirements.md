@@ -21,7 +21,7 @@ Our vision is to make a device that is able to meet our users needs and communic
 **Customer Service:** The product should have precise instructions for how to use it, as well as the ability to get help with use from a person should the need arise. 
 
 
-## Use Cases
+## User Cases
 
 
 ### User Story #1 - Scientist (Generated using ChatGPT)
