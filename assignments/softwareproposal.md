@@ -3,9 +3,9 @@
 
 Shown in the figure above is a diagram of our software proposal. The diagram will provide an ample outline of our software design and what we wish to accomplish with each subsystem. The rest of the page will be dedicted to going more in-depth with each subsystem. 
 
-[Microcontroller](##Microcontroller)
+[Microcontroller](#Microcontroller)
 
-[Humidity/Temperature Sensors](##humidity_and_temperature_sensors)
+[Humidity/Temperature Sensors](#humidity-and-temperature-sensors)
 
 ## Microcontroller  
 ![Software main true](https://github.com/Team207-S2024/team207-s2024/assets/157151171/140d4266-cc05-446d-b7d4-ed13b9fd61fb)
@@ -23,17 +23,13 @@ Our humidity and temperature sensors will be the microcontrollers main factors i
 The humidity sensor will be our way of implementing wi-fi capability into this project. IF the humidity sensor detects a soil humidity that is too low based on the specific information provided by the user, then it will alert the user that the plants requires water. 
 ![MotorTempSoft](https://github.com/Team207-S2024/team207-s2024/assets/157151171/e592f06f-c8c3-42c5-b11e-07ef7782149e)
 
-
 The diagram above displays the main way the motor driver recieves information and processes them. The data from the humidity and temp sensors will be converted to EUSART. The EUSART data will then be read by the microcontroller and sent to the motor driver, which will inform it of which direction to move and how far.  
-
-
-
 
 
 ![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
 
 
-[Link to main](#Sofware_proposal)
+[Link to main](#Software_proposal)
 
 
 
