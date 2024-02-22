@@ -8,4 +8,4 @@ The team constructed a Block Diagram that provides an ample overview of how we w
 
 Figure 1: Block Diagram of our Flower Pot
 
-##Overview of Each Section
+## Overview of Each Section
