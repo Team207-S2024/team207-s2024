@@ -14,12 +14,12 @@ ASU Polytechnic, EGR 314, Travis Kelley
 
 # Table of Contents
 
-[Team Organization](https://team207-s2024.github.io/team207-s2024/assignments/report/##team-organization)
+[Team Organization](https://team207-s2024.github.io/team207-s2024/assignments/report/#team-organization)
 
-[User Needs, Benchmarking, and Requirements](https://team207-s2024.github.io/team207-s2024/assignments/report/##user-needs,-benchmarking,-and-requirements)
+[User Needs, Benchmarking, and Requirements](https://team207-s2024.github.io/team207-s2024/assignments/report/#user-needs,-benchmarking,-and-requirements)
 
 
-## Team Organization
+# Team Organization
 
 The following subsections will detail our process for the team charter and mission statement. For the sake of
 succinctness, everything else is consolidated into the appendix.
@@ -27,7 +27,7 @@ succinctness, everything else is consolidated into the appendix.
 Refer to [Appendix A: Team Organization Assignment](teamorganization) 
 for further information about our team organization and team decisions.
 
-### Team Charter
+## Team Charter
 
 The team decided on the charter fairly late, but eventually came to an agreement on what everyone wanted
 for the group in terms of personal goals.
@@ -35,7 +35,7 @@ for the group in terms of personal goals.
 _Our goal is to gain knowledge in digital circuits that utilize serial communication. 
 We as a team want this product to be compared to other professional grade devices being sold on the market._
 
-### Mission Statment
+## Mission Statment
 
 After talking with eachother about one another's interests, the team began to determine what the project
 needed to have as well as what each individual member wanted it to have. 
@@ -44,7 +44,7 @@ _The mission of the team is to create a sensor-based weather reporting product t
 professional, reliable, and user friendly. It is something that should be focused on that a person can easily
 use and install themselves, and is relatively simple to collect data from, along with contingency plans in case things go awry._
 
-## User Needs, Benchmarking, and Requirements
+# User Needs, Benchmarking, and Requirements
 
 The team worked exceptionally hard at identifying and deciphering the user needs necessary for a successful project, which included research into similar products that used the name of what the project is as tags. Each team member created at least one setup for a product and 3 positive/negative reviews for each product, with comments on what user needs that could be derived from each review. Once each member was done, members contributed to a Jamboard with each user need derived from the research as well as ideas that members came up with. It involved multiple days of back and forth, from creating to grouping to ranking the needs. Finally, the user needs were consolidated into an easy to read table ranked all together. 
 
@@ -68,7 +68,7 @@ The PRD (Product Requirements Document) was developed soon after, which involved
 Refer to [Appendix C: Product Requirements Document Assignment](productrequirements)
 for further information about the brainstorming the team did for this assignment, including the stories and aspects created.
 
-## Design Ideation
+# Design Ideation
 
 The design ideation process involved looking back at the user needs and turning them into functions a product could have, and putting them onto a Jamboard for a visual representation. Once finished, people grouped them according to an overall general functionality. Finally, people developed 3 distinct ideas in order to figure out a concrete idea going forward.
 
@@ -80,7 +80,7 @@ _Figure 4: Jamboard of 100+ Ideas_
 
 _Figure 5: Jamboard of Sorted Ideas_
 
-### Fishing Box + Weather Balloon
+## Fishing Box + Weather Balloon
 
 The Fishing Box Plus Weather Balloon (Name Subject to Change) is a set of sensors tied to a weather balloon suspended in the air, where it’ll get and store data. Once it reaches certain thresholds of data, it will transfer data to a device on the ground, which will have stakes to keep it (and the sensors) in place. The box will have an LCD screen with buttons to flip through data and do other functions, such as exporting data onto an SD card for emergencies. When necessary, the box can either take down the weather balloon by clicking on a button, or the user can manually use a crank on the side to manually take it down.
 
@@ -92,7 +92,7 @@ _Figure 6: Visual Representation of the Fishing Box Plus Weather Balloon_
 
 _Figure 6a: .svg Version of a Visual Representation (will be provided in .zip)_
 
-### GPS + Cat Collar
+## GPS + Cat Collar
 
 The GPS Plus Cat Collar (Name Subject to Change) is a cat collar with sensors for humidity and temperature installed onto it, as well as a location tracker. The purpose of the device is to see where feral/outdoor cats go in order to keep warm and dry/comfy. How it works is you capture a feral/outdoor cat, put the collar on, and then let them free. It will then begin autonomously tracking the cat and where it goes, namely it’s most common hideouts are. Then, when the cat gets near ‘homebase’ (as in, when the collar can connect to a server through Wifi), it will then transmit what data it stored onto the server in a readable format, by parsing through the sensor/tracking data. If in the event where the user doesn’t want the cat to wear the device any more, and its in the area, they can put out a radio/Wifi signal that will unlock the collar through a motorized locking system. 
 
@@ -104,7 +104,7 @@ _Figure 7: Visual Representation of GPS Plus Cat Collar_
 
 _Figure 7a: .svg Version of a Visual Representation (will be provided in .zip)_
 
-### Optimal Sunlight for a Plant
+## Optimal Sunlight for a Plant
 
 This device would feature a sensor that is able to detect temperature and humidity levels which would then send data over to the stand, the stand, which is controlled by a motor mechanism would then move the plant sitting inside the pot to the optimal position to either increase or decrease the received sunlight by the plant. The device could also send over data via wifi and alert the user with weather conditions such as temperature and humidity and update the user on the life of their plant.  
 
