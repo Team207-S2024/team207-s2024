@@ -32,4 +32,12 @@ The Motor Driver/Actuator
 
 The motor driver is what will rotate the flower pot to face the sun. This device is meant to be placed on a windowsill or outside area and will rotate the pot to face the sun. The motor driver will determine where the sun is located based on where it detects the highest temperatures point near it. 
 
+### Humidity Sensor
+
+![BlockHumid](https://github.com/Team207-S2024/team207-s2024/assets/157151171/6d00b67d-5e02-427c-9fe7-ae2343b4cb23)
+
+Humidity Sensor
+
+The humidity sensor will be our main way of communicating with the ESP32 Wifi module. The humidity sensor will be constanly tracking the humidity of the soil in the flower pot. If the sensor detects that the humidity is too low, it will send an alert to your phone notfiying you that the plant requires water.
+
 
