@@ -20,6 +20,8 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 [Appendix E: Microcontroller Selection](assignments/microcontrollerselection)
 
+[Appendix F: Block](assignments/blockdiagram)
+
 # Team Checkpoint 1 Video
 
 {% include youtube.html id="mmC6a5EaF1E" %}  
