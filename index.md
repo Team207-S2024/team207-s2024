@@ -18,13 +18,17 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 [Appendix D: Design Ideation](assignments/designideation)
 
-[Appendix E: Microcontroller Selection](assignments/microcontrollerselection)
+[Appendix E: Selected Design](assignments/selecteddesign)
 
 [Appendix F: Block Diagram](assignments/blockdiagram)
 
-[Appendix G: Software Proposal](assignments/sofwareproposal)
+[Appendix G: Component Selection](assignments/componentselection)
 
-[Appendix H: Hardware Proposal](assignments/hardwareproposal)
+[Appendix H: Microcontroller Selection](assignments/microcontrollerselection)
+
+[Appendix I: Software Proposal](assignments/sofwareproposal)
+
+[Appendix J: Hardware Proposal](assignments/hardwareproposal)
 
 # Team Checkpoint 1 Video
 
