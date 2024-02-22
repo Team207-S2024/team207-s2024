@@ -12,6 +12,10 @@ Date Updated: 1/25/2024
 
 ASU Polytechnic, EGR 314, Travis Kelley
 
+# Table of Contents
+
+[Team Organization](https://github.com/Team207-S2024/team207-s2024/edit/main/assignments/report/#team-organization)
+
 ## Team Organization
 
 The following subsections will detail our process for the team charter and mission statement. For the sake of
