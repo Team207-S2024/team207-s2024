@@ -28,7 +28,14 @@ The diagram above displays the main way the motor driver recieves information an
 
 
 
+
+
+![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
+
+
 [Link to main](#Sofware_proposal)
+
+
 
 
 
