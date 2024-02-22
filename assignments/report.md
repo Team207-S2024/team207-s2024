@@ -26,9 +26,11 @@ ASU Polytechnic, EGR 314, Travis Kelley
 
 6. [Component Selection](#component-selection)
 
-7. [Hardware Proposal](#hardware-proposal)
+7. [Microcontroller Selection](#microcontroller-selection)
 
-8. [Software Proposal](#software-proposal)
+8. [Hardware Proposal](#hardware-proposal)
+
+9. [Software Proposal](#software-proposal)
 
 
 ## Team Organization
@@ -129,13 +131,26 @@ for further information.
 
 ## Selected Design
 
+Refer to [Appendix E: Selected Design](selecteddesign) for further information.
+
 ## Block Diagram
+
+Refer to [Appendix F: Component Selection](componentselection) for further information.
 
 ## Component Selection
 
+Refer to [Appendix G: Block Diagram](blockdiagram) for further information.
+
+## Microcontroller Selection
+
+Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information.
+
 ## Hardware Proposal
+
+Refer to [Appendix I: Hardware Proposal](hardwareproposal) for further information.
 
 ## Software Proposal
 
+Refer to [Appendix J: Software Proposal](softwareproposal) for further information.
 
 
