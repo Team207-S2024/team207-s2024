@@ -19,6 +19,7 @@ This is the most important part of our project, the Microcontroller. The Microco
 
 ### Temperature Sensor
 ![BlockTemp.png](https://github.com/Team207-S2024/team207-s2024/blob/main/images/blockdiagram/BlockTemp.png)
+
 The Temperature Sensor
 
 The temperature sensor is one of the subsystems we decided to work with. We plan on utilizing the temperature sensor to detect where the highest temperature in the surrounding area is. This information will then be utilized by the microcontroller and will send this data to the motor. THe motor will then rotate the flower pot to face the direction of the highest tmeperature. 
