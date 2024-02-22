@@ -15,6 +15,7 @@ ASU Polytechnic, EGR 314, Travis Kelley
 # Table of Contents
 
 [Team Organization](https://team207-s2024.github.io/team207-s2024/assignments/report/##team-organization)
+
 [User Needs, Benchmarking, and Requirements](https://team207-s2024.github.io/team207-s2024/assignments/report/##user-needs,-benchmarking,-and-requirements)
 
 
