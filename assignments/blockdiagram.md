@@ -24,4 +24,12 @@ The Temperature Sensor
 
 The temperature sensor is one of the subsystems we decided to work with. We plan on utilizing the temperature sensor to detect where the highest temperature in the surrounding area is. This information will then be utilized by the microcontroller and will send this data to the motor. THe motor will then rotate the flower pot to face the direction of the highest tmeperature. 
 
+### Motor Driver
+
+![BlockMotor](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c4ee643b-88d5-4c9c-beaf-6ee8e8bea3c8)
+
+The Motor Driver/Actuator
+
+The motor driver is what will rotate the flower pot to face the sun. This device is meant to be placed on a windowsill or outside area and will rotate the pot to face the sun. The motor driver will determine where the sun is located based on where it detects the highest temperatures point near it. 
+
 
