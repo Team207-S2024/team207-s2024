@@ -22,6 +22,8 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 [Appendix F: Block Diagram](assignments/blockdiagram)
 
+[Appendix G: Software Proposal](assignments/sofwareproposal)
+
 # Team Checkpoint 1 Video
 
 {% include youtube.html id="mmC6a5EaF1E" %}  
