@@ -1,4 +1,4 @@
-title: EGR 314 Report
+EGR 314 Report
 
 Portable Weather System
 
@@ -13,9 +13,15 @@ Date Updated: 1/25/2024
 ASU Polytechnic, EGR 314, Travis Kelley
 
 # Table of Contents
-<span id="user-content-I1"></span>
 
-## <span id="I1"></span> Team Organization
+1. [Team Organization](#team-organization)
+
+2. [User Needs](#user-needs)
+
+3. [Design Ideation](#design-ideation)
+
+
+## Team Organization
 
 The following subsections will detail our process for the team charter and mission statement. For the sake of
 succinctness, everything else is consolidated into the appendix.
@@ -40,7 +46,7 @@ _The mission of the team is to create a sensor-based weather reporting product t
 professional, reliable, and user friendly. It is something that should be focused on that a person can easily
 use and install themselves, and is relatively simple to collect data from, along with contingency plans in case things go awry._
 
-## User Needs, Benchmarking, and Requirements
+## User Needs
 
 The team worked exceptionally hard at identifying and deciphering the user needs necessary for a successful project, which included research into similar products that used the name of what the project is as tags. Each team member created at least one setup for a product and 3 positive/negative reviews for each product, with comments on what user needs that could be derived from each review. Once each member was done, members contributed to a Jamboard with each user need derived from the research as well as ideas that members came up with. It involved multiple days of back and forth, from creating to grouping to ranking the needs. Finally, the user needs were consolidated into an easy to read table ranked all together. 
 
