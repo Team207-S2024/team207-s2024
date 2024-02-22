@@ -20,6 +20,16 @@ ASU Polytechnic, EGR 314, Travis Kelley
 
 3. [Design Ideation](#design-ideation)
 
+4. [Selected Design](#selected-design)
+
+5. [Block Diagram](#block-diagram)
+
+6. [Component Selection](#component-selection)
+
+7. [Hardware Proposal](#hardware-proposal)
+
+8. [Software Proposal](#software-proposal)
+
 
 ## Team Organization
 
@@ -116,5 +126,16 @@ _Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight_
 
 Refer to [Appendix D: Design Ideation Assignment](designideation)
 for further information.
+
+## Selected Design
+
+## Block Diagram
+
+## Component Selection
+
+## Hardware Proposal
+
+## Software Proposal
+
 
 
