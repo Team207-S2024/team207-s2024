@@ -3,7 +3,7 @@
 
 Shown in the figure above is a diagram of our software proposal. The diagram will provide an ample outline of our software design and what we wish to accomplish with each subsystem. The rest of the page will be dedicted to going more in-depth with each subsystem. 
 
-[Microcontroller](#Microcontroller)
+[Microcontroller](#microcontroller)
 
 [Humidity/Temperature Sensors](#humidity-and-temperature-sensors)
 
@@ -12,7 +12,11 @@ Shown in the figure above is a diagram of our software proposal. The diagram wil
 
 This is our main software desing for the microcontroller. Our main loop will conssit of receiving data from all 3 subsystems, the humidity sensor, the motor driver, and the temeperature sensor. THe microcontroller will then use this data to decide its next decision. It will keep this cycle going until a decision is made or the device is turned off. 
 
-[Link to main](#Software_proposal)
+![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
+
+
+
+[Link to main](#software_proposal)
 
 ## Humidity and Temperature Sensors
 
@@ -29,7 +33,7 @@ The diagram above displays the main way the motor driver recieves information an
 ![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
 
 
-[Link to main](#Software-proposal)
+[Link to main](#software-proposal)
 
 
 
