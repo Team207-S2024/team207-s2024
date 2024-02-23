@@ -18,7 +18,7 @@ This figure goes more in-detail about the specifics of the microcontroller funct
 
 
 
-[Link to main](#software_proposal)
+[Link to main](#software-proposal)
 
 ## Humidity and Temperature Sensors
 
