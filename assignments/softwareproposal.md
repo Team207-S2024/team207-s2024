@@ -14,6 +14,8 @@ This is our main software desing for the microcontroller. Our main loop will con
 
 ![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
 
+This figure goes more in-detail about the specifics of the microcontroller function. The section on the right details how our microcontroller will decide when the motor driver has reached the optiaml temperature spot that was dtermined previously. THe middle two sections detail how we conver the data into I2C and use I2C to communicate wtih the motor driver. 
+
 
 
 [Link to main](#software_proposal)
@@ -28,9 +30,6 @@ The humidity sensor will be our way of implementing wi-fi capability into this p
 ![MotorTempSoft](https://github.com/Team207-S2024/team207-s2024/assets/157151171/e592f06f-c8c3-42c5-b11e-07ef7782149e)
 
 The diagram above displays the main way the motor driver recieves information and processes them. The data from the humidity and temp sensors will be converted to EUSART. The EUSART data will then be read by the microcontroller and sent to the motor driver, which will inform it of which direction to move and how far.  
-
-
-![Softwaremisc](https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d)
 
 
 [Link to main](#software-proposal)
