@@ -3,6 +3,7 @@ table, th, td {
   border: 2px solid black;
   border-collapse: collapse;
   margin: 10px;
+  padding: 5px;
 }
 th, td {
   border-color: #666666;
