@@ -222,11 +222,22 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Negative Comments:**
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-|The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product.| The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)|
-| | The product is hard to recharge battery-wise. (explicit)|
-| | There may be issues with the product’s design with regards to the turbine. (explicit)|
+<table>
+  <tr>
+    <th>Review</th>
+    <th>Customer Needs Notes</th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product. </td>
+   	<td>The product was faulty upon being given to the consumer, meaning poor quality control. (explicit)</td>
+  </tr>
+  <tr>
+    <td>The product is hard to recharge battery-wise. (explicit)</td>
+  </tr>
+  <tr>
+  <td>There may be issues with the product’s design with regards to the turbine. (explicit)</td>
+  </tr>
+</table>
 
 | Review | Customer Need Notes |
 |-------|------------------------|
@@ -441,7 +452,7 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
 
 | Review | Customer Need Notes |
 |-------|------------------------|
-| | This unit has a very large and multi-colored display. When checking it against various sources, it is generally within tolerance. I particularly like the fact that the display dims at night at a time of your choosing. The same thing with the brightness returning. When I wake up to a bright display, I know that it is past 6am. While not a laboratory quality device, it gets the job done. | The customer wished that the product was made from a quality lab device |
+|  This unit has a very large and multi-colored display. When checking it against various sources, it is generally within tolerance. I particularly like the fact that the display dims at night at a time of your choosing. The same thing with the brightness returning. When I wake up to a bright display, I know that it is past 6am. While not a laboratory quality device, it gets the job done. | The customer wished that the product was made from a quality lab device  | The customer wished that the product was made from a quality lab device. |
 | | The customer is grateful that the device is within the tolerance level. |
 | | The customer is grateful that the device gets the job done. |
 
