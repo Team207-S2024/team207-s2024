@@ -1,10 +1,11 @@
 <style>
 table, th, td {
-  border: 1px solid white;
+  border: 2px;
+  border-color: #666666;
   border-collapse: collapse;
 }
 th, td {
-  background-color: #96D4D4;
+  background-color: #FFFFFF;
 }
 </style>
 
