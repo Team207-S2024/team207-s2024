@@ -55,6 +55,7 @@ convenience of your personal home weather station.
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -71,6 +72,7 @@ convenience of your personal home weather station.
   <td> The customer needs something that is easy to operate but without the cost of providing accurate data. </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -89,6 +91,8 @@ convenience of your personal home weather station.
   </tr>
 </table>
 </p>
+
+
 **Negative Comments:**
 <p align="left">
 <table>
@@ -108,6 +112,7 @@ convenience of your personal home weather station.
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -124,6 +129,7 @@ convenience of your personal home weather station.
   <td> The customer explicitly states that they need a calibration mode to fix these offsets. </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -142,6 +148,7 @@ convenience of your personal home weather station.
   </tr>
 </table>
 </p>
+
 
 ### Search 2
 
@@ -188,6 +195,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -204,6 +212,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td>The product’s design is good for the consumer to use. (latent)</td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -222,6 +231,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 </p>
+
 
 **Negative Comments:**
 
@@ -243,6 +253,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -259,6 +270,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> The product isn’t on-par with other competitive products. (latent) </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -277,6 +289,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 </p>
+
 
 ### Search 3
 
@@ -323,6 +336,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -339,6 +353,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs a product that is able to work in multiple areas to minimize accuracy. (Latent) </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -357,6 +372,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 </p>
+
 
 **Negative Comments:**
 
@@ -378,6 +394,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -395,6 +412,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -411,6 +429,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs much more accurate sensors. (Latent)  </td>
   </tr>
 </table>
+
 
 ### Search 4
 
@@ -436,37 +455,94 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Positive Comments:**
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| Easy to setup and install. Works great 😊 and seems to be very accurate on everything. I really like it and would recommend it to anyone looking to purchase a very good weather station. | Accessibility is a big plus |
-| | Accuracy matters |
-| | Ease of Use |
+<body>
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> Easy to setup and install. Works great 😊 and seems to be very accurate on everything. I really like it and would recommend it to anyone looking to purchase a very good weather station. </td>
+   	<td> Accessibility is a big plus </td>
+  </tr>
+  <tr>
+    <td> Accuracy matters </td>
+  </tr>
+  <tr>
+  <td> Ease of Use </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| This weather station is just awesome. I was upgrading from an old Oregon Scientific (10+ years old) where the sensors were giving out and replacements unavailable. This does everything well, and the range is very good as well. I have mine on my desk across the house from the windows that face the devices in our back yard. The display is bright, colorful, and has loads of info on it. Setup was pretty easy, and it actually came with a printed manual... a rarity these days! I was intrigued with the ultra-sonic wind gauge (no moving parts) and it appears to be more accurate than my old one with a traditional cup anemometer. It took me some time to figure out how to set the Absolute (Station) and Relative (Sea Level) but once I realized the indoor temp/pressure unit displayed absolute always, it was easy to make the Hg to Mb conversion and adjust the settings for ABS and REL in the display.
-I also got the lightning detector, but we haven't had any thunderstorms yet, so I have yet to see how it works. Totally happy with this purchase, and well worth going for the more expensive WS-5000. | Paper Manual is a plus and gives customers an easy way of troubleshooting |
-| | Lack of moving parts seems to be enjoyed by customers. |
-| | Good range is well liked by customers |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> This weather station is just awesome. I was upgrading from an old Oregon Scientific (10+ years old) where the sensors were giving out and replacements unavailable. This does everything well, and the range is very good as well. I have mine on my desk across the house from the windows that face the devices in our back yard. The display is bright, colorful, and has loads of info on it. Setup was pretty easy, and it actually came with a printed manual... a rarity these days! I was intrigued with the ultra-sonic wind gauge (no moving parts) and it appears to be more accurate than my old one with a traditional cup anemometer. It took me some time to figure out how to set the Absolute (Station) and Relative (Sea Level) but once I realized the indoor temp/pressure unit displayed absolute always, it was easy to make the Hg to Mb conversion and adjust the settings for ABS and REL in the display.
+I also got the lightning detector, but we haven't had any thunderstorms yet, so I have yet to see how it works. Totally happy with this purchase, and well worth going for the more expensive WS-5000. </td>
+   	<td> Paper Manual is a plus and gives customers an easy way of troubleshooting  </td>
+  </tr>
+  <tr>
+    <td> Lack of moving parts seems to be enjoyed by customers. </td>
+  </tr>
+  <tr>
+  <td> Good range is well liked by customers </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I got this to replace an old station that was basically the bane of my existence. This one actually works! I was able to get it hooked up to weather underground, and I haven't had any issues at all so far. I'm not looking forward to the day I need to change the batteries, but I do like that the display shows the signal strength and battery life. I wish I had just bought this one to start with. If you're going to climb up on your roof to install a weather station, get a good one. This one is a good one. That's my advice. | Although positive reviews, the dread of changing the battery shows that battery change must be tedious, which is something we want to avoid.  |
-| | Easy roof mounting capabilities. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> I got this to replace an old station that was basically the bane of my existence. This one actually works! I was able to get it hooked up to weather underground, and I haven't had any issues at all so far. I'm not looking forward to the day I need to change the batteries, but I do like that the display shows the signal strength and battery life. I wish I had just bought this one to start with. If you're going to climb up on your roof to install a weather station, get a good one. This one is a good one. That's my advice. </td>
+   	<td> Although positive reviews, the dread of changing the battery shows that battery change must be tedious, which is something we want to avoid.   </td>
+  </tr>
+  <tr>
+    <td> Easy roof mounting capabilities.</td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 
 **Negative Comments:**
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I had a Davis Vantage Vue that was accurate, reliable, built like a tank but the lack of being able to trend data, have any historical info didn’t exist. The very outdated console was also a big turn off. Now I’ve purchased the WS-5000. First impression was how small the components are compared to the Davis. Materials, especially ultrasonic wind and temp module seem vulnerable to bad weather events, we’ll see how they hold up over time. The not so good based on the high price of this station: No batteries included, no bird spikes included for rain cup, no battery back up for the console. Menu to set up the console proved a little frustrating as the learning curve on programming took a few minutes. Mounting: First the ultrasonic wind module has a wire for optional heating, it would be nice to be able to unplug this wire as I’m sure 98% of all purchasers won’t get this accessory. Instead you have to shove it in the mounting arm which makes it challenging to align the screw hole. I used a 10’ 1.25” aluminum pole mounted up on my shed. Hardware included was fine. So my sensor is now 18’ above ground and in an open space. Rain sensor, it’s only designed to mount at the top of a pole, very bad design as you want your wind sensor at the top. Really don’t understand this thought process. So now I can’t use the pole I had. Getting a second pole was not something I wanted to do. So I ended up mounting this on top of my garden structure about 6’ above the ground. Included hardware was fine. Also in the manual it notes a flashing led light at top of rain sensor indicates it’s sending a signal. On my example there was no indicator light. So either I got a sensor that this was missing or they haven’t updated there manual. You’ll see below the sensor worked, but made me question the quality of what I just purchased. Hardware and mounting I would give 3 stars, certainly room for improvement in options to mount. Time will tell if the components can withstand some minor hail and 100 degree days for months on end. The missing led indicator on the rain sensor was the only flaw that I noticed.Actual use of the system. Read the entire manual, plus one that a fully printed manual was included, something that is rare in todays world. I suggest you download there app and set up your account prior to starting this whole process. Of note it was at least one hour reading the manual and configuring the initial set up of the console. Rain and wind sensors were immediately recognized by the console, make sure to install the not included AA batteries into the sensors before turning on console. The display of the WS-5000 is 30 years forward of the Davis I had. The number of adjustments and ease of navigating once set up is best in class here. Major reason I switched out stations. Nice feature is the ability to turn off display so light it puts out at night doesn’t bother anyone. Major flaw though is no battery back up so when power goes out, which it will 2-3 times a year I’ll lose data and have to set it up again. Big omission in my opinion. That costs at least one star here. App: This is the best feature. You can see today, yesterday, last week, last month, with graphs for every measurement available and there are a lot! And at least you don’t have to pay a monthly fee. Although at this price your really paying up front. Overall after couple days of use: All measurements seem as accurate as the Davis. I will say the ultrasonic wind sensor is more accurate and picks up gusts that the Davis missed being mechanical vs. ultrasonic. Console is really nice but find I’m looking at the app much more frequently, this is do to all the extra data and trending graphs available, a good thing. I’m glad I made this purchase but hesitant on the long term durability of the components. I’ll come back after a year and provide an update. The only major flaw is the battery back up for the console, I knew before purchase this was the design. My only purpose in switching out was the ability to trend data and view status using mobil devices, this was a home run with this station. It’s very pricey but worth it if you want the most accurate wind data. If that is not as important many options at half this price are available. Update: June 2023 Less than a year of use and the outdoor temp sensor went bad, downgrading the rating as for the price this is unacceptable. Also without battery backup I’ve lost valuable data during storms, the very time you want to record max rain and wind. Update: Called Ambient for warranty, rude, condescending, talked over me. Must ship back at my expense, if they determine its bad they'll send one out, sometime, no time frame. Outdoor temp sensor is one part with ultrasonic wind sensor. What a poor design. Will never purchase anything from Ambient again. | IN-depth customer complaint about unneeded clutter that comes with product despite attachment being optional |
-| | Menu seems complicated so non-tech savvy people might have some trouble with starting up the product. Also customer notes inaccurate manual setup, as there was no light present on the product despite manual statement. |
-| | Biggest complaint is component lifespan. The device seems to be fragile and certain components might give out after extensive use even after a short amount of time. |
+<body>
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3">  I had a Davis Vantage Vue that was accurate, reliable, built like a tank but the lack of being able to trend data, have any historical info didn’t exist. The very outdated console was also a big turn off. Now I’ve purchased the WS-5000. First impression was how small the components are compared to the Davis. Materials, especially ultrasonic wind and temp module seem vulnerable to bad weather events, we’ll see how they hold up over time. The not so good based on the high price of this station: No batteries included, no bird spikes included for rain cup, no battery back up for the console. Menu to set up the console proved a little frustrating as the learning curve on programming took a few minutes. Mounting: First the ultrasonic wind module has a wire for optional heating, it would be nice to be able to unplug this wire as I’m sure 98% of all purchasers won’t get this accessory. Instead you have to shove it in the mounting arm which makes it challenging to align the screw hole. I used a 10’ 1.25” aluminum pole mounted up on my shed. Hardware included was fine. So my sensor is now 18’ above ground and in an open space. Rain sensor, it’s only designed to mount at the top of a pole, very bad design as you want your wind sensor at the top. Really don’t understand this thought process. So now I can’t use the pole I had. Getting a second pole was not something I wanted to do. So I ended up mounting this on top of my garden structure about 6’ above the ground. Included hardware was fine. Also in the manual it notes a flashing led light at top of rain sensor indicates it’s sending a signal. On my example there was no indicator light. So either I got a sensor that this was missing or they haven’t updated there manual. You’ll see below the sensor worked, but made me question the quality of what I just purchased. Hardware and mounting I would give 3 stars, certainly room for improvement in options to mount. Time will tell if the components can withstand some minor hail and 100 degree days for months on end. The missing led indicator on the rain sensor was the only flaw that I noticed.Actual use of the system. Read the entire manual, plus one that a fully printed manual was included, something that is rare in todays world. I suggest you download there app and set up your account prior to starting this whole process. Of note it was at least one hour reading the manual and configuring the initial set up of the console. Rain and wind sensors were immediately recognized by the console, make sure to install the not included AA batteries into the sensors before turning on console. The display of the WS-5000 is 30 years forward of the Davis I had. The number of adjustments and ease of navigating once set up is best in class here. Major reason I switched out stations. Nice feature is the ability to turn off display so light it puts out at night doesn’t bother anyone. Major flaw though is no battery back up so when power goes out, which it will 2-3 times a year I’ll lose data and have to set it up again. Big omission in my opinion. That costs at least one star here. App: This is the best feature. You can see today, yesterday, last week, last month, with graphs for every measurement available and there are a lot! And at least you don’t have to pay a monthly fee. Although at this price your really paying up front. Overall after couple days of use: All measurements seem as accurate as the Davis. I will say the ultrasonic wind sensor is more accurate and picks up gusts that the Davis missed being mechanical vs. ultrasonic. Console is really nice but find I’m looking at the app much more frequently, this is do to all the extra data and trending graphs available, a good thing. I’m glad I made this purchase but hesitant on the long term durability of the components. I’ll come back after a year and provide an update. The only major flaw is the battery back up for the console, I knew before purchase this was the design. My only purpose in switching out was the ability to trend data and view status using mobil devices, this was a home run with this station. It’s very pricey but worth it if you want the most accurate wind data. If that is not as important many options at half this price are available. Update: June 2023 Less than a year of use and the outdoor temp sensor went bad, downgrading the rating as for the price this is unacceptable. Also without battery backup I’ve lost valuable data during storms, the very time you want to record max rain and wind. Update: Called Ambient for warranty, rude, condescending, talked over me. Must ship back at my expense, if they determine its bad they'll send one out, sometime, no time frame. Outdoor temp sensor is one part with ultrasonic wind sensor. What a poor design. Will never purchase anything from Ambient again. </td>
+   	<td> IN-depth customer complaint about unneeded clutter that comes with product despite attachment being optional   </td>
+  </tr>
+  <tr>
+    <td> Menu seems complicated so non-tech savvy people might have some trouble with starting up the product. Also customer notes inaccurate manual setup, as there was no light present on the product despite manual statement. </td>
+  </tr>
+  <tr>
+  <td> Biggest complaint is component lifespan. The device seems to be fragile and certain components might give out after extensive use even after a short amount of time. </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| So I bought this unit when moving to a new house to replace my ws-1001 that always seemed to lose contact with Wifi. Now in new house with the 5000 and its the same issue. Seems that must be using a wifi antenna module from like 2005 and still havent updated it. ITs 2023 not 2005, I shouldnt be having these wifi issues. My wifi reaches 2 houses down in both directions and there is complete full signal where the console is. This is unacceptable. Before the wifi stopped working it also stopped reporting to Weather Underground directly. had to work around it by putting in the ambient weather webpage interface. But soon after the wifi stopped connecting and will not reconnect no matter how much you restart the router or the console.Another HUGE thing is the supposedly updated aenometer. Its supposed to be more accurate but is exactly the same as the cupped version. Complete snake oil BS. Final note. I have owned several ambient weather products and all have performed poorly or almost not at all. Do not buy anything from this company. | Poor wifi capability despite product claims, using outdated wifi module which leads to poor performance. |
-| | Anemometer is also outdated despite product claims, overall product may have outdated components |
-| | Customer claims that they had to do a web page workaround due to the device not being able to access Weather Underground directly, which is the main advertisement of the device. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> So I bought this unit when moving to a new house to replace my ws-1001 that always seemed to lose contact with Wifi. Now in new house with the 5000 and its the same issue. Seems that must be using a wifi antenna module from like 2005 and still havent updated it. ITs 2023 not 2005, I shouldnt be having these wifi issues. My wifi reaches 2 houses down in both directions and there is complete full signal where the console is. This is unacceptable. Before the wifi stopped working it also stopped reporting to Weather Underground directly. had to work around it by putting in the ambient weather webpage interface. But soon after the wifi stopped connecting and will not reconnect no matter how much you restart the router or the console.Another HUGE thing is the supposedly updated aenometer. Its supposed to be more accurate but is exactly the same as the cupped version. Complete snake oil BS. Final note. I have owned several ambient weather products and all have performed poorly or almost not at all. Do not buy anything from this company.  </td>
+   	<td> Poor wifi capability despite product claims, using outdated wifi module which leads to poor performance. </td>
+  </tr>
+  <tr>
+    <td> Anemometer is also outdated despite product claims, overall product may have outdated components </td>
+  </tr>
+  <tr>
+  <td>  Customer claims that they had to do a web page workaround due to the device not being able to access Weather Underground directly, which is the main advertisement of the device.  </td>
+  </tr>
+</table>
 
 | Review | Customer Need Notes |
 |-------|------------------------|
