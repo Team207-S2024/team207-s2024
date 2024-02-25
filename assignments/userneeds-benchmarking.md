@@ -712,11 +712,11 @@ Finally, the group began the process of judging each need by an objective rank. 
 
 <table>
   <tr>
-   <td>Need
+   <td> <b>Need</b>
    </td>
-   <td>Group
+   <td> <b>Group</b>
    </td>
-   <td>Rank
+   <td> <b>Rank</b>
    </td>
   </tr>
   <tr>
