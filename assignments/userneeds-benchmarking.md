@@ -36,7 +36,7 @@ and wind speed measures indoor/outdoor temperature and humidity, wind speed/dire
 convenience of your personal home weather station.
 
 **Positive Comments:**
-<html>
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -89,7 +89,6 @@ convenience of your personal home weather station.
 </table>
 
 **Negative Comments:**
-<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -140,7 +139,6 @@ convenience of your personal home weather station.
   <td> The customer needs a product that has an overall better design that takes into account other weather anomalies. </td>
   </tr>
 </table>
-</html>
 
 ### Search 2
 
@@ -169,7 +167,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Positive Comments:**
 
-<html>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -273,7 +270,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> The design of the mechanics of the product is good, but the software is less good. (explicit) </td>
   </tr>
 </table>
-</html>
 
 ### Search 3
 
@@ -303,7 +299,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Positive Comments:**
 
-<html>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -407,7 +402,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs much more accurate sensors. (Latent)  </td>
   </tr>
 </table>
-</html>
 
 ### Search 4
 
