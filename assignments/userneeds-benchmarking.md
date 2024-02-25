@@ -2,9 +2,9 @@
 
 ## Voice of the Customer Benchmarking
 
-The team chose to begin figuring out what needs that the product would require to be successful by studying multiple other
-commercial products, and exhaustively note their pros and cons. With this knowledge written out, it would make the process 
-of creating and organizing the user needs of this project significantly easier. The format was created in order to organize 
+The team chose to begin figuring out what needs the product would require to be successful by studying multiple other
+commercial products, and exhaustively noting their pros and cons. With this knowledge written out, it would make the process 
+of creating and organizing the user needs of this project significantly easier. The format was created to organize 
 the data in as digestible way as possible. 
 
 ### Search 1
