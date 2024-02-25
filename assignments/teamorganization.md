@@ -25,8 +25,6 @@ The mission of the team is to create a sensor-based weather reporting product th
 <p align="center">
 Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page.
 </p>
-
-<div align="center">
   
 | Name  | First Choice | Second Choice | Third Choice | 
 | ------------- | ------------- | ------------- | ------------- | 
@@ -34,8 +32,6 @@ Table 1: Team Member Communication Modes. Note that sensitive information is red
 | Michaela De Angelis Werner | Discord | Phone | Email|
 | Isaac D. Linares | Discord | Phone | Email |
 | Jonathan Elijah Sales | Discord | 
-  
-</div>
 
 ## Communication Procedures
 As each member had Discord as their first choice of communication, it’s to be assumed that most if not all correspondence
@@ -58,8 +54,6 @@ an hour or so late in case people in the group will have prior engagements.
 Table 2: A list of roles and responsibilities that each member has currently pledged to.
 </p>
 
-<div align="center">
-
 | Role | Name | Duties |
 | ------------- | ------------- | ------------- |
 | Meeting Leader | Manuel Garcia | The meeting leader is responsible for scheduling meetings, and getting everyone on track with what needs to get done. Effectively, they will be the ones in charge of each meeting. |
@@ -67,14 +61,12 @@ Table 2: A list of roles and responsibilities that each member has currently ple
 | Assignment Manager | Isaac Linares | The assignment manager will keep track of and remind others of upcoming due dates. They will also make sure assignments are formatted correctly and handle submissions. |
 | Meeting Recorder | Jonathan Elijah Sales | The meeting recorder, or logkeeper, is in charge of taking notes during meetings and updating it with new notes for each meeting. |
 
-</div>
-
 ### Role and Responsibility Accountability Procedure
 
 While there are set roles for each person to accomplish, it’s to be expected that each member of the group will do their 
 best to be responsible for their individual assignments and complete them on time without having to be repeatedly
 reminded to either complete their work or to upload it to the Google Drive. Outside of the roles stated above, each person 
-still has the responsibility to their work to complete on time. 
+still has a responsibility to complete their work on time. 
 
 ## Team Coordination and Accountability
 
