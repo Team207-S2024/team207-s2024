@@ -182,9 +182,17 @@ Refer to [Appendix E: Selected Design](selecteddesign) for further information a
 
 ## Block Diagram
 
-Once the team decided on a design to move forward with, it became time to 
+Once the team decided on a concept to move forward with, it became time to determine how the entire project would fit together within the technical requirements of the project. Thus, the group created a block diagram to hash out a basic concept of how everything would fit together on a technical level. It began with a rough idea, but once components were selected and finalized, the group was able to select what pins were necessary for each component to communicate with one another, as can be seen below.
 
-Refer to [Appendix F: Component Selection](componentselection) for further information.
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/3dd5a8ab-1391-4818-83de-0e93be987333" />
+</p>
+
+<p align="center">
+  <i>Figure 10: Current Block Diagram of the project. </i>
+</p>
+
+Refer to [Appendix F: Component Selection](componentselection) for further information, such as a step-by-step breakdown of each component and its overall function within the project.
 
 ## Component Selection
 
