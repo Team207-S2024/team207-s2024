@@ -36,7 +36,7 @@ and wind speed measures indoor/outdoor temperature and humidity, wind speed/dire
 convenience of your personal home weather station.
 
 **Positive Comments:**
-
+<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -87,9 +87,9 @@ convenience of your personal home weather station.
   <td> The customer needs a product that is easy to set up. </td>
   </tr>
 </table>
-
+</p>
 **Negative Comments:**
-
+<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -140,6 +140,7 @@ convenience of your personal home weather station.
   <td> The customer needs a product that has an overall better design that takes into account other weather anomalies. </td>
   </tr>
 </table>
+</p>
 
 ### Search 2
 
@@ -167,7 +168,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 （NOTE:Turn only 1 quarter to left to get the battery open, and sometime you need Tap the battery cover to open it (...)
 
 **Positive Comments:**
-
+<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -218,10 +219,10 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> Based on the lack of an update, the product is hardy enough to be used extensively. (explicit)</td>
   </tr>
 </table>
-
+</p>
 
 **Negative Comments:**
-
+<p align="left">
 <table>
   <tr>
   <th style="width:60%"><b>Review</b></th>
@@ -272,6 +273,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> The design of the mechanics of the product is good, but the software is less good. (explicit) </td>
   </tr>
 </table>
+</p>
 
 ### Search 3
 
@@ -300,24 +302,58 @@ your exact locationAtomic clock updates time for consistent accuracy and no manu
 Durable, weather resistant construction. Strong signal penetration (enhanced 433 MHz)
 
 **Positive Comments:**
+<p align="left">
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> I learned that you could spend a lot of money for one for a serious weather hobbyist, and probably get complexity that isn't wanted or needed. This little unit is GOOD, for a beginner who might want to move up later, and for someone who just wants to see a solid, basic weather system that gives a good introduction to reading the weather right at home. The receiving unit is well made, easy to read, and has buttons big enough for our arthritic old fingers. The manual is complete and easy to understand. Installation is quick and not complicated. I installed where my wife wanted it, wondering if it might suffer from electrical interference, and saw good steady readings on the meter that agreed with our other indoor/outdoor thermometers. The wind and pressure readings are fine, with the understanding that this old man is not about to place it high enough to escape wind interferences of our houses, or replace batteries when needed. </td>
+   	<td> The customer needs a product that is easy to use (Latent) </td>
+  </tr>
+  <tr>
+    <td> The customer needs a well designed product in terms of build quality and aesthetics. (Latent) </td>
+  </tr>
+  <tr>
+  <td> The customer needs a device that is easy to set up and provides less hassle. (Latent) </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I learned that you could spend a lot of money for one for a serious weather hobbyist, and probably get complexity that isn't wanted or needed. This little unit is GOOD, for a beginner who might want to move up later, and for someone who just wants to see a solid, basic weather system that gives a good introduction to reading the weather right at home. The receiving unit is well made, easy to read, and has buttons big enough for our arthritic old fingers. The manual is complete and easy to understand. Installation is quick and not complicated. I installed where my wife wanted it, wondering if it might suffer from electrical interference, and saw good steady readings on the meter that agreed with our other indoor/outdoor thermometers. The wind and pressure readings are fine, with the understanding that this old man is not about to place it high enough to escape wind interferences of our houses, or replace batteries when needed. | The customer needs a product that is easy to use (Latent)  |
-| | The customer needs a well designed product in terms of build quality and aesthetics. (Latent) |
-| | The customer needs a device that is easy to set up and provides less hassle. (Latent) |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> Bought as a unique gift for my science-loving, techie husband. Installed on the garage roof. Easy to set up the monitor. Very accurate. We took it down when we rebuilt the garage. I missed having it!Be sure to install in an open area where wind and weather pass by the sensor. Accuracy depends on correct sensor installation. </td>
+   	<td> Customer needs a product that is easy to use (Latent) </td>
+  </tr>
+  <tr>
+    <td> The Customer needs a product that is accurate when reading data. (Latent) </td>
+  </tr>
+  <tr>
+  <td> The customer needs a product that is able to work in multiple areas to minimize accuracy. (Latent) </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| Bought as a unique gift for my science-loving, techie husband. Installed on the garage roof. Easy to set up the monitor. Very accurate. We took it down when we rebuilt the garage. I missed having it!Be sure to install in an open area where wind and weather pass by the sensor. Accuracy depends on correct sensor installation. | Customer needs a product that is easy to use (Latent)  |
-| | The Customer needs a product that is accurate when reading data. (Latent) |
-| | The customer needs a product that is able to work in multiple areas to minimize accuracy.. (Latent) |
-
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I have had one for a few years and love it. I bought this one as a gift for my son-in-law. He loves it. The forecasting works great. He lives where it gets down to -40 and it still works. Just make sure you use lithium batteries for the outside unit. I gave it 4 stars because the display unit is not backlit. However it works so well that I would buy it again regardless. | The Customer needs a product that has good battery life (Latent) |
-| | Customer needs a display with a back light. (Explicit) |
-| | The customer needs a device that is able to forecast weather.  (Latent) |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3">  I have had one for a few years and love it. I bought this one as a gift for my son-in-law. He loves it. The forecasting works great. He lives where it gets down to -40 and it still works. Just make sure you use lithium batteries for the outside unit. I gave it 4 stars because the display unit is not backlit. However it works so well that I would buy it again regardless. </td>
+   	<td> The Customer needs a product that has good battery life (Latent) </td>
+  </tr>
+  <tr>
+    <td> Customer needs a display with a back light. (Explicit) </td>
+  </tr>
+  <tr>
+  <td> The customer needs a device that is able to forecast weather.  (Latent) </td>
+  </tr>
+</table>
+</p>
 
 **Negative Comments:**
 
