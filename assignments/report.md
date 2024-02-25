@@ -43,24 +43,24 @@ for further information about our team organization and team decisions.
 
 ### Team Charter
 
-The team decided on the charter fairly late, but eventually came to an agreement on what everyone wanted
+The team decided on the charter fairly late but eventually came to an agreement on what everyone wanted
 for the group in terms of personal goals.
 
 _Our goal is to gain knowledge in digital circuits that utilize serial communication. 
-We as a team want this product to be compared to other professional grade devices being sold on the market._
+We as a team want this product to be compared to other professional-grade devices being sold on the market._
 
 ### Mission Statment
 
-After talking with eachother about one another's interests, the team began to determine what the project
+After talking with each other about one another's interests, the team began to determine what the project
 needed to have as well as what each individual member wanted it to have. 
 
 _The mission of the team is to create a sensor-based weather reporting product that is unique, portable, 
-professional, reliable, and user friendly. It is something that should be focused on that a person can easily
-use and install themselves, and is relatively simple to collect data from, along with contingency plans in case things go awry._
+professional, reliable, and user-friendly. It is something that should be focused on that a person can easily
+use and install themselves and is relatively simple to collect data from, along with contingency plans in case things go awry._
 
 ## User Needs
 
-The team worked exceptionally hard at identifying and deciphering the user needs necessary for a successful project, which included research into similar products that used the name of what the project is as tags. Each team member created at least one setup for a product and 3 positive/negative reviews for each product, with comments on what user needs that could be derived from each review. Once each member was done, members contributed to a Jamboard with each user need derived from the research as well as ideas that members came up with. It involved multiple days of back and forth, from creating to grouping to ranking the needs. Finally, the user needs were consolidated into an easy to read table ranked all together. 
+The team worked exceptionally hard at identifying and deciphering the user needs necessary for a successful project, which included research into similar products that used the name of what the project is as tags. Each team member created at least one setup for a product and 3 positive/negative reviews for each product, with comments on what user needs that could be derived from each review. Once each member was done, members contributed to a Jamboard with each user need deriving from the research as well as ideas that members came up with. It involved multiple days of back and forth, from creating to grouping to ranking the needs. Finally, the user needs were consolidated into an easy-to-read table ranked all together. 
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/2ac812a8-3b55-4e04-ae91-dae0052d43f2" </>
@@ -96,7 +96,7 @@ for further information about the brainstorming the team did for this assignment
 
 ## Design Ideation
 
-The design ideation process involved looking back at the user needs and turning them into functions a product could have, and putting them onto a Jamboard for a visual representation. Once finished, people grouped them according to an overall general functionality. Finally, people developed 3 distinct ideas in order to figure out a concrete idea going forward.
+The design ideation process involved looking back at the user needs, turning them into functions a product could have, and putting them onto a Jamboard for a visual representation. Once finished, people grouped them according to an overall general functionality. Finally, people developed 3 distinct ideas in order to figure out a concrete idea going forward.
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/c6f79873-33ad-46b4-95e5-f77cf2fe6bc5" />
@@ -136,32 +136,53 @@ The Fishing Box Plus Weather Balloon (Name Subject to Change) is a set of sensor
 
 ### GPS + Cat Collar
 
-The GPS Plus Cat Collar (Name Subject to Change) is a cat collar with sensors for humidity and temperature installed onto it, as well as a location tracker. The purpose of the device is to see where feral/outdoor cats go in order to keep warm and dry/comfy. How it works is you capture a feral/outdoor cat, put the collar on, and then let them free. It will then begin autonomously tracking the cat and where it goes, namely it’s most common hideouts are. Then, when the cat gets near ‘homebase’ (as in, when the collar can connect to a server through Wifi), it will then transmit what data it stored onto the server in a readable format, by parsing through the sensor/tracking data. If in the event where the user doesn’t want the cat to wear the device any more, and its in the area, they can put out a radio/Wifi signal that will unlock the collar through a motorized locking system. 
+The GPS Plus Cat Collar (Name Subject to Change) is a cat collar with sensors for humidity and temperature installed onto it, as well as a location tracker. The purpose of the device is to see where feral/outdoor cats go to keep warm and dry/comfy. How it works is you capture a feral/outdoor cat, put the collar on, and then let them free. It will then begin autonomously tracking the cat and where it goes, namely its most common hideouts. Then, when the cat gets near the ‘home base’ (as in, when the collar can connect to a server through Wifi), it will then transmit what data it stored onto the server in a readable format, by parsing through the sensor/tracking data. If in the event where the user doesn’t want the cat to wear the device anymore, and it's in the area, they can put out a radio/Wifi signal that will unlock the collar through a motorized locking system. 
 
-![image6](https://github.com/Team207-S2024/team207-s2024/assets/156377035/1fd00c4e-63b4-4b71-bf99-68123fe1c7a1)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1fd00c4e-63b4-4b71-bf99-68123fe1c7a1" />
+</p>
 
-_Figure 7: Visual Representation of GPS Plus Cat Collar_
+<p align="center">
+  <i>Figure 7: Visual Representation of GPS Plus Cat Collar</i>
+</p>
 
-![image4](https://github.com/Team207-S2024/team207-s2024/assets/156377035/79927f99-460f-4052-906a-408744bbc65d)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/79927f99-460f-4052-906a-408744bbc65d" />
+</p>
 
-_Figure 7a: .svg Version of a Visual Representation (will be provided in .zip)_
+<p align="center">
+  <i>Figure 7a: .svg Version of a Visual Representation</i>
+</p>
 
 ### Optimal Sunlight for a Plant
 
-This device would feature a sensor that is able to detect temperature and humidity levels which would then send data over to the stand, the stand, which is controlled by a motor mechanism would then move the plant sitting inside the pot to the optimal position to either increase or decrease the received sunlight by the plant. The device could also send over data via wifi and alert the user with weather conditions such as temperature and humidity and update the user on the life of their plant.  
+This device would feature a sensor that can detect temperature and humidity levels which would then send data over to the stand, the stand, which is controlled by a motor mechanism would then move the plant sitting inside the pot to the optimal position to either increase or decrease the received sunlight by the plant. The device could also send over data via wifi to alert the user of weather conditions such as temperature and humidity and update the user on the life of the plant.  
 
-![image2](https://github.com/Team207-S2024/team207-s2024/assets/156377035/eae8ae64-4bde-4a5f-b422-1e579a1550ce)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/eae8ae64-4bde-4a5f-b422-1e579a1550ce" />
+</p>
 
-_Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight_
+<p align="center">
+  <i>Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight</i>
+</p>
 
 Refer to [Appendix D: Design Ideation Assignment](designideation)
-for further information.
+for further information about the design ideation process.
 
 ## Selected Design
 
-Refer to [Appendix E: Selected Design](selecteddesign) for further information.
+The selected design was [Optimal Sunlight for a Plant](#optimal-sunlight-for-a-plant), but expanded upon. For one, the movement of the plant was decided to be put on a belt-like system, where it would move along on a platform placed on treads based on the temperature/humidity sensors. It would also move to and from a shaded area based on a comparison of the sensor data. For the temperature, it would check the temperature of the area, and determine whether it would be too hot or too cold for the plant. For the humidity, it would check the soil for if it was too wet or dry, and move based on that data. In addition, it was determined a good way of utilizing the ESP32 requirement would be to signal over WiFi if the plant needed watering or not. 
+The plan is for this to not only be mobile in terms of the device moving something but also be lightweight enough for a user to position this where they need to as well as using batteries so it doesn't need to be tied down anywhere. 
+
+<p align="center">
+  <i>Figure 9: Solidworks Drawing of a Mobile Plant Caretaker</i>
+</p>
+
+Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
 
 ## Block Diagram
+
+Once the team decided on a design to move forward with, it became time to 
 
 Refer to [Appendix F: Component Selection](componentselection) for further information.
 
