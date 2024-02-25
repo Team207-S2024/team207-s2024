@@ -510,7 +510,10 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
     <td> Anemometer is also outdated despite product claims, overall product may have outdated components </td>
   </tr>
   <tr>
-  <td>  Customer claims that they had to do a web page workaround due to the device not being able to access Weather Underground directly, which is the main advertisement of the device.  </td>
+    <td>  Customer claims that they had to do a web page workaround due to the device not being able to access Weather Underground directly, which is the main advertisement of the device.  </td>
+  </tr>
+   <tr>
+    <td>  Customer had prior experience with competitive products. </td>
   </tr>
 </table>
 
