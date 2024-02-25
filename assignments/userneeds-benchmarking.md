@@ -1,3 +1,13 @@
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+
 # User Needs and Benchmarking
 
 ## Voice of the Customer Benchmarking
