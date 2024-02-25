@@ -1,7 +1,6 @@
 <style>
 table, th, td {
-  border: 2px;
-  border-color: #666666;
+  border: 2px solid black;
   border-collapse: collapse;
 }
 th, td {
