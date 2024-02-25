@@ -13,9 +13,13 @@ the data in as digestible way as possible.
 
 **Link:** [https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_7?crid=23XUXRABQVI46&keywords=Portable%2Bweather%2Bstation&qid=1705120001&sprefix=portable%2Bweather%2Bstation%2Caps%2C135&sr=8-7&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1)
 
-![portable weather station](https://github.com/Team207-S2024/team207-s2024/assets/156377035/a84367e8-db4d-4b34-aa30-2d3617422c69)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a84367e8-db4d-4b34-aa30-2d3617422c69" />
+</p>
 
-_Figure 1: Portable Weather Station_
+<p align="center">
+  <i>Figure 1: Portable Weather Station</i>
+</p>
 
 **Title:** sainlogic Wireless Weather Station with Outdoor Sensor, 8-in-1 Weather Station with Weather Forecast, 
 Temperature, Air Pressure, Humidity, Wind Gauge, Rain Gauge, Moon Phase, Alarm Clock (No WiFi)
@@ -143,9 +147,13 @@ convenience of your personal home weather station.
 
 **Link:** [https://www.amazon.com/Anemometer-Handheld-Digital-Measuring-Shooting/dp/B09V51H1BG/ref=sr_1_3?crid=35AEOILGZXRVK&keywords=weather%2Bballoon%2Bsensors&qid=1705263202&sprefix=weather%2Bballoon%2Bsensors%2Caps%2C124&sr=8-3&th=1](https://www.amazon.com/Anemometer-Handheld-Digital-Measuring-Shooting/dp/B09V51H1BG/ref=sr_1_3?crid=35AEOILGZXRVK&keywords=weather%2Bballoon%2Bsensors&qid=1705263202&sprefix=weather%2Bballoon%2Bsensors%2Caps%2C124&sr=8-3&th=1)
 
-![wind cup anemometer handheld](https://github.com/Team207-S2024/team207-s2024/assets/156377035/e3152301-64f0-440d-a0e7-34fc362011d4)
+<p align="center">
+<img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e3152301-64f0-440d-a0e7-34fc362011d4" />
+</p>
 
-_Figure 2: Wind Cup Anemometer Handheld_
+<p align="center">
+<i> Figure 2: Wind Cup Anemometer Handheld </i>
+</p>
 
 **Title:** Wind Cup Anemometer Handheld, AP-876 Pocket Anemometer with 360° Wind Sensor Air Speed Meter
 for Measuring Air Speed Temp Air Volume for HVAC Vents Boat Sailing Shooting
@@ -240,9 +248,13 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Link:** [https://www.amazon.com/AcuRite-00638A2-Wireless-Weather-Station/dp/B004V1XJIE/ref=sr_1_8?crid=1QDFXR2SQ2S2L&keywords=portable%2Bweather%2Bstation&qid=1705290019&sprefix=portable%2Bweather%2Bstation%2Caps%2C132&sr=8-8&th=1](https://www.amazon.com/AcuRite-00638A2-Wireless-Weather-Station/dp/B004V1XJIE/ref=sr_1_8?crid=1QDFXR2SQ2S2L&keywords=portable%2Bweather%2Bstation&qid=1705290019&sprefix=portable%2Bweather%2Bstation%2Caps%2C132&sr=8-8&th=1)
 
-![portable weather station](https://github.com/Team207-S2024/team207-s2024/assets/156377035/55abf9a1-568b-4bc6-839d-bda4f27c6b15)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/55abf9a1-568b-4bc6-839d-bda4f27c6b15" />
+</p>
 
-_Figure 3: Portable weather station_
+<p align="center">
+  <i>Figure 3: Portable weather station</i>
+</p>
 
 **Title:** AcuRite Notos (3-in-1) Weather Station with Wind, Temperature, and Humidity (00638A3), Black and Metal
 
@@ -335,9 +347,13 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Link:** [https://www.amazon.com/Ambient-Weather-WS-5000-Ultrasonic-Professional/dp/B087V6N5WZ/ref=sr_1_1_sspa?hvadid=580673092070&hvdev=c&hvlocphy=9030021&hvnetw=g&hvqmt=e&hvrand=13114388065935548208&hvtargid=kwd-1067044512867&hydadcr=16497_13416254&keywords=ambient%2Bweather%2Bws%2B5000&qid=1705361935&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1](https://www.amazon.com/Ambient-Weather-WS-5000-Ultrasonic-Professional/dp/B087V6N5WZ/ref=sr_1_1_sspa?hvadid=580673092070&hvdev=c&hvlocphy=9030021&hvnetw=g&hvqmt=e&hvrand=13114388065935548208&hvtargid=kwd-1067044512867&hydadcr=16497_13416254&keywords=ambient%2Bweather%2Bws%2B5000&qid=1705361935&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
-![portable weather station](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0e2c314f-083c-41f6-be3b-281c38076877)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0e2c314f-083c-41f6-be3b-281c38076877" />
+</p>
 
-_Figure 4: Portable Weather Station_
+<p align="center">
+  <i>Figure 4: Portable Weather Station</i>
+</p>
 
 **Title:** Ambient Weather WS-5000 Ultrasonic Smart Weather Station
 
@@ -393,9 +409,13 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
 
 **Link:** [Amazon.com: La Crosse Technology S82967 Wireless Digital Personal Weather Station : Patio, Lawn & Garden](https://www.amazon.com/Crosse-Technology-S82967-INT-Wireless-Personal/dp/B0833DB72S/ref=sr_1_18?crid=172NDXL3BILT3&dib=eyJ2IjoiMSJ9.BYrKYN9fxgnHYY3aPbn2q4w3QGQ-03KoQG-skGHTeiMDAEUpQOJ3xf6RSoxQTV0qDyA3DQCyfeXcKtEXkzHF9E0Ozh3kyCBX5P4MPdXVUFAv3WjUGD9vLn5FgGaOWt7r4ouYzCZdBl17gRsuGkaoYUzXGFhFXwJ-A6HV6HA72HETmUv3fptZtdp1X1biegNbA6gAarIan6mfBuHPaQol2W0koaRmxHNHXTR48-i9O1g.G1vIMFMsGpEKUkbv_HYdVtnvJezdBprYy6L2ygE7sWw&dib_tag=se&keywords=portable+weather+station&qid=1705373678&sprefix=portable+wea%2Caps%2C172&sr=8-18)
 
-![wireless digital personal weather station](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0af66394-500f-4795-bdfd-48f855e9e2aa)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0af66394-500f-4795-bdfd-48f855e9e2aa" />
+</p>
 
-_Figure 5: Wireless Digital Personal Weather Station_
+<p align="center">
+  <i>Figure 5: Wireless Digital Personal Weather Station</i>
+</p>
 
 **Title:** La Crosse Technology S82967 Wireless Digital Personal Weather Station
 
@@ -454,33 +474,47 @@ The group made a decision to begin processing the list of needs through a shared
 
 The group began brainstorming needs on the Jamboard, throwing concepts at the theoretical wall to see what would stick. The board would be crucial in compiling a more solid idea with regards to what the group would want to do for this project. 
 
-![finished jamboard](https://github.com/Team207-S2024/team207-s2024/assets/156377035/2ac812a8-3b55-4e04-ae91-dae0052d43f2)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/2ac812a8-3b55-4e04-ae91-dae0052d43f2" />
+</p>
 
-_Figure 6: Finished Jamboard Page of User Needs_
+<p align="center">
+  <i>Figure 6: Finished Jamboard Page of User Needs</i>
+</p>
 
 ### Grouping Needs
 
 Once the set of needs was completed, the team began to group the needs in the following categories: Safety, Manufacturing, Hardware/Product Design, Customizability, Interactivity/User Experience, and Software Functionality. Note that many of the needs could have filled out multiple different sections, and it was up to the individual grouping them to discern the best one out of them.
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/f76e13a6-ce90-4a6b-9a01-4b5c41783925" />
+</p>
 
-![finished jamboard groups](https://github.com/Team207-S2024/team207-s2024/assets/156377035/f76e13a6-ce90-4a6b-9a01-4b5c41783925)
-
-_Figure 7: Finished Jamboard Page of the Groups of Needs_
+<p align="center">
+  <i>Figure 7: Finished Jamboard Page of the Groups of Needs</i>
+</p>
 
 
 ### Ranking Needs
 
 As soon as the needs were sufficiently grouped in a way all group members could agree upon, the lists were further organized by ranking each need in each category in order of importance- 3 stars for the most important, 1 stars for the least important. 
 
-![finished jamboard rankings](https://github.com/Team207-S2024/team207-s2024/assets/156377035/f3bcb418-bae8-489a-8c10-d187e2fbfd16)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/f3bcb418-bae8-489a-8c10-d187e2fbfd16" />
+</p>
 
-_Figure 8: Finished Jamboard Page for Ranking Needs_
+<p align="center">
+  <i>Figure 8: Finished Jamboard Page for Ranking Needs</i>
+</p>
 
 ### Compiled List of Needs
 
 Finally, the group began the process of judging each need by an objective rank. While it was difficult to do, both from being an objectively tedious task as well as the layers of subjectivity for each group, it was necessary in order to decipher the best course of action going forward. 
 
-Table 1: Compiled List of User Needs
+<p align="center">
+  Table 1: Compiled List of User Needs
+</p>
 
+<div align="center">
 <table>
   <tr>
    <td>Need
@@ -1291,3 +1325,4 @@ Table 1: Compiled List of User Needs
    </td>
   </tr>
 </table>
+</div>
