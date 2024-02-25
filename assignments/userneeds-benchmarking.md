@@ -514,7 +514,6 @@ Finally, the group began the process of judging each need by an objective rank. 
   Table 1: Compiled List of User Needs
 </p>
 
-<div align="center">
 <table>
   <tr>
    <td>Need
@@ -1325,4 +1324,3 @@ Finally, the group began the process of judging each need by an objective rank. 
    </td>
   </tr>
 </table>
-</div>
