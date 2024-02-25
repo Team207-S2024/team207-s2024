@@ -23,7 +23,7 @@ The mission of the team is to create a sensor-based weather reporting product th
 ## Communication Channels
 
 <p align="center">
-<i>Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page.</i>
+Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page.
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@ an hour or so late in case people in the group will have prior engagements.
 ## Roles and Responsibilities
 
 <p align="center">
-<i>Table 2: A list of roles and responsibilities that each member has currently pledged to.</i>
+Table 2: A list of roles and responsibilities that each member has currently pledged to.
 </p>
 
 <div align="center">
