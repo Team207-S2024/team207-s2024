@@ -169,6 +169,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Positive Comments:**
 
+<html>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -272,6 +273,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> The design of the mechanics of the product is good, but the software is less good. (explicit) </td>
   </tr>
 </table>
+</html>
 
 ### Search 3
 
@@ -301,6 +303,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Positive Comments:**
 
+<html>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -351,7 +354,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs a device that is able to forecast weather.  (Latent) </td>
   </tr>
 </table>
-</p>
 
 **Negative Comments:**
 
@@ -405,6 +407,7 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs much more accurate sensors. (Latent)  </td>
   </tr>
 </table>
+</html>
 
 ### Search 4
 
