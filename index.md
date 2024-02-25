@@ -6,9 +6,9 @@ _Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Wer
 
 # Report
 
-[Report Link](assignments/report)
+[Here](assignments/report) is a link to our full report. The purpose of this page is to provide easy access to not only the report but also the appendix that comprises the meat of the report. 
 
-# Assignments
+# Appendix
 
 [Appendix A: Team Organization Document](assignments/teamorganization)
 
