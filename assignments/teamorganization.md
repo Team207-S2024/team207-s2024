@@ -22,14 +22,20 @@ The mission of the team is to create a sensor-based weather reporting product th
 
 ## Communication Channels
 
-Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page. 
+<p align="center">
+<i>Table 1: Team Member Communication Modes. Note that sensitive information is redacted as this is a public page.</i>
+</p>
 
+<div align="center">
+  
 | Name  | First Choice | Second Choice | Third Choice | 
 | ------------- | ------------- | ------------- | ------------- | 
 | Manuel Garcia | Discord | Email | Phone |
 | Michaela De Angelis Werner | Discord | Phone | Email|
 | Isaac D. Linares | Discord | Phone | Email |
 | Jonathan Elijah Sales | Discord | 
+  
+</div>
 
 ## Communication Procedures
 As each member had Discord as their first choice of communication, it’s to be assumed that most if not all correspondence
@@ -48,7 +54,11 @@ an hour or so late in case people in the group will have prior engagements.
 
 ## Roles and Responsibilities
 
-Table 2: A list of roles and responsibilities that each member has currently pledged to.
+<p align="center">
+<i>Table 2: A list of roles and responsibilities that each member has currently pledged to.</i>
+</p>
+
+<div align="center">
 
 | Role | Name | Duties |
 | ------------- | ------------- | ------------- |
@@ -56,6 +66,8 @@ Table 2: A list of roles and responsibilities that each member has currently ple
 | Project Manager | Michaela De Angelis Werner | The project manager is responsible for making sure that the project is advancing along the agreed-upon schedule, and reminding people of upcoming assignments that need to be done. |
 | Assignment Manager | Isaac Linares | The assignment manager will keep track of and remind others of upcoming due dates. They will also make sure assignments are formatted correctly and handle submissions. |
 | Meeting Recorder | Jonathan Elijah Sales | The meeting recorder, or logkeeper, is in charge of taking notes during meetings and updating it with new notes for each meeting. |
+
+</div>
 
 ### Role and Responsibility Accountability Procedure
 
