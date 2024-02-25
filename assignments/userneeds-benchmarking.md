@@ -39,52 +39,52 @@ convenience of your personal home weather station.
 
 <table>
   <tr>
-   <td>Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Mounting of the unit and set up was very straightforward. The outdoor unit is all one piece so you just have to attach it to the pole and mount it to something. The indoor unit connected to it very quickly. Setting up the indoor unit was quick and intuitive though I did read the instructions as I was doing it. It's been up and running for about 6 weeks and so far so good.
-   </td>
-   <td colspan="2" >The customer needs something that is easy to use.
-   </td>
+    <td rowspan = "3"> Mounting of the unit and set up was very straightforward. The outdoor unit is all one piece so you just have to attach it to the pole and mount it to something. The indoor unit connected to it very quickly. Setting up the indoor unit was quick and intuitive though I did read the instructions as I was doing it. It's been up and running for about 6 weeks and so far so good. </td>
+   	<td>The customer needs something that is easy to use.</td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that is easy to set up
-   </td>
+    <td> The customer needs a product that is easy to set up</td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that is intuitive and easy to use.
-   </td>
+  <td> The customer needs a product that is intuitive and easy to use.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >There are a great number of weather stations on the market that provide a varying range of data. Finding one that targets what you need can be daunting if not exhausting by the time you do all the research. I depend on solar panels to power my home and needed a unit that, along with the basic weather data, could provide sun radiation readings to compare to the panel array performance. My aim was to find something easy to operate but still provide key weather data that was reliable, consistent and affordable. After researching the available units I purchased the Sainlogic 089. Keep in mind that any weather station won’t stand a chance of providing accurate data if you don’t follow the instructions. The user manual provided sufficient details (and pictures) to make the installation easy. We were up and running with a connection to an online weather channel within an hour.
-   </td>
-   <td colspan="2" >The customer needs a weather station that is targeted to their specific needs.
-   </td>
+    <td rowspan = "3"> There are a great number of weather stations on the market that provide a varying range of data. Finding one that targets what you need can be daunting if not exhausting by the time you do all the research. I depend on solar panels to power my home and needed a unit that, along with the basic weather data, could provide sun radiation readings to compare to the panel array performance. My aim was to find something easy to operate but still provide key weather data that was reliable, consistent and affordable. After researching the available units I purchased the Sainlogic 089. Keep in mind that any weather station won’t stand a chance of providing accurate data if you don’t follow the instructions. The user manual provided sufficient details (and pictures) to make the installation easy. We were up and running with a connection to an online weather channel within an hour. </td>
+   	<td> The customer needs a weather station that is targeted to their specific needs.</td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a weather station with a variety of weather sensing capabilities.
-   </td>
+    <td> The customer needs a weather station with a variety of weather sensing capabilities. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs something that is easy to operate but without the cost of providing accurate data.
-   </td>
+  <td> The customer needs something that is easy to operate but without the cost of providing accurate data. </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Installation was easy, and the mounting bracket, arm, and base give you lots of options for horizontal or vertical, on either a flat surface or on a pole. Since we had the last on up high on a pole above the fence, we did the same thing here is it worked out very easily.
-   </td>
-   <td colspan="2" >The customer needs something that is easy to use.
-   </td>
+    <td rowspan = "3"> Installation was easy, and the mounting bracket, arm, and base give you lots of options for horizontal or vertical, on either a flat surface or on a pole. Since we had the last on up high on a pole above the fence, we did the same thing here is it worked out very easily. </td>
+   	<td> The customer needs something that is easy to use. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that is versatile with lots of customizable options for different mounting situations. 
-   </td>
+    <td> The customer needs a product that is versatile with lots of customizable options for different mounting situations. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that is easy to set up. 
-   </td>
+  <td> The customer needs a product that is easy to set up. </td>
   </tr>
 </table>
 
@@ -170,52 +170,52 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-   <td> Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Simple. Straightforward. Clearly presents the info I wanted to get wind readings from my porch. It's a fave. One caveat re "easy to use" was difficulty seating the battery. Sent the first one back because three people tried to seat the battery, and none of us could figure it out. Thought something must have broken. When replacement had same problem, I kept at it until I finally worked it out. You actually have to pull the clip back toward you, insert the battery, then push the clip back into place. Simple enough, but goes against all my experience (and that of my friends).
-   </td>
-   <td colspan="2" >The product is simple and easy to use for the user to manage. (explicit)
-   </td>
+    <td rowspan = "3">Simple. Straightforward. Clearly presents the info I wanted to get wind readings from my porch. It's a fave. One caveat re "easy to use" was difficulty seating the battery. Sent the first one back because three people tried to seat the battery, and none of us could figure it out. Thought something must have broken. When replacement had same problem, I kept at it until I finally worked it out. You actually have to pull the clip back toward you, insert the battery, then push the clip back into place. Simple enough, but goes against all my experience (and that of my friends). </td>
+   	<td>The product is simple and easy to use for the user to manage. (explicit)</td>
   </tr>
   <tr>
-   <td colspan="2" >The product is unique in its approach. (Note: This can be seen as a bad thing.) (latent)
-   </td>
+    <td>The product is unique in its approach. (Note: This can be seen as a bad thing.) (latent)</td>
   </tr>
   <tr>
-   <td colspan="2" >The product has extensive customer support and ease at replacing potentially faulty products. (explicit)
-   </td>
+  <td>The product has extensive customer support and ease at replacing potentially faulty products. (explicit)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >great design that just needs to be held vertical in any direction, so you don't need to know exactly where the wind is coming from like other fan windmeters to get an accurate reading, has average and high wind readings, seams reasonably well constructed, the windmeter is a little larger than most other windmeters I have owned but the design is worth it.
-   </td>
-   <td colspan="2" >The product doesn’t require fiddling to get it to work as it’s meant to. (explicit)
-   </td>
+    <td rowspan = "3">great design that just needs to be held vertical in any direction, so you don't need to know exactly where the wind is coming from like other fan windmeters to get an accurate reading, has average and high wind readings, seams reasonably well constructed, the windmeter is a little larger than most other windmeters I have owned but the design is worth it. </td>
+   	<td>The product doesn’t require fiddling to get it to work as it’s meant to. (explicit)</td>
   </tr>
   <tr>
-   <td colspan="2" >The product is well–constructed. (explicit)
-   </td>
+    <td>The product is well–constructed. (explicit)</td>
   </tr>
   <tr>
-   <td colspan="2" >The product’s design is good for the consumer to use. (latent)
-   </td>
+  <td>The product’s design is good for the consumer to use. (latent)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Works very well, and has a higher max speed than most others! Was able to test and get pretty accurate readings. It seems like it might be a bit fragile, time will tell. So far no problems with reliability. would be nice if it was back lit.
-   </td>
-   <td colspan="2" >The product is better at certain things than its competition. (latent)
-   </td>
+    <td rowspan = "3"> Works very well, and has a higher max speed than most others! Was able to test and get pretty accurate readings. It seems like it might be a bit fragile, time will tell. So far no problems with reliability. would be nice if it was back lit. </td>
+   	<td> The product is better at certain things than its competition. (latent) </td>
   </tr>
   <tr>
-   <td colspan="2" >The product is reliable. (latent)
-   </td>
+    <td> The product is reliable. (latent) </td>
   </tr>
   <tr>
-   <td colspan="2" >Based on the lack of an update, the product is hardy enough to be used extensively. (explicit)
-   </td>
+  <td> Based on the lack of an update, the product is hardy enough to be used extensively. (explicit)</td>
   </tr>
 </table>
 
