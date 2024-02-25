@@ -39,7 +39,7 @@ convenience of your personal home weather station.
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ convenience of your personal home weather station.
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ convenience of your personal home weather station.
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -92,52 +92,52 @@ convenience of your personal home weather station.
 
 <table>
   <tr>
-   <td>Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >This weather station features wind speed and direction, rain gauge, temperature, and humidity on the outdoor sensor; and temperature, humidity, and barometric pressure on the indoor display. Overall it’s pretty accurate though the temperature does seem to go off a little bit in bright sun but not as much as some other weather stations I've had. The rain and wind are probably the most accurate I've had. I have it set up for 24 hour rainfall readings. It seems as though it just resets at midnight rather than doing a rolling 24 hours which makes it a little less useful.
-   </td>
-   <td colspan="2" >The customer needs a more accurate temperature sensor. 
-   </td>
+    <td rowspan = "3"> This weather station features wind speed and direction, rain gauge, temperature, and humidity on the outdoor sensor; and temperature, humidity, and barometric pressure on the indoor display. Overall it’s pretty accurate though the temperature does seem to go off a little bit in bright sun but not as much as some other weather stations I've had. The rain and wind are probably the most accurate I've had. I have it set up for 24 hour rainfall readings. It seems as though it just resets at midnight rather than doing a rolling 24 hours which makes it a little less useful. </td>
+   	<td> The customer needs a more accurate temperature sensor. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a smaller reset window for more constant data. 
-   </td>
+    <td> The customer needs a smaller reset window for more constant data. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs more reliable data from the other sensors. 
-   </td>
+  <td> The customer needs more reliable data from the other sensors. </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >The setup on this product was fairly straightforward. Didn't have any problems there. What I've found is that the outdoor temperature is fairly accurate down to about freezing temperatures. Then it starts to diverge. By the time the temperature is in the teens, it measures 4 degrees warmer than it really is. The reason I know this is that I have two other already proven sensors strapped to the pole of the sainlogic and have observed consistent data supporting this conclusion. Because it doesn't measure 4 degrees difference across all temperatures, I can't add an calibration factor that the device allows. That is a nice feature by the way, but not useful in this case.
-   </td>
-   <td colspan="2" >The customer needs a product that works in colder environments.
-   </td>
+    <td rowspan = "3"> The setup on this product was fairly straightforward. Didn't have any problems there. What I've found is that the outdoor temperature is fairly accurate down to about freezing temperatures. Then it starts to diverge. By the time the temperature is in the teens, it measures 4 degrees warmer than it really is. The reason I know this is that I have two other already proven sensors strapped to the pole of the sainlogic and have observed consistent data supporting this conclusion. Because it doesn't measure 4 degrees difference across all temperatures, I can't add an calibration factor that the device allows. That is a nice feature by the way, but not useful in this case. </td>
+   	<td> The customer needs a product that works in colder environments. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs more accurate sensors. 
-   </td>
+    <td> The customer needs more accurate sensors. </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer explicitly states that they need a calibration mode to fix these offsets. 
-   </td>
+  <td> The customer explicitly states that they need a calibration mode to fix these offsets. </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >The other big complaint I have is that the anemometer stops working with accumulating snow. Yesterday we only received 2 inches of snow and it prevented it from working. The direction still works because that is not obstructed by accumulating snow, but the gust and average speed does not work until the snow melts. This is a poor mechanical design. I've owned other weather stations in this same home and they do not have this problem.
-   </td>
-   <td colspan="2" >The customer needs a product that takes into account snowfall. 
-   </td>
+    <td rowspan = "3"> The other big complaint I have is that the anemometer stops working with accumulating snow. Yesterday we only received 2 inches of snow and it prevented it from working. The direction still works because that is not obstructed by accumulating snow, but the gust and average speed does not work until the snow melts. This is a poor mechanical design. I've owned other weather stations in this same home and they do not have this problem. </td>
+   	<td> The customer needs a product that takes into account snowfall.  </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that is able to work even when it becomes damp due to snowfall. 
-   </td>
+    <td> The customer needs a product that is able to work even when it becomes damp due to snowfall.  </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a product that has an overall better design that takes into account other weather anomalies. 
-   </td>
+  <td> The customer needs a product that has an overall better design that takes into account other weather anomalies. </td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -187,7 +187,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -204,7 +204,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -224,8 +224,8 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-    <th>Review</th>
-    <th>Customer Needs Notes</th>
+  <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
     <td rowspan = "3"> The display worked OK, but the turbine stuck and turned very slow or not at all. We will see if the replacement works. Had to bend the contact up to make good contact with the flat lipo battery, Hard to load the battery. Replacement works fine. The new unit was wrapped in a sealed heavy plastic bag. Defective unit had no protective bag. Maybe it was a retured product. </td>
@@ -239,11 +239,22 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died. | The product has a low battery life. (explicit)  |
-| | The display isn’t particularly bright. (explicit) |
-| | The product isn’t on-par with other competitive products. (latent) |
+<table>
+  <tr>
+    <th><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> Within a day of use the battery symbol started to flash. Turned off then turned back on again, battery symbol was steady on, but display was not bright. Compared to my Kestrel, the wind value read was half of what the Kestrel reported. It was hard to read the numbers in the shade. Within 6 hours of use the unit died. </td>
+   	<td> The product has a low battery life. (explicit) </td>
+  </tr>
+  <tr>
+    <td> The display isn’t particularly bright. (explicit)  </td>
+  </tr>
+  <tr>
+  <td> The product isn’t on-par with other competitive products. (latent) </td>
+  </tr>
+</table>
 
 | Review | Customer Need Notes |
 |-------|------------------------|
