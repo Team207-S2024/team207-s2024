@@ -194,10 +194,10 @@ rotating wind turbine shells. The device does not have to be turned in the direc
    	<td>The product doesn’t require fiddling to get it to work as it’s meant to. (explicit)</td>
   </tr>
   <tr>
-    <td>The product is well–constructed. (explicit)</td>
+    <td>The product is well–constructed. (explicit) </td>
   </tr>
   <tr>
-  <td>The product’s design is good for the consumer to use. (latent)</td>
+  <td>The product’s design is good for the consumer to use. (latent) </td>
   </tr>
 </table>
 
@@ -294,8 +294,8 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 **Description:**
 
 Patented Self-Calibrating Forecasting pulls data from a sensor in your backyard to give you the most accurate forecast for
-your exact locationAtomic clock updates time for consistent accuracy and no manual setting ever for DST. Easy-to-read LCD display.
-Durable, weather resistant construction. Strong signal penetration (enhanced 433 MHz)
+your exact location Atomic clock updates time for consistent accuracy and no manual setting ever for DST. Easy-to-read LCD display.
+Durable, weather-resistant construction. Strong signal penetration (enhanced 433 MHz)
 
 **Positive Comments:**
 
@@ -427,7 +427,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Positive Comments:**
 
-<body>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -481,7 +480,6 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
 
 **Negative Comments:**
 
-<body>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -529,7 +527,7 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
     <td> Rainsensor was also disconnected by storm </td>
   </tr>
   <tr>
-  <td>  Shows that we must take product durability into account, making sure components can be destroyed without sacrificing the integrity of the entire device. </td>
+  <td> Shows that we must take product durability into account, making sure components can be destroyed without sacrificing the integrity of the entire device. </td>
   </tr>
 </table>
 
@@ -610,24 +608,56 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
 
 **Negative Comments:**
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| Years ago, I pledged that I would not purchase another device with an LED color display. I went back on that promise with the purchase of this unit. I shouldn't have. In a normally lit room, but unit's display is too dim, even at its brightest setting. In addition, the angle of view is critical -- the unit seems to have been designed to sit on a desk or counter, where the viewer's eye is above the unit, but if you hang the unit on the wall, the digits are more difficult to read. This is especially true for the red digits (indoor temperature & humidity). This unit is okay in rooms that are less brightly lit. I have additional, more minor, complaints. The main unit's battery cover doesn't quite sit flush when closed -- the bottom of the battery cover extends a tad low. The documentation indicates that there is a "pull-out" stand to let the main unit stand up, but I couldn't find this stand. I found this unit on Amazon doing a search for atomic (self-setting) clocks, but this time-setting feature doesn't appear to be in this unit. Finally, I want to hang the unit on my wall, but there is no place on the back of the unit to do so. Well, there is a triangular recess for a screw head, but it's in the middle of the unit, and when you use this hole, and if the unit is plugged into an outlet, the unit is unbalanced, and the unit is tipped to the side a bit. One good thing -- the unit was able to read its remote sensor right away, and when I put the sensor out on the deck, it reacted to the change in temperature right away, despite being behind a few walls & doors. | The customer wished for auto brightness so they can put their weathering device wherever. |
-| | The customer wished that the battery lasted longer. |
-| | The customer wished that there’s some kind of hook on the back of the weathering device to hang it up their wall. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> Years ago, I pledged that I would not purchase another device with an LED color display. I went back on that promise with the purchase of this unit. I shouldn't have. In a normally lit room, but unit's display is too dim, even at its brightest setting. In addition, the angle of view is critical -- the unit seems to have been designed to sit on a desk or counter, where the viewer's eye is above the unit, but if you hang the unit on the wall, the digits are more difficult to read. This is especially true for the red digits (indoor temperature & humidity). This unit is okay in rooms that are less brightly lit. I have additional, more minor, complaints. The main unit's battery cover doesn't quite sit flush when closed -- the bottom of the battery cover extends a tad low. The documentation indicates that there is a "pull-out" stand to let the main unit stand up, but I couldn't find this stand. I found this unit on Amazon doing a search for atomic (self-setting) clocks, but this time-setting feature doesn't appear to be in this unit. Finally, I want to hang the unit on my wall, but there is no place on the back of the unit to do so. Well, there is a triangular recess for a screw head, but it's in the middle of the unit, and when you use this hole, and if the unit is plugged into an outlet, the unit is unbalanced, and the unit is tipped to the side a bit. One good thing -- the unit was able to read its remote sensor right away, and when I put the sensor out on the deck, it reacted to the change in temperature right away, despite being behind a few walls & doors. </td>
+   	<td> The customer wished for auto brightness so they can put their weathering device wherever. </td>
+  </tr>
+  <tr>
+    <td> The customer wished that the battery lasted longer. </td>
+  </tr>
+  <tr>
+  <td> The customer wished that there’s some kind of hook on the back of the weathering device to hang it up their wall.  </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I've had this weather station in use for four months. Already the remote sensor has required new batteries three times and just died again. I won't be replacing batteries this time. We will use the unit for internal data only. I know it isn't a costly piece of technology but it's too bad we couldn't have gotten at least a year out of it. Also, The temperature data from the remote sensor was always between five and eight degrees higher than actual temperature. | The customer wished that the batteries lasted longer for the remote sensor. |
-| | The customer wished that the temperature data was 100% accurate. |
-| | The customer wished that the price was cheaper to afford and buy. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3">  I've had this weather station in use for four months. Already the remote sensor has required new batteries three times and just died again. I won't be replacing batteries this time. We will use the unit for internal data only. I know it isn't a costly piece of technology but it's too bad we couldn't have gotten at least a year out of it. Also, The temperature data from the remote sensor was always between five and eight degrees higher than actual temperature. </td>
+   	<td> The customer wished that the batteries lasted longer for the remote sensor. </td>
+  </tr>
+  <tr>
+    <td> The customer wished that the temperature data was 100% accurate. </td>
+  </tr>
+  <tr>
+  <td> The customer wished that the price was cheaper to afford and buy. </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| It would be an awesome weather station if the sensor worked. Fresh batteries and hours of browsing forums for troubleshooting advice led me to the conclusion my sensor is bad. Lacrosse has terribly slow customer service. Hopefully someday the angels of their warehouse will send me a sensor so I can actually use the product I bought. But so far I've had a very non-committal email that still seems to assert the three separate packs of different manufacturer batteries all purchased new are somehow to blame for a defective unit. As I needed this device, I ended up purchasing a competing unit from vivosun that doesn't have as many features, but worked flawlessly out of the package (with the same batteries I attempted to use in this weather station). | The customer wished that the sensor worked. |
-| | The customer wished that the product’s customer service were much more responsive. |
-| | The customer wished that the batteries lasted longer for the remote sensor. |
-
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> It would be an awesome weather station if the sensor worked. Fresh batteries and hours of browsing forums for troubleshooting advice led me to the conclusion my sensor is bad. Lacrosse has terribly slow customer service. Hopefully someday the angels of their warehouse will send me a sensor so I can actually use the product I bought. But so far I've had a very non-committal email that still seems to assert the three separate packs of different manufacturer batteries all purchased new are somehow to blame for a defective unit. As I needed this device, I ended up purchasing a competing unit from vivosun that doesn't have as many features, but worked flawlessly out of the package (with the same batteries I attempted to use in this weather station). </td>
+   	<td>  The customer wished that the sensor worked. </td>
+  </tr>
+  <tr>
+    <td> The customer wished that the product’s customer service were much more responsive. </td>
+  </tr>
+  <tr>
+  <td> The customer wished that the batteries lasted longer for the remote sensor. </td>
+  </tr>
+</table>
 
 ## Process of Organizing Needs
 
