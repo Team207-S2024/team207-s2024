@@ -4,6 +4,7 @@ table, th, td {
   border-collapse: collapse;
 }
 th, td {
+  border-color: #666666;
   background-color: #FFFFFF;
 }
 </style>
