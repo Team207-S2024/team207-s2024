@@ -36,6 +36,7 @@ and wind speed measures indoor/outdoor temperature and humidity, wind speed/dire
 convenience of your personal home weather station.
 
 **Positive Comments:**
+
 <p align="left">
 <table>
   <tr>
@@ -168,6 +169,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 （NOTE:Turn only 1 quarter to left to get the battery open, and sometime you need Tap the battery cover to open it (...)
 
 **Positive Comments:**
+
 <p align="left">
 <table>
   <tr>
@@ -222,6 +224,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 </p>
 
 **Negative Comments:**
+
 <p align="left">
 <table>
   <tr>
@@ -302,7 +305,7 @@ your exact locationAtomic clock updates time for consistent accuracy and no manu
 Durable, weather resistant construction. Strong signal penetration (enhanced 433 MHz)
 
 **Positive Comments:**
-<p align="left">
+
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -357,54 +360,55 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 
 **Negative Comments:**
 
+<p align="left">
 <table>
   <tr>
-   <td>Review
-   </td>
-   <td colspan="2" >Customer Need Notes
-   </td>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Very nice weather station for the money. Wind chill functions automatically when there is enough wind to change the “feels like” temperature, otherwise, the station displays “dew point” in that space. It took me awhile to figure that out. The manual does not tell you that. Also, I wish the “History” graphs were scalable. We don’t always have 75 mph winds. So, the graph mostly rests on the bottom. Not very useful. It would be nice to be able to scale this at will. Must downgrade by one star for the lack of explanation in the manual and lack of scalability in the weather history. Otherwise, I would buy this again and would recommend it to someone looking for a good value.
-   </td>
-   <td colspan="2" >User needs more clear instructions (Latent)
-   </td>
+    <td rowspan = "3">  Very nice weather station for the money. Wind chill functions automatically when there is enough wind to change the “feels like” temperature, otherwise, the station displays “dew point” in that space. It took me awhile to figure that out. The manual does not tell you that. Also, I wish the “History” graphs were scalable. We don’t always have 75 mph winds. So, the graph mostly rests on the bottom. Not very useful. It would be nice to be able to scale this at will. Must downgrade by one star for the lack of explanation in the manual and lack of scalability in the weather history. Otherwise, I would buy this again and would recommend it to someone looking for a good value. </td>
+   	<td> User needs more clear instructions (Latent) </td>
   </tr>
   <tr>
-   <td colspan="2" >User needs scalable History graphs (Explicit)
-   </td>
+    <td> User needs scalable History graphs (Explicit) </td>
   </tr>
   <tr>
-   <td colspan="2" >User needs a product that can be calibrated to their specific needs (Explicit) 
-   </td>
+  <td> User needs a product that can be calibrated to their specific needs (Explicit) </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >On a very windy day with speeds of at least 30kph, the wind indicator only showed 13 kph. so it does not appear accurate. Thus far, I am happy with the other features & I particularly like the atomic clock. My other complaint is that at about $125,00, it is expensive compared to other makes. I chose it, because it does not need to be plugged in to have a clear display & I couldn't find another that had everything that this weather station has. I have only had it for two weeks so cannot state how durable it will be. My previous LaCrosse lasted for many years & I only had to change the batteries 2 or 3 times.
-   </td>
-   <td colspan="2" >User needs more accurate sensors (Explicit)
-   </td>
+    <td rowspan = "3"> On a very windy day with speeds of at least 30kph, the wind indicator only showed 13 kph. so it does not appear accurate. Thus far, I am happy with the other features & I particularly like the atomic clock. My other complaint is that at about $125,00, it is expensive compared to other makes. I chose it, because it does not need to be plugged in to have a clear display & I couldn't find another that had everything that this weather station has. I have only had it for two weeks so cannot state how durable it will be. My previous LaCrosse lasted for many years & I only had to change the batteries 2 or 3 times. </td>
+   	<td> User needs more accurate sensors (Explicit) </td>
   </tr>
   <tr>
-   <td colspan="2" >User needs a more affordable outlet (Explicit)
-   </td>
+    <td> User needs a more affordable outlet (Explicit) </td>
   </tr>
   <tr>
-   <td colspan="2" >User needs a product that is power efficient in terms of battery power. (Latent)
-   </td>
+  <td> User needs a product that is power efficient in terms of battery power. (Latent) </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-   <td rowspan="3" >Fair weather station, but for a little more you can get a much more of an updated weather station with a full color-screen and more instruments/detectors. Semi-accurate, easy to set up, and easy to read, note; it does not have a backlit screen.
-   </td>
-   <td colspan="2" >The customer needs a more versatile product with more attributes and sensors. (Latent)
-   </td>
+    <td rowspan = "3"> air weather station, but for a little more you can get a much more of an updated weather station with a full color-screen and more instruments/detectors. Semi-accurate, easy to set up, and easy to read, note; it does not have a backlit screen. </td>
+   	<td> The customer needs a more versatile product with more attributes and sensors. (Latent) </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs a colored screen for ease of visibility. (Latent)
-   </td>
+    <td> The customer needs a colored screen for ease of visibility. (Latent) </td>
   </tr>
   <tr>
-   <td colspan="2" >The customer needs much more accurate sensors. (Latent) 
-   </td>
+  <td> The customer needs much more accurate sensors. (Latent)  </td>
   </tr>
 </table>
 
