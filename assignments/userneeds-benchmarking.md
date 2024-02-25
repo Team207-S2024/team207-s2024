@@ -241,7 +241,7 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 <table>
   <tr>
-    <th><b>Review</b></th>
+    <th style="width:60%"><b>Review</b></th>
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
@@ -256,13 +256,22 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| It seems work ok, i havnt cimpared it to others so i cant say better or worse then others. I like the design of the blades but i was hoping for measurments in cfms and it does not. Gives mph and like metric system. | The product doesn’t output measurements in other units. (explicit) |
-| | The product is ultimately a bit mediocre, and isn’t out of this world. (latent) |
-| | The design of the mechanics of the product is good, but the software is less good. (explicit) |
-
-
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> It seems work ok, i havnt cimpared it to others so i cant say better or worse then others. I like the design of the blades but i was hoping for measurments in cfms and it does not. Gives mph and like metric system. </td>
+   	<td> The product doesn’t output measurements in other units. (explicit) </td>
+  </tr>
+  <tr>
+    <td> The product is ultimately a bit mediocre, and isn’t out of this world. (latent) </td>
+  </tr>
+  <tr>
+  <td> The design of the mechanics of the product is good, but the software is less good. (explicit) </td>
+  </tr>
+</table>
 
 ### Search 3
 
