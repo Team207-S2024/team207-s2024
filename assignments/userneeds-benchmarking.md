@@ -43,7 +43,7 @@ convenience of your personal home weather station.
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-    <td rowspan = "3"> Mounting of the unit and set up was very straightforward. The outdoor unit is all one piece so you just have to attach it to the pole and mount it to something. The indoor unit connected to it very quickly. Setting up the indoor unit was quick and intuitive though I did read the instructions as I was doing it. It's been up and running for about 6 weeks and so far so good. </td>
+    <td rowspan = "3", align = "left"> Mounting of the unit and set up was very straightforward. The outdoor unit is all one piece so you just have to attach it to the pole and mount it to something. The indoor unit connected to it very quickly. Setting up the indoor unit was quick and intuitive though I did read the instructions as I was doing it. It's been up and running for about 6 weeks and so far so good. </td>
    	<td>The customer needs something that is easy to use.</td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ convenience of your personal home weather station.
     <th><b>Customer Needs Notes</b></th>
   </tr>
   <tr>
-    <td rowspan = "3"> There are a great number of weather stations on the market that provide a varying range of data. Finding one that targets what you need can be daunting if not exhausting by the time you do all the research. I depend on solar panels to power my home and needed a unit that, along with the basic weather data, could provide sun radiation readings to compare to the panel array performance. My aim was to find something easy to operate but still provide key weather data that was reliable, consistent and affordable. After researching the available units I purchased the Sainlogic 089. Keep in mind that any weather station won’t stand a chance of providing accurate data if you don’t follow the instructions. The user manual provided sufficient details (and pictures) to make the installation easy. We were up and running with a connection to an online weather channel within an hour. </td>
+    <td rowspan = "3", align = "left"> There are a great number of weather stations on the market that provide a varying range of data. Finding one that targets what you need can be daunting if not exhausting by the time you do all the research. I depend on solar panels to power my home and needed a unit that, along with the basic weather data, could provide sun radiation readings to compare to the panel array performance. My aim was to find something easy to operate but still provide key weather data that was reliable, consistent and affordable. After researching the available units I purchased the Sainlogic 089. Keep in mind that any weather station won’t stand a chance of providing accurate data if you don’t follow the instructions. The user manual provided sufficient details (and pictures) to make the installation easy. We were up and running with a connection to an online weather channel within an hour. </td>
    	<td> The customer needs a weather station that is targeted to their specific needs.</td>
   </tr>
   <tr>
