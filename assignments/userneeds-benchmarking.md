@@ -37,7 +37,6 @@ convenience of your personal home weather station.
 
 **Positive Comments:**
 
-<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -54,7 +53,6 @@ convenience of your personal home weather station.
   <td> The customer needs a product that is intuitive and easy to use.</td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -73,7 +71,6 @@ convenience of your personal home weather station.
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -90,8 +87,6 @@ convenience of your personal home weather station.
   <td> The customer needs a product that is easy to set up. </td>
   </tr>
 </table>
-</p>
-
 
 **Negative Comments:**
 <p align="left">
@@ -111,7 +106,6 @@ convenience of your personal home weather station.
   <td> The customer needs more reliable data from the other sensors. </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -147,8 +141,6 @@ convenience of your personal home weather station.
   <td> The customer needs a product that has an overall better design that takes into account other weather anomalies. </td>
   </tr>
 </table>
-</p>
-
 
 ### Search 2
 
@@ -177,7 +169,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
 
 **Positive Comments:**
 
-<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -194,7 +185,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td>The product has extensive customer support and ease at replacing potentially faulty products. (explicit)</td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -213,7 +203,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -230,12 +219,9 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> Based on the lack of an update, the product is hardy enough to be used extensively. (explicit)</td>
   </tr>
 </table>
-</p>
-
 
 **Negative Comments:**
 
-<p align="left">
 <table>
   <tr>
   <th style="width:60%"><b>Review</b></th>
@@ -252,7 +238,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td>There may be issues with the product’s design with regards to the turbine. (explicit)</td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -271,7 +256,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -288,8 +272,6 @@ rotating wind turbine shells. The device does not have to be turned in the direc
   <td> The design of the mechanics of the product is good, but the software is less good. (explicit) </td>
   </tr>
 </table>
-</p>
-
 
 ### Search 3
 
@@ -336,7 +318,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -353,7 +334,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs a product that is able to work in multiple areas to minimize accuracy. (Latent) </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -373,10 +353,8 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
 </table>
 </p>
 
-
 **Negative Comments:**
 
-<p align="left">
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -393,7 +371,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> User needs a product that can be calibrated to their specific needs (Explicit) </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -412,7 +389,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -429,7 +405,6 @@ Durable, weather resistant construction. Strong signal penetration (enhanced 433
   <td> The customer needs much more accurate sensors. (Latent)  </td>
   </tr>
 </table>
-
 
 ### Search 4
 
