@@ -36,7 +36,7 @@ and wind speed measures indoor/outdoor temperature and humidity, wind speed/dire
 convenience of your personal home weather station.
 
 **Positive Comments:**
-
+<html>
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -124,7 +124,6 @@ convenience of your personal home weather station.
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th style="width:60%"><b>Review</b></th>
@@ -141,6 +140,7 @@ convenience of your personal home weather station.
   <td> The customer needs a product that has an overall better design that takes into account other weather anomalies. </td>
   </tr>
 </table>
+</html>
 
 ### Search 2
 
