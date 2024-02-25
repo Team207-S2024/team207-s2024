@@ -519,11 +519,22 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
   </tr>
 </table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| Replaced a WS-1002 station with this one that I have had for 7-8 years with no issues what so ever. A month into ownership and we got our first hail storm last night that disconnected the rain sensor (resetting it reconnected it) and also disconnected the sensor array. Upon inspection the top of the solar sensor was broken and let water into the unit destroying the electronics inside. Unit will no longer power up and isnt water tight. A new unit would run me $144 if they actually had any in stock. Think Im going to bite the bullet and finally just order a Davis unit. | Device was destroyed after one hail-storm, |
-| | Rainsensor was also disconnected by storm |
-| | Shows that we must take product durability into account, making sure components can be destroyed without sacrificing the integrity of the entire device. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> Replaced a WS-1002 station with this one that I have had for 7-8 years with no issues what so ever. A month into ownership and we got our first hail storm last night that disconnected the rain sensor (resetting it reconnected it) and also disconnected the sensor array. Upon inspection the top of the solar sensor was broken and let water into the unit destroying the electronics inside. Unit will no longer power up and isnt water tight. A new unit would run me $144 if they actually had any in stock. Think Im going to bite the bullet and finally just order a Davis unit. </td>
+   	<td> Device was destroyed after one hail-storm, </td>
+  </tr>
+  <tr>
+    <td> Rainsensor was also disconnected by storm </td>
+  </tr>
+  <tr>
+  <td>  Shows that we must take product durability into account, making sure components can be destroyed without sacrificing the integrity of the entire device. </td>
+  </tr>
+</table>
 
 ### Search 5
 
@@ -549,23 +560,56 @@ I also got the lightning detector, but we haven't had any thunderstorms yet, so 
 
 **Positive Comments:**
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I set the entire device without ever looking at the instructions. There is a hi / lo alert for indoor and outdoor, for both temp and humidity. So count 8 alerts. I wish it had a better stand for desktop vertical. It will stand up, but easily knocked over. If you stand it where it will not easily be disturbed, then it will stand just fine. There is a wall mount function. The display has dimming manually or auto dimming and the colors are very nice. It's easy to read the display from a distance. The display unit runs on a wall plug. They call the remote unit the "Outdoor", but I use it to monitor a travel trailer. The temperature updates about once per minute. If you are looking for an indoor with a single remote sensor, this is a very good choice. | The customer wished to have a better stand for the desktop vertical. |
-| | The customer wished to have less count alerts |
-| | The customer wished that the device would be less complicated to use. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> I set the entire device without ever looking at the instructions. There is a hi / lo alert for indoor and outdoor, for both temp and humidity. So count 8 alerts. I wish it had a better stand for desktop vertical. It will stand up, but easily knocked over. If you stand it where it will not easily be disturbed, then it will stand just fine. There is a wall mount function. The display has dimming manually or auto dimming and the colors are very nice. It's easy to read the display from a distance. The display unit runs on a wall plug. They call the remote unit the "Outdoor", but I use it to monitor a travel trailer. The temperature updates about once per minute. If you are looking for an indoor with a single remote sensor, this is a very good choice. </td>
+   	<td> The customer wished to have a better stand for the desktop vertical. </td>
+  </tr>
+  <tr>
+    <td> The customer wished to have less count alerts </td>
+  </tr>
+  <tr>
+  <td>  The customer wished that the device would be less complicated to use. </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-| I really don't have any complaints about this product. My biggest pet peeve with display screens is always the limited viewing angles. But with this one it's not an issue at all. Looking left, right, down are all very good. The looking up is not as good for some reason, but that's OK. Temp accuracy is good (compared it with other devices and weather apps), humidity accuracy - no idea if accurate. It has a great feature where it auto dims at night. You need to set to what hours you want it to be dimmed. It works great. Overall, very good product. Bought when it was half off. I wouldn't spend a full price on it. It's nice, but not THAT nice! | The customer wished to have more viewing angles instead of just seeing a few. |
-| | The customer wished that the device was also accurate when it comes to the humidity of the weather. |
-| | The customer wished that the price was cheaper to afford and buy. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> I really don't have any complaints about this product. My biggest pet peeve with display screens is always the limited viewing angles. But with this one it's not an issue at all. Looking left, right, down are all very good. The looking up is not as good for some reason, but that's OK. Temp accuracy is good (compared it with other devices and weather apps), humidity accuracy - no idea if accurate. It has a great feature where it auto dims at night. You need to set to what hours you want it to be dimmed. It works great. Overall, very good product. Bought when it was half off. I wouldn't spend a full price on it. It's nice, but not THAT nice! </td>
+   	<td> The customer wished to have more viewing angles instead of just seeing a few. </td>
+  </tr>
+  <tr>
+    <td> The customer wished that the device was also accurate when it comes to the humidity of the weather. </td>
+  </tr>
+  <tr>
+  <td> The customer wished that the price was cheaper to afford and buy. </td>
+  </tr>
+</table>
 
-| Review | Customer Need Notes |
-|-------|------------------------|
-|  This unit has a very large and multi-colored display. When checking it against various sources, it is generally within tolerance. I particularly like the fact that the display dims at night at a time of your choosing. The same thing with the brightness returning. When I wake up to a bright display, I know that it is past 6am. While not a laboratory quality device, it gets the job done. | The customer wished that the product was made from a quality lab device  | The customer wished that the product was made from a quality lab device. |
-| | The customer is grateful that the device is within the tolerance level. |
-| | The customer is grateful that the device gets the job done. |
+<table>
+  <tr>
+    <th style="width:60%"><b>Review</b></th>
+    <th><b>Customer Needs Notes</b></th>
+  </tr>
+  <tr>
+    <td rowspan = "3"> This unit has a very large and multi-colored display. When checking it against various sources, it is generally within tolerance. I particularly like the fact that the display dims at night at a time of your choosing. The same thing with the brightness returning. When I wake up to a bright display, I know that it is past 6am. While not a laboratory quality device, it gets the job done. </td>
+   	<td> The customer wished that the product was made from a quality lab device. </td>
+  </tr>
+  <tr>
+    <td> The customer is grateful that the device is within the tolerance level. </td>
+  </tr>
+  <tr>
+  <td> The customer is grateful that the device gets the job done. </td>
+  </tr>
+</table>
 
 **Negative Comments:**
 
