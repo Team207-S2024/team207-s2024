@@ -237,28 +237,32 @@ Refer to [Appendix F: Block Diagram](blockdiagram) for further information, such
 ## Component Selection
 
 As soon as the block diagram was finished, the team began considering what components were needed to fill in the gaps. Each team member studied their assigned subsystem and picked a series of main components that each subsystem critically required. From there, the team member would choose which component out of the lists would be the best fit for this project. The chosen components for each subsystem are as follows:
-
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0725b3b2-84f1-48d5-a1ad-e1e32612b734" />  </p>
 <p align="center"> Choice for Battery: Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power </p>
 
 Rationale: The group chose this because even though there isn't a datasheet to help determine capacity, based on being a lithium battery with stellar reviews and similar products being of the necessary capacity, it seemed like a good enough risk to take. Note that this will be for regular use, and the group may utilize other batteries over the course of the testing phase to see how it can work.
-
-<p align="center">  Choice for Regulator: LM2575D2T-3.3R4G </p>
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/29c06b99-2c73-4fdf-8ed8-b8d8295385c9" /> </p>
+<p align="center"> Choice for Regulator: LM2575D2T-3.3R4G </p>
 
 Rationale: The class used the through-hole version of this component for a prior ICC, so it would be beneficial to be able to use that knowledge going forward as much as possible. Although it wasn’t the surface mount version, it stands to reason the same circuit should theoretically work.
 
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/fa2f181d-d769-4e24-b150-2b5fae608ecd" /> </p>
 <p align="center"> Choice for Motor Driver: IFX9201SGAUMA1 </p>
 
 Rationale: This motor driver was provided for us in class and would provide less of a learning curve, in terms of operation and coding itself. The IC itself would take less time to solder because there are less pins on the layout. 
 
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e1683a3e-649c-42b6-8b43-5e6d825b0402" /> </p>
 <p align="center">  Choice for Motor: 114090046 </p>
 
 Rationale: This motor provided all the optimal specs for our specific application and was reasonably priced compared to all the other available motors. The compact shape also would help with mechanical design of the project. This Motor also offers a higher torque value compared to all the other DC motors and is great for pulling heavy loads, which is required for our application.
 
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a7342114-bf14-4f61-8147-91a580e589a3" /> </p>
 <p align="center">  Choice for Humidity Sensor: Honeywell Sensing and Productivity Solutions HIH6030-021-001 </p>
 
 Rationale: This humidity sensor was in stock, was I2C compatible, and seems relatively easy to solder and use. It has a typical application circuit and a decent datasheet to work with.
 
-<p align="center">  Choice for Temperature Sensor: TC74A4-3.3VCTTR </p>
+<p align="center"> <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/b9a35b65-73f6-4229-b2ca-78624b025d78" /> </p>
+<p align="center"> Choice for Temperature Sensor: TC74A4-3.3VCTTR </p>
 
 Rationale: This temperature sensor was used in class, so there's a surplus of knowledge and reusable code that the group can utilize. 
 
