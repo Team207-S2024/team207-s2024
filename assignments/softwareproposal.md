@@ -55,8 +55,9 @@ Our humidity and temperature sensors will be the microcontroller's main factors 
 The humidity sensor will be our way of implementing wi-fi capability into this project. If the humidity sensor detects soil humidity that is too low based on the specific information provided by the user, then it will alert the user that the plants require water. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/e592f06f-c8c3-42c5-b11e-07ef7782149e" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/5b2fb5da-69f8-48ce-ba2a-9701ce869a34" />
 </p>
+
 
 <p align="center">
   <i>Figure 5: The Motor </i>
