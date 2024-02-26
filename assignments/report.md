@@ -179,8 +179,15 @@ The selected design was [Optimal Sunlight for a Plant](#optimal-sunlight-for-a-p
 The plan is for this to not only be mobile in terms of the device moving something but also be lightweight enough for a user to position this where they need to as well as using batteries so it doesn't need to be tied down anywhere. 
 
 <p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/d09de321-f589-4fb7-b789-d27ac7dd7ec7" />
+</p>
+
+
+<p align="center">
   <i>Figure 9: Solidworks Drawing of a Mobile Plant Caretaker</i>
 </p>
+
+{% include youtube.html id="AGAKjpmc-Ck" %}  
 
 Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
 
