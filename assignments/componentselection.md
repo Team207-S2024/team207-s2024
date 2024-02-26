@@ -1,5 +1,6 @@
 <style>
 table, th, td {
+
   border: 2px solid black;
   border-collapse: collapse;
   margin: 10px;
@@ -23,7 +24,7 @@ th {
 
 <p align="center"> Table 1a: Battery Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -55,7 +56,7 @@ th {
 
 <p align="center">  Table 1b: Battery Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -91,7 +92,7 @@ th {
 
 <p align="center"> Table 1c: Battery Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -124,7 +125,7 @@ th {
 
 <p align="center"> Table 1d: Battery Component Selection 4 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -162,7 +163,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
 
 <p align="center"> Table 2a: Voltage Regulator Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -196,7 +197,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
 
 <p align="center">  Table 2b: Voltage Regulator Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -229,7 +230,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
 
 <p align="center">  Table 2c: Voltage Regulator Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -269,7 +270,7 @@ Rationale: The class used the through-hole version of this component for a prior
 
 <p align="center">  Table 3a: Motor Driver Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -302,7 +303,7 @@ Rationale: The class used the through-hole version of this component for a prior
 
 <p align="center">  Table 3b: Motor Driver Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -333,7 +334,7 @@ Rationale: The class used the through-hole version of this component for a prior
 
 <p align="center">  Table 3c: Motor Driver Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -370,7 +371,7 @@ Rationale: This motor driver was provided for us in class and would provide less
 
 <p align="center"> Table 4a: Motor Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -402,7 +403,7 @@ Rationale: This motor driver was provided for us in class and would provide less
 
 <p align="center"> Table 4b: Motor Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -434,7 +435,7 @@ Rationale: This motor driver was provided for us in class and would provide less
 
 <p align="center"> Table 4c: Motor Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -475,7 +476,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 
 <p align="center">  Table 5a: Humidity Sensor Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -510,7 +511,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 
 <p align="center">  Table 5b: Humidity Sensor Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -542,7 +543,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 
 <p align="center"> Table 5c: Humidity Sensor Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -580,7 +581,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 
 <p align="center"> Table 6a: Temperature Sensor Component Selection 1 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -614,7 +615,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 
 <p align="center"> Table 6b: Temperature Sensor Component Selection 2 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
@@ -634,23 +635,23 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
 	Link: https://www.digikey.com/en/products/detail/onsemi/NCT75MNR2G/2748391 <br>
     </td>
     <td>
-		This device can connect to both I2C and SPI outputs. </li>
-		You can surface mount it. </li>
-		This device has a wide temperature measurement range of -55 celsius to 125 celsius. </li>
-		It has a “shutdown mode” when it has a low power consumption. </li>
-		This device has an “over temperature indicator”. </li>
+		<li> This device can connect to both I2C and SPI outputs. </li>
+		<li> You can surface mount it. </li>
+		<li> This device has a wide temperature measurement range of -55 celsius to 125 celsius. </li>
+		<li> It has a “shutdown mode” when it has a low power consumption. </li>
+		<li> This device has an “over temperature indicator”. </li>
     </td>
     <td>
-		It’s too small. </li>
-		It is a “one-shot” mode. </li>
-		This device has a small input voltage of 3.0 V to 5.5 V. </li>
+		<li> It’s too small. </li>
+		<li> It is a “one-shot” mode. </li>
+		<li> This device has a small input voltage of 3.0 V to 5.5 V. </li>
     </td>
   </tr>
 </table>
 
 <p align="center">  Table 6c: Temperature Sensor Component Selection 3 </p>
 
-<table>
+<table style="width:100%">
   <tr>
     <th style="width:25%">
 	    <b>Solution</b>
