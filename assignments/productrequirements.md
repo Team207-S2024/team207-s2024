@@ -1,3 +1,10 @@
+<style>
+mark { 
+  background-color: yellow;
+  color: black;
+}
+</style>
+
 # Product Requirements Document
 
 ## Introduction
@@ -72,7 +79,7 @@ The team still had many questions at this point in the design process, so they w
 
 ## Milestones
 
-Setup Git/Github/Report: 01/19/2024 @ 11:59 PM
+<mark> Setup Git/Github/Report: 01/19/2024 @ 11:59 PM
 
 Design Ideation: 01/19/2024 @ 11:59 PM
 
@@ -90,7 +97,7 @@ Hardware Orders: 02/14/2024 @ 11:59 PM
 
 Subsystem Design: 02/19/2024 @ 11:59 PM
 
-Hardware Proposal: 02/21/2024 @ 6:00 PM
+Hardware Proposal: 02/21/2024 @ 6:00 PM </mark>
 
 Team Checkpoint 2 (Presentation): 02/26/2024 @ 6:00 PM
 
