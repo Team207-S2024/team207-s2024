@@ -25,69 +25,45 @@ th {
 
 <table>
   <tr>
-    <th><b>Solution</b></th>
-    <th><b>Pros</b></th>
-    <th><b>Cons</b></th>
+    <th>
+	    <b>Solution</b>
+    </th>
+    <th>
+	    <b>Pros</b>
+    </th>
+    <th>
+	    <b>Cons</b>
+    </th>
   </tr>
   <tr>
     <td> 
-      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7ad08af1-8cb1-4037-a20c-35aa7d08064c" />
-    	<p>
-	Name: EN22
-	<p>
-	Price: $2.61
-	<p>
-	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825
+      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7ad08af1-8cb1-4037-a20c-35aa7d08064c" /> <br>
+	Name: EN22  <br>
+	Price: $2.61  <br>
+	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825  <br>
     </td>
     <td>
-    <li>Common brand(?)
-	<li>In heavy stock
-	<li>Good shelf life 
+	<ul>
+    		<li> Common brand(?)
+		<li> In heavy stock
+		<li> Good shelf life 
+	</ul>
     </td>
     <td>
-    <li>Not used before
-	</td>
+	 <ul>
+    		<li> Not used before
+    	</ul>
+    </td>
   </tr>
 </table>
 
 <p align="center">  Table 1b: Battery Component Selection 2 </p>
 
-<table>
-  <tr>
-    <th><b>Solution</b></th>
-    <th><b>Pros</b></th>
-    <th><b>Cons</b></th>
-  </tr>
-  <tr>
-    <td> 
-      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1b56bf59-16bc-44e0-964f-426e8c069229" />
-    	<p>
-	Name: 6LF22XWA/B
-	<p>
-	Price: $2.34
-	<p>
-	Link: https://www.digikey.com/en/products/detail/panasonic-bsg/6LF22XWA-B/5067196
-    </td>
-    <td>
-	<li>Used before in EGR304
-	<li>Can be put into series
-	<li>Fairly cheap
-    	<li>In stock
-    </td>
-    <td>
-	<li>Had a few issues using it previously
-	<li>May not be enough/be too much voltage
-	<li>Not a great datasheet
-	<li>Not rechargeable
-    </td>
-  </tr>
-</table>
+<img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1b56bf59-16bc-44e0-964f-426e8c069229" />
 
 <p align="center"> Table 1c: Battery Component Selection 3 </p>
 
-     
 ![b3](https://github.com/Team207-S2024/team207-s2024/assets/156377035/fa049aea-b20a-460f-ad2b-1b5b661dc1d0)
-
 
 <p align="center"> Table 1d: Battery Component Selection 4 </p>
 
