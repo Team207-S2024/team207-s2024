@@ -308,7 +308,7 @@ Soon after, it was time to begin putting everything together. At first, each mem
 The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
 
 <p align="center">
-  <img src = https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
 </p>
 
 <p align="center">
