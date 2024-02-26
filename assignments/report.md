@@ -271,10 +271,10 @@ Rationale: This temperature sensor was used in class, so there's a surplus of kn
 The team also began work on the power supply for the system, with mixed results. Due to a mixture of paltry information about batteries as well as a less than perfect iteration of the calculator used, the results are not as good as they could be. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/493f604f-5f6b-4f37-9531-2df37c44df3d" /> 
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cf89bee4-d5e6-4fe6-bfba-b43d13470e2d" /> 
 </p>
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a65b3773-4efc-4b4d-aa8c-900401e8b5a1" /> 
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/05aa3dde-48a0-4d65-ab61-33576b70d516" /> 
 </p>
 
 <p align="center">
