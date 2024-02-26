@@ -41,7 +41,7 @@ th {
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7ad08af1-8cb1-4037-a20c-35aa7d08064c" /> <br>
 	Name: EN22  <br>
 	Price: $2.61  <br>
-	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825<br>
+	Link: https://www.digikey.com/en/products/<br>detail/energizer-battery-company/EN22/704825<br>
     </td>
     <td>
     		<li> Common brand(?) </li>
@@ -73,7 +73,7 @@ th {
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1b56bf59-16bc-44e0-964f-426e8c069229" /> <br>
 	Name: 6LF22XWA/B  <br>
 	Price: $2.34  <br>
-	Link: https://www.digikey.com/en/products/detail/panasonic-bsg/6LF22XWA-B/5067196  <br>
+	Link: https://www.digikey.com/en/products/<br>detail/panasonic-bsg/6LF22XWA-B/5067196  <br>
     </td>
     <td>
 		<li> Used before in EGR304 </li>
@@ -109,7 +109,7 @@ th {
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/fa049aea-b20a-460f-ad2b-1b5b661dc1d0" /> <br>
 	Name: A23BPZ <br>
 	Price: $2.26 <br>
-	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/A23BPZ/5431480 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/energizer-battery-company/A23BPZ/5431480 <br>
     </td>
     <td>
 		<li> Has a discharge rate (500uA) </li>
@@ -142,7 +142,7 @@ th {
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/902b9b2e-6fac-4c15-890b-417b1c524b63" /> <br>
 	Name: Amazon Basics 4-Pack 9 Volt Alkaline Performance All-Purpose Batteries, 5-Year Shelf Life, Packaging May Vary <br>
 	Price: $9.58 <br>
-	Link: https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B0774D64LT <br>
+	Link: https://www.amazon.com/Amazon-<br>Basics-Performance-All-Purpose-Batteries/dp/B0774D64LT <br>
     </td>
     <td>
 		<li> Has a discharge rate (500uA) </li>
@@ -180,7 +180,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/29c06b99-2c73-4fdf-8ed8-b8d8295385c9" /> <br>
 	Name: LM2575D2T-3.3R4G <br>
 	Price: $2.39/ea <br>
-	Link: https://www.digikey.com/en/products/detail/onsemi/LM2575D2T-3-3R4G/1476688 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/onsemi/LM2575D2T-3-3R4G/1476688 <br>
     </td>
     <td>
 		<li> Used in class (Through hole) </li>
@@ -214,7 +214,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/329a5b38-57bb-4cfb-8d81-943d562c46ea" /> <br>
 	Name: TLVM13620RDHR <br>
 	Price: $4.42/ea <br>
-	Link: https://www.digikey.com/en/products/detail/texas-instruments/TLVM13620RDHR/16585658 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/texas-instruments/TLVM13620RDHR/16585658 <br>
     </td>
     <td>
 		<li> Newer than other regulators </li>
@@ -247,7 +247,7 @@ Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1686e49e-bf2b-4305-b163-cb8caf663232" /> <br>
 	Name: TPS560430X3FDBVR <br>
 	Price: $1.07/ea <br>
-	Link: https://www.digikey.com/en/products/detail/texas-instruments/TPS560430X3FDBVR/9094603 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/texas-instruments/TPS560430X3FDBVR/9094603 <br>
     </td>
     <td>
 		<li> Less current running through the regulator, may be good? </li>
@@ -287,7 +287,7 @@ Rationale: The class used the through-hole version of this component for a prior
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/fa2f181d-d769-4e24-b150-2b5fae608ecd" /> <br>
 	Name: IFX9201SGAUMA1 <br>
 	Price: $4.00000 <br> 
-	Link: https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/infineon-technologies/IFX9201SGAUMA1/5415542 <br>
     </td>
     <td>
 		<li> Will gain experience using this motor driver in class </li>
@@ -320,7 +320,7 @@ Rationale: The class used the through-hole version of this component for a prior
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/6fb70a7a-9a56-4a44-aa95-f2dc19603632" /> <br>
 	Name: IRMCF311TY <br>
 	Price: $4.82000 <br>
-	Link: https://www.digikey.com/en/products/detail/rochester-electronics-llc/IRMCF311TY/12597383 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/rochester-electronics-llc/IRMCF311TY/12597383 <br>
     </td>
     <td>
 		<li> Less Expensive </li>
@@ -351,7 +351,7 @@ Rationale: The class used the through-hole version of this component for a prior
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/6fb70a7a-9a56-4a44-aa95-f2dc19603632" /> <br>
 	Name: IRMCF312TR <br>
 	Price: $8.88000 <br>
-	Link: https://www.digikey.com/en/products/detail/infineon-technologies/IRMCF312TR/1982944 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/infineon-technologies/IRMCF312TR/1982944 <br>
     </td>
     <td>
 		<li> Has a variety of interfaces for customizable settings </li>
@@ -388,7 +388,7 @@ Rationale: This motor driver was provided for us in class and would provide less
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/ce98df8e-5be8-418e-9900-d1be90d2d710" /> <br>
 	Name: 95010 <br>
 	Price: $1.79000	<br>
-	Link: https://www.digikey.com/en/products/detail/kitronik-ltd/2546/8635440 <br>
+	Link: https://www.digikey.com/en/products/detail/<br>kitronik-ltd/2546/8635440 <br>
     </td>
     <td>
 		<li> Small compact size for versatility  </li>
@@ -420,7 +420,7 @@ Rationale: This motor driver was provided for us in class and would provide less
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/dcf3a048-7de8-4bd3-bbe5-8329fb8fb685" /> <br>
 	Name: 80047 <br>
 	Price: Out of Stock <br>
-	Link: https://www.digikey.com/en/products/detail/makeblock-co-ltd/80047/9917308 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/makeblock-co-ltd/80047/9917308 <br>
     </td>
     <td>
 		<li> Highest value of torque which would be useful for our specific application </li>
@@ -452,7 +452,7 @@ Rationale: This motor driver was provided for us in class and would provide less
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e1683a3e-649c-42b6-8b43-5e6d825b0402" /> <br>
 	Name: 114090046 <br>
 	Price:$5.20000 <br>
-	Link:https://protosupplies.com/product/dc-geared-motor-and-wheel-kit-3-9v-77rpm/ <br>
+	Link: https://protosupplies.com/product/<br>dc-geared-motor-and-wheel-kit-3-9v-77rpm/ <br>
     </td>
     <td>
 		<li> Less expensive model </li>
@@ -493,7 +493,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a7342114-bf14-4f61-8147-91a580e589a3" /> <br>
 	Name: Honeywell Sensing and Productivity Solutions HIH6030-021-001 <br>
 	Price: $13.43 <br>
-	Link: https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-021-001/4291625 <br>
+	Link: https://www.digikey.com/en/products/detail/<br>honeywell-sensing-and-productivity-solutions/HIH6030-021-001/4291625 <br>
     </td>
     <td>
 		<li> Hybrid SPI and I2C communication types </li>
@@ -528,7 +528,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/274d9813-0ebb-46a9-8484-f0171b79a834" /> <br>
 	Name: STMicroelectronics HTS221TR <br>
 	Price: $5.36 <br>
-	Link: https://www.digikey.com/en/products/detail/stmicroelectronics/HTS221TR/5180551 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/stmicroelectronics/HTS221TR/5180551 <br>
     </td>
     <td>
 		<li> Low Noise and High Resolution </li>
@@ -560,7 +560,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/b7ea10e3-afd7-4817-b204-d1b6bb69c9e9" /> <br>
 	Name: Bosch Sensortec BME280 <br>
 	Price: $6.42 <br>
-	Link: https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/bosch-sensortec/BME280/6136306 <br>
     </td>
     <td>
 		<li> Hybrid IC and SPI </li>
@@ -632,7 +632,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/15031345-2c1c-4474-a92b-bda2e4949643" /> <br>
 	Name: NCT75MNR2G <br>
 	Price: $0.83 <br>
-	Link: https://www.digikey.com/en/products/detail/onsemi/NCT75MNR2G/2748391 <br>
+	Link: https://www.digikey.com/en/products/<br>detail/onsemi/NCT75MNR2G/2748391 
     </td>
     <td>
 		<li> This device can connect to both I2C and SPI outputs. </li>
@@ -668,7 +668,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/b9a35b65-73f6-4229-b2ca-78624b025d78" /> <br>
 	Name: LMT84DCKR <br>
 	Price: $0.80 <br>
-	Link: https://www.digikey.com/en/products/detail/texas-instruments/LMT84DCKR/4090899 <br>
+	Link: https://www.digikey.com/en/products/detail/<br>texas-instruments/LMT84DCKR/4090899
     </td>
     <td>
 		<li> This device can connect to both I2C and SPI outputs. </li>
