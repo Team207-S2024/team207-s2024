@@ -9,6 +9,9 @@ th, td {
   border-color: #666666;
   background-color: #FFFFFF;
 }
+th {
+	background-color: #C0C0C0;
+}
 </style>
 
 # User Needs and Benchmarking
