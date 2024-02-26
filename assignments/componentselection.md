@@ -28,10 +28,10 @@ th {
     <th style="width:25%">
 	    <b>Solution</b>
     </th>
-    <th>
+    <th style="width:35%">
 	    <b>Pros</b>
     </th>
-    <th>
+    <th style="width: 40%">
 	    <b>Cons</b>
     </th>
   </tr>
@@ -60,10 +60,10 @@ th {
     <th style="width:25%">
 	    <b>Solution</b>
     </th>
-    <th>
+    <th style="width:35%">
 	    <b>Pros</b>
     </th>
-    <th>
+    <th style="width: 40%">
 	    <b>Cons</b>
     </th>
   </tr>
@@ -96,19 +96,19 @@ th {
     <th style="width:25%">
 	    <b>Solution</b>
     </th>
-    <th>
+    <th style="width:35%">
 	    <b>Pros</b>
     </th>
-    <th>
+    <th style="width: 40%">
 	    <b>Cons</b>
     </th>
   </tr>
   <tr>
     <td> 
       <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/fa049aea-b20a-460f-ad2b-1b5b661dc1d0" /> <br>
-	<li>Name: A23BPZ</li>
-	<li>Price: $2.26</li>
-	<li>Link: https://www.digikey.com/en/products/detail/energizer-battery-company/A23BPZ/5431480</li>
+	Name: A23BPZ <br>
+	Price: $2.26 <br>
+	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/A23BPZ/5431480 <br>
     </td>
     <td>
 		<li>Has a discharge rate (500uA)</li>
@@ -129,10 +129,10 @@ th {
     <th style="width:25%">
 	    <b>Solution</b>
     </th>
-    <th>
+    <th style="width:35%">
 	    <b>Pros</b>
     </th>
-    <th>
+    <th style="width: 40%">
 	    <b>Cons</b>
     </th>
   </tr>
