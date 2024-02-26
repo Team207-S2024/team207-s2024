@@ -262,6 +262,14 @@ Rationale: This humidity sensor was in stock, was I2C compatible, and seems rela
 
 Rationale: This temperature sensor was used in class, so there's a surplus of knowledge and reusable code that the group can utilize. 
 
+### Power Budget
+
+The team also began work on the power supply for the system, with mixed results. Due to a mixture of paltry information about batteries as well as a less than perfect iteration of the calculator used, the results are not as good as they could be. 
+
+<p align="center">
+  <i>Figure 11: Current Power Budget of the project. </i>
+</p>
+
 Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and its components.
 
 ## Microcontroller Selection
@@ -279,6 +287,19 @@ Soon after, it was time to begin putting everything together. At first, each mem
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/77cbff77-dcc5-4553-9823-f4c0480f66fd" />
 </p>
+
+<p align="center">
+  <i>Figure 12: Current Schematic of the project. </i>
+</p>
+
+### Bill of Materials
+
+The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
+
+<p align="center">
+  <i>Figure 12: Current Schematic of the project. </i>
+</p>
+
 
 Refer to [Appendix I: Hardware Proposal](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit.
 
