@@ -192,11 +192,11 @@ Once the team decided on a concept to move forward with, it became time to deter
   <i>Figure 10: Current Block Diagram of the project. </i>
 </p>
 
-Refer to [Appendix F: Component Selection](componentselection) for further information, such as a step-by-step breakdown of each component and its overall function within the project.
+Refer to [Appendix F: Block Diagram](blockdiagram) for further information, such as a step-by-step breakdown of each component and its overall function within the project.
 
 ## Component Selection
 
-Refer to [Appendix G: Block Diagram](blockdiagram) for further information.
+Refer to [Appendix G: Component Selection](componentselection) for further information.
 
 ## Microcontroller Selection
 
