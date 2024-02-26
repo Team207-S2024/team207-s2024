@@ -1,5 +1,6 @@
+<h1><b> EGR 314 Report </b></h1><br>
+
 <p align="center">
-  <h1><b> EGR 314 Report </b></h1><br>
 
   <b> Portable Weather System </b><br>
 
