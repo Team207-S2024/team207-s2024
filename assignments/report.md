@@ -1,17 +1,18 @@
 <p align="center">
-  <h1><b> EGR 314 Report </b></h1>
+  <h1><b> EGR 314 Report </b></h1><br>
 
-  <b> Portable Weather System </b>
+  <b> Portable Weather System </b><br>
 
-  <b>Team 207</b> - <i>Atmos-Gear </i>
+  <b>Team 207</b> - <i>Atmos-Gear </i><br>
 
-  <b>Members:</b> Isaac Linares, JJ Sales, Manuel Garcia, Michaela De Angelis Werner
+  <b>Members:</b> Isaac Linares, JJ Sales, Manuel Garcia, Michaela De Angelis Werner<br>
 
-<b>Date Created:</b> 01/23/2024
+  <b>Date Created:</b> 01/23/2024<br>
 
-<b>Date Updated:</b> 1/25/2024
+  <b>Date Updated:</b> 1/25/2024<br>
 
-<i>ASU Polytechnic, EGR 314, Travis Kelley</i>
+  <i>ASU Polytechnic, EGR 314, Travis Kelley</i><br>
+  
 </p>
 
 # Table of Contents
