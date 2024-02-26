@@ -8,9 +8,10 @@ table, th, td {
 th, td {
   border-color: #666666;
   background-color: #FFFFFF;
+  text-align: left;
 }
 th {
-	background-color: #C0C0C0;
+  background-color: #C0C0C0;
 }
 </style>
 
