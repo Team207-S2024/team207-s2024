@@ -11,7 +11,7 @@ th, td {
   text-align: left;
 }
 th {
-  background-color: #C0C0C0;
+  background-color: #D5D5D5;
 }
 </style>
 
