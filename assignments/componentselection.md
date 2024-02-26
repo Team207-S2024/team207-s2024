@@ -156,7 +156,7 @@ th {
   </tr>
 </table>
 
-<p align="center"> Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power </p>
+<p align="center"> Choice: Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power </p>
 
 Rationale: We chose this because even though we're unsure of the capacity, based on its competition and its cheap price, on top of being a lithium battery, we're taking the risk that this can provide enough power to sustain our project as long as it needs to. 
 
