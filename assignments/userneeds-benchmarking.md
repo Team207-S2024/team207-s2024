@@ -729,12 +729,12 @@ Finally, the group began the process of judging each need by an objective rank. 
 
 <table>
   <tr>
-   <td> <b>Need</b>
-   </td>
-   <td> <b>Group</b>
-   </td>
-   <td> <b>Rank</b>
-   </td>
+   <th> <b>Need</b>
+   </th>
+   <th> <b>Group</b>
+   </th>
+   <th> <b>Rank</b>
+   </th>
   </tr>
   <tr>
    <td>The project should be mobile.
