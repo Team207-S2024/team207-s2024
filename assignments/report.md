@@ -182,16 +182,13 @@ The plan is for this to not only be mobile in terms of the device moving somethi
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/d09de321-f589-4fb7-b789-d27ac7dd7ec7" />
 </p>
 
-
 <p align="center">
   <i>Figure 9: Solidworks Drawing of a Mobile Plant Caretaker</i>
 </p>
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=AGAKjpmc-Ck" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe> 
+<div class="embed-container">
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AGAKjpmc-Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+</div>
 
 Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
 
