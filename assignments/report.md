@@ -266,6 +266,8 @@ Rationale: This temperature sensor was used in class, so there's a surplus of kn
 
 The team also began work on the power supply for the system, with mixed results. Due to a mixture of paltry information about batteries as well as a less than perfect iteration of the calculator used, the results are not as good as they could be. 
 
+<embed src="https://github.com/Team207-S2024/team207-s2024/blob/main/images/componentselection/Power%20Budget%20Team%20207.xlsx%20-%20Power%20Budget.pdf" type="application/pdf" />
+
 <p align="center">
   <i>Figure 11: Current Power Budget of the project. </i>
 </p>
@@ -297,9 +299,8 @@ Soon after, it was time to begin putting everything together. At first, each mem
 The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
 
 <p align="center">
-  <i>Figure 12: Current Schematic of the project. </i>
+  <i>Figure 13: Current Bill of Materials for the project. </i>
 </p>
-
 
 Refer to [Appendix I: Hardware Proposal](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit.
 
