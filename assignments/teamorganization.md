@@ -1,3 +1,20 @@
+<style>
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 10px;
+  padding: 5px;
+}
+th, td {
+  border-color: #666666;
+  background-color: #FFFFFF;
+  text-align: left;
+}
+th {
+  background-color: #D5D5D5;
+}
+</style>
+
 # Team Organization
 
 ## Team Goals
