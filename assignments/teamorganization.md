@@ -35,7 +35,7 @@ Although these goals may shift and change in the future, the beginning points of
 
 ## Product Mission Statement
 
-The mission of the team is to create a sensor-based weather reporting product that is unique, portable, professional, reliable, and user-friendly. It is something that should be focused on that a person can easily use and install themselves and is relatively simple to collect data from, along with contingency plans in case things go awry.
+The mission of the team is to create a sensor-based weather-reporting product that is unique, portable, professional, reliable, and user-friendly. It is something that should be focused on that a person can easily use and install themselves and is relatively simple to collect data from, along with contingency plans in case things go awry.
 
 ## Communication Channels
 
@@ -60,7 +60,10 @@ determine the best alternative for all parties involved.
 
 ## Meeting Schedule
 
+<p align="center">
 **Mandatory Meetings: ~4:30 - 6:00 PM on Mondays and Wednesdays.**
+</p>
+
 This seemed to be a free period for each person on average per week and would allow for the group to work together on a 
 standard basis outside of class. There can and will be exceptions to the starting time, in terms of officially starting 
 an hour or so late in case people in the group will have prior engagements. 
