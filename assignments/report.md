@@ -1,4 +1,4 @@
-<h1><b> EGR 314 Report </b></h1><br>
+[<h1><b> EGR 314 Report </b></h1><br>
 
 <p align="center">
 
@@ -212,19 +212,50 @@ Refer to [Appendix F: Block Diagram](blockdiagram) for further information, such
 
 As soon as the block diagram was finished, the team began considering what components were needed to fill in the gaps. Each team member studied their assigned subsystem and picked a series of main components that each subsystem critically required. From there, the team member would choose which component out of the lists would be the best fit for this project. The chosen components for each subsystem are as follows:
 
+<p align="center"> Choice for Battery: Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power </p>
 
-Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and their components.
+Rationale: The group chose this because even though there isn't a datasheet to help determine capacity, based on being a lithium battery with stellar reviews and similar products being of the necessary capacity, it seemed like a good enough risk to take. Note that this will be for regular use, and the group may utilize other batteries over the course of the testing phase to see how it can work.
+
+<p align="center">  Choice for Regulator: LM2575D2T-3.3R4G </p>
+
+Rationale: The class used the through-hole version of this component for a prior ICC, so it would be beneficial to be able to use that knowledge going forward as much as possible. Although it wasn’t the surface mount version, it stands to reason the same circuit should theoretically work.
+
+<p align="center"> Choice for Motor Driver: IFX9201SGAUMA1 </p>
+
+Rationale: This motor driver was provided for us in class and would provide less of a learning curve, in terms of operation and coding itself. The IC itself would take less time to solder because there are less pins on the layout. 
+
+<p align="center">  Choice for Motor: 114090046 </p>
+
+Rationale: This motor provided all the optimal specs for our specific application and was reasonably priced compared to all the other available motors. The compact shape also would help with mechanical design of the project. This Motor also offers a higher torque value compared to all the other DC motors and is great for pulling heavy loads, which is required for our application.
+
+<p align="center">  Choice for Humidity Sensor: Honeywell Sensing and Productivity Solutions HIH6030-021-001 </p>
+
+Rationale: This humidity sensor was in stock, was I2C compatible, and seems relatively easy to solder and use. It has a typical application circuit and a decent datasheet to work with.
+
+<p align="center">  Choice for Temperature Sensor: TC74A4-3.3VCTTR </p>
+
+Rationale: This temperature sensor was used in class, so there's a surplus of knowledge and reusable code that the group can utilize. 
+
+Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and its components.
 
 ## Microcontroller Selection
+
+The microcontroller selection was done soon after the component selection. The process was incredibly tedious and confusing at the time, given that there were some questions regarding terminology and just how many serial communication pins were necessary. Overall, though, the search was an enlightening one and made the group more knowledgeable about the differences between the microcontrollers available. 
+
+Eventually, the group decided to go forward with the PIC18F26K40, for many reasons. For one, it will be a significantly nicer time to solder its 28 pins versus the competition's 40-64 pins. In addition, many previous groups had success with it, meaning that in the chance that help is necessary, the group can find it through previous students. Finally, the extensive documentation and the large datasheet will be critical when it comes to working with it hardware and software-wise. 
 
 Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information.
 
 ## Hardware Proposal
 
-Refer to [Appendix I: Hardware Proposal](hardwareproposal) for further information.
+Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. 
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/77cbff77-dcc5-4553-9823-f4c0480f66fd" />
+</p>
+
+Refer to [Appendix I: Hardware Proposal](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit.
 
 ## Software Proposal
 
 Refer to [Appendix J: Software Proposal](softwareproposal) for further information.
-
-
