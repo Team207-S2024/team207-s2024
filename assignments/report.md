@@ -1,4 +1,6 @@
-**EGR 314 Report**
+<title>
+  EGR 314 Report
+</title>
 
 **Portable Weather System**
 
