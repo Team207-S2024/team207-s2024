@@ -1,6 +1,6 @@
 # Selected Design
 <p align="center">
-All 3D and 2D models were generated using Solidworks
+All models were generated using Solidworks Some models from GrabCad website were used such as the pulley
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ All 3D and 2D models were generated using Solidworks
 
 
 
-# Video of Project in Action
+# Video of Design in Action
 
 
 <div class="embed-container">
