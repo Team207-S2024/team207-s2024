@@ -43,16 +43,12 @@ th {
 	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825  <br>
     </td>
     <td>
-	<ul>
-    		<li> Common brand(?)
-		<li> In heavy stock
-		<li> Good shelf life 
-	</ul>
+    		<li> Common brand(?) </li>
+		<li> In heavy stock </li>
+		<li> Good shelf life  </li>
     </td>
     <td>
-	 <ul>
-    		<li> Not used before
-    	</ul>
+    		<li> Not used before </li>
     </td>
   </tr>
 </table>
