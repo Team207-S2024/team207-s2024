@@ -61,7 +61,7 @@ determine the best alternative for all parties involved.
 ## Meeting Schedule
 
 <p align="center">
-**Mandatory Meetings: ~4:30 - 6:00 PM on Mondays and Wednesdays.**
+<b>Mandatory Meetings: ~4:30 - 6:00 PM on Mondays and Wednesdays.</b>
 </p>
 
 This seemed to be a free period for each person on average per week and would allow for the group to work together on a 
