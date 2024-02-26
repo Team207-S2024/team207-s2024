@@ -190,6 +190,8 @@ The plan is for this to not only be mobile in terms of the device moving somethi
  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AGAKjpmc-Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 </div>
 
+{% include youtube.html id="AGAKjpmc-Ck" %}
+
 Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
 
 ## Block Diagram
