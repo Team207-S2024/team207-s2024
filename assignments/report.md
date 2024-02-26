@@ -266,7 +266,7 @@ Rationale: This temperature sensor was used in class, so there's a surplus of kn
 
 The team also began work on the power supply for the system, with mixed results. Due to a mixture of paltry information about batteries as well as a less than perfect iteration of the calculator used, the results are not as good as they could be. 
 
-<embed src="https://github.com/Team207-S2024/team207-s2024/images/componentselection/PowerBudget207.pdf" type="application/pdf" />
+<object data="images/componentselection/PowerBudget207.pdf" width="1000" height="1000" type='application/pdf'/>
 
 <p align="center">
   <i>Figure 11: Current Power Budget of the project. </i>
