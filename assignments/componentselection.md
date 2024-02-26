@@ -139,25 +139,26 @@ th {
   </tr>
   <tr>
     <td> 
-      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/902b9b2e-6fac-4c15-890b-417b1c524b63" /> <br>
-	Name: Amazon Basics 4-Pack 9 Volt Alkaline Performance All-Purpose Batteries, 5-Year Shelf Life, Packaging May Vary <br>
-	Price: $9.58 <br>
-	Link: https://www.amazon.com/Amazon-<br>Basics-Performance-All-Purpose-Batteries/dp/B0774D64LT <br>
+      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0725b3b2-84f1-48d5-a1ad-e1e32612b734" /> <br>
+	Name: Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power <br>
+	Price: $16.38 <br>
+	Link: https://www.amazon.com/AmazonBasics-Volt-Lithium-Batteries-8-Pack/dp/B082DMR8DJ <br>
     </td>
     <td>
-		<li> Has a discharge rate (500uA) </li>
-		<li> In depth datasheet </li>
+		<li> Great reviews</li>
+		<li> Lithium </li>
+		<li> High shelf life </li>
     </td>
     <td>
 		<li> Have to buy from Amazon </li>
-		<li> Unsure of quality </li>
+		<li> Unsure of capacity, but it should be enough according to similar products </li>
     </td>
   </tr>
 </table>
 
-<p align="center"> Choice: 1d- Amazon Basics 4-Pack 9 Volt Alkaline Performance All-Purpose Batteries </p>
+<p align="center"> Amazon Basics 2-Pack 9 Volt Lithium High-Performance Batteries, 10-Year Shelf Life, Long Lasting Power </p>
 
-Rationale: We chose this because the 1.2 A/hr seemed like the best choice versus the others. It provides the necessary amperage for every part, and will last longer than the competition. If we chose a 500 mA/hr battery, it would get drained very quickly due to the motor’s current draw. 
+Rationale: We chose this because even though we're unsure of the capacity, based on its competition and its cheap price, on top of being a lithium battery, we're taking the risk that this can provide enough power to sustain our project as long as it needs to. 
 
 ### Switching Voltage Regulator
 
