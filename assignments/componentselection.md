@@ -25,7 +25,7 @@ th {
 
 <table>
   <tr>
-    <th>
+    <th style="width:33%">
 	    <b>Solution</b>
     </th>
     <th>
@@ -57,7 +57,7 @@ th {
 
 <table>
   <tr>
-    <th>
+    <th style="width:33%">
 	    <b>Solution</b>
     </th>
     <th>
@@ -75,20 +75,16 @@ th {
 	Link: https://www.digikey.com/en/products/detail/panasonic-bsg/6LF22XWA-B/5067196  <br>
     </td>
     <td>
-	<ul>
-		<li>Used before in EGR304
-		<li>Can be put into series
-		<li>Fairly cheap
-		<li>In stock
-	</ul>
+		<li>Used before in EGR304</li>
+		<li>Can be put into series</li>
+		<li>Fairly cheap</li>
+		<li>In stock</li>
     </td>
     <td>
-	 <ul>
-		<li>Had a few issues using it previously
-		<li>May not be enough/be too much voltage
-		<li>Not a great datasheet
-		<li>Not rechargeable
-    	</ul>
+		<li>Had a few issues using it previously</li>
+		<li>May not be enough/be too much voltage</li>
+		<li>Not a great datasheet</li>
+		<li>Not rechargeable</li>
     </td>
   </tr>
 </table>
