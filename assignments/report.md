@@ -188,6 +188,16 @@ Refer to [Appendix E: Selected Design](selecteddesign) for further information a
 
 Once the team decided on a concept to move forward with, it became time to determine how the entire project would fit together within the technical requirements of the project. Thus, the group created a block diagram to hash out a basic concept of how everything would fit together on a technical level. It began with a rough idea, but once components were selected and finalized, the group was able to select what pins were necessary for each component to communicate with one another, as can be seen below.
 
+During this point, each team member chose their assigned subsystem. The choices were as follows:
+
+**Isaac Linares:** Humidity Sensor 
+
+**JJ Sales:** Temperature Sensor
+
+**Manuel Garcia:** Motor Driver/Motor
+
+**Michaela De Angelis Werner:** Microcontroller/Power Supply
+
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/3dd5a8ab-1391-4818-83de-0e93be987333" />
 </p>
@@ -200,7 +210,10 @@ Refer to [Appendix F: Block Diagram](blockdiagram) for further information, such
 
 ## Component Selection
 
-Refer to [Appendix G: Component Selection](componentselection) for further information.
+As soon as the block diagram was finished, the team began considering what components were needed to fill in the gaps. Each team member studied their assigned subsystem and picked a series of main components that each subsystem critically required. From there, the team member would choose which component out of the lists would be the best fit for this project. The chosen components for each subsystem are as follows:
+
+
+Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and their components.
 
 ## Microcontroller Selection
 
