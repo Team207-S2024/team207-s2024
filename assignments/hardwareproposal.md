@@ -2,7 +2,10 @@
 
 ## Current Schematic
 
-![EGR314_team207_hardwareproposal_real](https://github.com/Team207-S2024/team207-s2024/assets/156377035/35e53270-3269-4ff1-bcc7-de6780c168e8)
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/35e53270-3269-4ff1-bcc7-de6780c168e8" />
+</p>
 
 <p align="center">
   <i>Figure 1: Picture of the Full Schematic</i>
@@ -14,7 +17,9 @@ An in-depth look at each part of the schematic will be shown below.
 
 ### Power Supply
 
-![voltreg](https://github.com/Team207-S2024/team207-s2024/assets/156377035/a355064f-b398-4bc1-82af-38ed8e6aaf2a)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a355064f-b398-4bc1-82af-38ed8e6aaf2a" />
+</p>
 
 <p align="center">
   <i>Figure 2: The Power Supply Subcircuit </i>
@@ -42,7 +47,9 @@ As the power supply's existence is how every other circuit can function, it stan
 
 ### Microcontroller
 
-![microcon](https://github.com/Team207-S2024/team207-s2024/assets/156377035/00458cd9-c30d-41ca-a94f-15b3d3ee700d)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/00458cd9-c30d-41ca-a94f-15b3d3ee700d" />
+</p>
 
 <p align="center">
   <i>Figure 3: The Microcontroller Subcircuit </i>
@@ -52,7 +59,9 @@ The microcontroller is where every other part of the circuit communicates with o
 
 ### MCLR 
 
-![mclr](https://github.com/Team207-S2024/team207-s2024/assets/156377035/34626180-2637-4ac3-b88f-43444438cb71)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/34626180-2637-4ac3-b88f-43444438cb71" />
+</p>
 
 <p align="center">
   <i>Figure 3: The MCLR Subcircuit </i>
@@ -62,7 +71,9 @@ The purpose of the MCLR circuit is to help reset the device without having to tu
 
 ### Debugging LEDs
 
-![debugled](https://github.com/Team207-S2024/team207-s2024/assets/156377035/d40d4481-5e78-4330-b2ff-6f46fd722d41)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/d40d4481-5e78-4330-b2ff-6f46fd722d41" />
+</p>
 
 <p align="center">
   <i>Figure 4: The Debugging LEDs Subcircuit </i>
@@ -72,7 +83,9 @@ For the sake of debugging, and seeing a visual cue as to when certain things are
 
 ### ESP32
 
-![esp32oled](https://github.com/Team207-S2024/team207-s2024/assets/156377035/af26bcc2-62c0-428a-a3a7-de9590d6e595)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/af26bcc2-62c0-428a-a3a7-de9590d6e595" />
+</p>
 
 <p align="center">
   <i>Figure 5: The ESP32 Subcircuit </i>
@@ -82,7 +95,9 @@ The ESP32 is how the device will be connecting to WiFi. It will be transmitting 
 
 ### Motor Driver
 
-![motordriver](https://github.com/Team207-S2024/team207-s2024/assets/156377035/cf909e8f-e225-42d3-a776-2e4af7331ebf)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cf909e8f-e225-42d3-a776-2e4af7331ebf" />
+</p>
 
 <p align="center">
   <i>Figure 5: The Motor Driver Subcircuit </i>
@@ -92,7 +107,9 @@ The motor driver is responsible for transmitting data about the motor, as well a
 
 ### Humidity Sensor
 
-![humidsense](https://github.com/Team207-S2024/team207-s2024/assets/156377035/3d8fe90c-e65a-412b-8a9b-1501cffc16ad)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/3d8fe90c-e65a-412b-8a9b-1501cffc16ad" />
+</p>
 
 <p align="center">
   <i>Figure 6: The Humidity Sensor Subcircuit </i>
@@ -102,7 +119,9 @@ The humidity sensor will transmit data that it gets from the soil to the microco
 
 ### Temperature Sensor
 
-![tempsens](https://github.com/Team207-S2024/team207-s2024/assets/156377035/8f2b63e9-ec32-437d-bbe8-6d3a80174c3a)
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/8f2b63e9-ec32-437d-bbe8-6d3a80174c3a" />
+</p>
 
 <p align="center">
   <i>Figure 6: The Temperature Sensor Subcircuit </i>
