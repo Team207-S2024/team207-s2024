@@ -25,45 +25,27 @@ th {
 
 <table>
   <tr>
-   <th>Solution
-   </th>
-   <th>Pros
-   </th>
-   <th>Cons
-   </th>
+    <th><b>Solution</b></th>
+    <th><b>Pros</b></th>
+    <th><b>Cons</b></th>
   </tr>
   <tr>
-   <td>
-     
-![b1](https://github.com/Team207-S2024/team207-s2024/assets/156377035/7ad08af1-8cb1-4037-a20c-35aa7d08064c)
-
-<p>
-Name: EN22
-<p>
-Price: $2.61
-<p>
-Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825
-   </td>
-   <td>
-<ul>
-
-<li>Common brand(?)
-
-<li>In heavy stock
-
-<li>Good shelf life
-
-<li>Good datasheet with drawing of dimensions
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Not used before
-</li>
-</ul>
-   </td>
+    <td> 
+      <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7ad08af1-8cb1-4037-a20c-35aa7d08064c" />
+    Name: EN22
+	<p>
+	Price: $2.61
+	<p>
+	Link: https://www.digikey.com/en/products/detail/energizer-battery-company/EN22/704825
+    </td>
+    <td>
+    <li>Common brand(?)
+	<li>In heavy stock
+	<li>Good shelf life 
+    </td>
+    <td>
+    <li>Not used before
+	</td>
   </tr>
 </table>
 
