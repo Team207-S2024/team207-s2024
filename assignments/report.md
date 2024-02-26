@@ -187,10 +187,26 @@ The plan is for this to not only be mobile in terms of the device moving somethi
 </p>
 
 <div class="embed-container">
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AGAKjpmc-Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGAKjpmc-Ck?si=usMTWPXO7_qgTkfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-{% include youtube.html id="AGAKjpmc-Ck" %}
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
 
