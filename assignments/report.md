@@ -1,6 +1,12 @@
-<title>
-  EGR 314 Report
-</title>
+<style>
+  h1 {
+  font-size: 40px;
+}
+</style>
+
+<h1>
+  EGR 314 Report 
+</h1>
 
 **Portable Weather System**
 
