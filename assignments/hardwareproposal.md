@@ -2,7 +2,6 @@
 
 ## Current Schematic
 
-
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/35e53270-3269-4ff1-bcc7-de6780c168e8" />
 </p>
@@ -131,5 +130,5 @@ The temperature sensor will transmit data that it gets from the area to the micr
 
 ## Bill of Materials
 
-
+[Back](/team207-s2024)
 
