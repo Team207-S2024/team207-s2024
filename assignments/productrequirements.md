@@ -79,27 +79,27 @@ The team still had many questions at this point in the design process, so they w
 
 ## Milestones
 
-<mark> Setup Git/Github/Report: 01/19/2024 @ 11:59 PM
+<mark> Setup Git/Github/Report: 01/19/2024 @ 11:59 PM </mark>
 
-Design Ideation: 01/19/2024 @ 11:59 PM
+<mark> Design Ideation: 01/19/2024 @ 11:59 PM </mark>
 
-Team Checkpoint 1: 01/26/2024 @ 11:59 PM
+<mark> Team Checkpoint 1: 01/26/2024 @ 11:59 PM </mark>
 
-Component Selection: 01/31/2024 @ 6:00 PM
+<mark> Component Selection: 01/31/2024 @ 6:00 PM </mark>
 
-Microcontroller Selection: 02/07/2024 @ 6:00 PM
+<mark> Microcontroller Selection: 02/07/2024 @ 6:00 PM </mark>
 
-CATME Survey 1: 02/09/2024 @ 11:59 PM
+<mark> CATME Survey 1: 02/09/2024 @ 11:59 PM </mark>
 
-Software Proposal: 02/14/2024 @ 6:00 PM
+<mark> Software Proposal: 02/14/2024 @ 6:00 PM </mark>
 
-Hardware Orders: 02/14/2024 @ 11:59 PM
+<mark> Hardware Orders: 02/14/2024 @ 11:59 PM </mark>
 
-Subsystem Design: 02/19/2024 @ 11:59 PM
+<mark> Subsystem Design: 02/19/2024 @ 11:59 PM </mark>
 
-Hardware Proposal: 02/21/2024 @ 6:00 PM </mark>
+<mark> Hardware Proposal: 02/21/2024 @ 6:00 PM </mark>
 
-Team Checkpoint 2 (Presentation): 02/26/2024 @ 6:00 PM
+<mark> Team Checkpoint 2 (Presentation): 02/26/2024 @ 6:00 PM </mark>
 
 Hardware Implementation 1: 03/01/2024 @ 11:59 PM
 
