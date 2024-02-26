@@ -1,10 +1,6 @@
 # Software Proposal
 
 <p align="center">
-  <img src = "" />
-</p>
-
-<p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/1cf9c85b-175a-42b8-bdc6-fe0351766d09" />
 </p>
 
