@@ -28,8 +28,9 @@ Shown in the figure above is a diagram of our software proposal. The diagram wil
 This is our main software design for the microcontroller. Our main loop will consist of receiving data from all 3 subsystems, the humidity sensor, the motor driver, and the temperature sensor. The microcontroller will then use this data to make its next decision. It will keep this cycle going until a decision is made or the device is turned off. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/c64ed0a7-356b-4900-820a-33e026235d0d" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/bfa35d21-f6aa-48fc-b736-0673d750a493" />
 </p>
+
 
 <p align="center">
   <i>Figure 3: The Interrupts</i>
