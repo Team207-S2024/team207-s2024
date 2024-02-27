@@ -526,7 +526,7 @@ This figure goes into more detail about the specifics of the microcontroller fun
 #### Humidity and Temperature Sensors
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/55ac3fb3-a595-4835-aec8-be3be23cc7d1" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/003d0f2e-2936-4e06-9024-af9bdbed61ee" />
 </p>
 
 <p align="center">
