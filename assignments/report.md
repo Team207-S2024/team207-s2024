@@ -18,24 +18,31 @@
 
 # Table of Contents
 
-1. [Team Organization](#team-organization)
+1. [Introduction](#introduction)
 
-2. [User Needs](#user-needs)
+2. [Team Organization](#team-organization)
 
-3. [Design Ideation](#design-ideation)
+3. [User Needs](#user-needs)
 
-4. [Selected Design](#selected-design)
+4. [Design Ideation](#design-ideation)
 
-5. [Block Diagram](#block-diagram)
+5. [Selected Design](#selected-design)
 
-6. [Component Selection](#component-selection)
+6. [Block Diagram](#block-diagram)
 
-7. [Microcontroller Selection](#microcontroller-selection)
+7. [Component Selection](#component-selection)
 
-8. [Hardware Proposal](#hardware-proposal)
+8. [Microcontroller Selection](#microcontroller-selection)
 
-9. [Software Proposal](#software-proposal)
+9. [Hardware Proposal](#hardware-proposal)
 
+10. [Software Proposal](#software-proposal)
+
+## Introduction
+
+The following is an exhaustive report on Team 207's project for EGR314. Below you will find the research, prototyping, and implementation of the team's idea. 
+
+The project itself is currently named "Mobile Plant Caretaker," and as the name suggests, it aids the user in taking care of a potted plant by automatically moving it in and out of shade based on whether it's too hot or too cold, and whether it needs water or not. It is meant to be lightweight for the user to be able to put it where they need to and be mobile in the sense of not needing to be plugged in. To fulfill the ESP32 requirements, it will send its data over WiFi so the user can see how the temperature and humidity and the plant fluctuate over certain intervals. In addition, it will send out a small notification when the plant needs water, so the user can water the plant themselves.
 
 ## Team Organization
 
