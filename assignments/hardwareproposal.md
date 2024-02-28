@@ -54,7 +54,7 @@ As the power supply's existence is how every other circuit can function, it stan
   <i>Figure 3: The Microcontroller Subcircuit </i>
 </p>
 
-The microcontroller is where every other part of the circuit communicates with one another, it's next on the list. Here, it's shown where each other part connects to it through the many ports shown. The programmer that the group will be utilizing will be connecting through a 5-pin header, as can be seen at the top. Also, note another bypass capacitor to further protect the circuit. One final note, although RB0 is ported, that is an error due to a previous iteration of this schematic having it connected to a header pin. Please ignore it, as it was a mistake to keep it on the schematic. 
+The microcontroller is where every other part of the circuit communicates with one another, it's next on the list. Here, it's shown where each other part connects to it through the many ports shown. The programmer that the group will be utilizing will be connecting through a 5-pin header, as can be seen at the top. Also, note another bypass capacitor to further protect the circuit. 
 
 ### MCLR 
 
