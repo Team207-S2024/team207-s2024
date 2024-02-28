@@ -460,7 +460,7 @@ Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for f
 Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/77cbff77-dcc5-4553-9823-f4c0480f66fd" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
 </p>
 
 <p align="center">
