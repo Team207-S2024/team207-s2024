@@ -3,7 +3,7 @@
 ## Current Schematic
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/35e53270-3269-4ff1-bcc7-de6780c168e8" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ An in-depth look at each part of the schematic will be shown below.
 ### Power Supply
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a355064f-b398-4bc1-82af-38ed8e6aaf2a" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7fe77546-292f-4d11-b718-ac96efad69c5" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ As the power supply's existence is how every other circuit can function, it stan
 ### Microcontroller
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/00458cd9-c30d-41ca-a94f-15b3d3ee700d" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cce8e642-8ee2-4171-bbb3-12bf48860b4b" />
 </p>
 
 <p align="center">
@@ -59,11 +59,11 @@ The microcontroller is where every other part of the circuit communicates with o
 ### MCLR 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/34626180-2637-4ac3-b88f-43444438cb71" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/f28e2d18-7b66-4881-8f2f-3b85fb215318" />
 </p>
 
 <p align="center">
-  <i>Figure 3: The MCLR Subcircuit </i>
+  <i>Figure 4: The MCLR Subcircuit </i>
 </p>
 
 The purpose of the MCLR circuit is to help reset the device without having to turn the entire device off by unplugging or disconnecting the power source. The subcircuit is directly from the microcontroller's datasheet. Rather than a switch, a jumper was used because when the programming is finalized, it won't be necessary to turn it on or off. 
@@ -71,11 +71,11 @@ The purpose of the MCLR circuit is to help reset the device without having to tu
 ### Debugging LEDs
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/d40d4481-5e78-4330-b2ff-6f46fd722d41" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/6550d1e3-c768-4073-8adc-2d5983046399" />
 </p>
 
 <p align="center">
-  <i>Figure 4: The Debugging LEDs Subcircuit </i>
+  <i>Figure 5: The Debugging LEDs Subcircuit </i>
 </p>
 
 For the sake of debugging, and seeing a visual cue as to when certain things are done, debugging LEDs were considered necessary for this project. The group decided on 1 set of RGB LEDs, and an extra green LED. In likelihood, each set of lights being on will be a signal for certain triggers (or lack thereof). They each connect to a different GPIO pin on the microcontroller and have a ballast resistor to help in not burning up. 
@@ -83,11 +83,11 @@ For the sake of debugging, and seeing a visual cue as to when certain things are
 ### ESP32
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/af26bcc2-62c0-428a-a3a7-de9590d6e595" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/b6357f6a-bd35-44db-934a-0e68c5276003" />
 </p>
 
 <p align="center">
-  <i>Figure 5: The ESP32 Subcircuit </i>
+  <i>Figure 6: The ESP32 Subcircuit </i>
 </p>
 
 The ESP32 is how the device will be connecting to WiFi. It will be transmitting and receiving data from the microcontroller through the pins shown, as well as showing data through an OLED, the pins of which can be seen at the top. 
@@ -95,11 +95,11 @@ The ESP32 is how the device will be connecting to WiFi. It will be transmitting 
 ### Motor Driver
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cf909e8f-e225-42d3-a776-2e4af7331ebf" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/82bf034c-f651-4bc4-ad10-08ce1ab97737" />
 </p>
 
 <p align="center">
-  <i>Figure 5: The Motor Driver Subcircuit </i>
+  <i>Figure 7: The Motor Driver Subcircuit </i>
 </p>
 
 The motor driver is responsible for transmitting data about the motor, as well as receiving data from the microcontroller to move the motor in a certain way. It is an SPI-based motor driver and utilizes the pins necessary for that method of serial communication. The circuit was found in the datasheet.
@@ -107,11 +107,11 @@ The motor driver is responsible for transmitting data about the motor, as well a
 ### Humidity Sensor
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/3d8fe90c-e65a-412b-8a9b-1501cffc16ad" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/17a1fc93-692a-43d0-8735-8819036da57a" />
 </p>
 
 <p align="center">
-  <i>Figure 6: The Humidity Sensor Subcircuit </i>
+  <i>Figure 8: The Humidity Sensor Subcircuit </i>
 </p>
 
 The humidity sensor will transmit data that it gets from the soil to the microcontroller. It will be using I2C communication. The circuit was obtained from the datasheet.
@@ -119,11 +119,11 @@ The humidity sensor will transmit data that it gets from the soil to the microco
 ### Temperature Sensor
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/8f2b63e9-ec32-437d-bbe8-6d3a80174c3a" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e692ecd0-006b-4786-8cab-35a96292e758" />
 </p>
 
 <p align="center">
-  <i>Figure 6: The Temperature Sensor Subcircuit </i>
+  <i>Figure 9: The Temperature Sensor Subcircuit </i>
 </p>
 
 The temperature sensor will transmit data that it gets from the area to the microcontroller. It will be using I2C communication. The circuit was obtained from the datasheet. 
