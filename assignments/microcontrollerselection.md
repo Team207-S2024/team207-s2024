@@ -48,7 +48,7 @@ Subsequently, the team engaged in an exhaustive research and evaluation phase, m
 | -------------------------------- | -------------| -------------| -------------| -------------|
 | Overall Pros                     | Two Each     | 1. Has both I2C and SPI pins so we can use both at the same time. 2. In depth Datasheet. | 1. Meets all requirements with redundancy on necessary features. 2. Cost-effective | 1. Has an ample amount of I/O pins 2. Enhanced core features with multiple PWM and EUSART modules for serial communication. 3. Used in Previous Assignments. |
 | Overall Cons                     | Two Each     | 1. No External ADC. 2. Few/Limited code examples | 1. No External ADC. 2. Only one extra EUSART Port. | 1. Limited GPIO ports. 2. Less pins equates to fewer functions and features. |
-| Rankings                         | First Choice = 2, Second Choice = 3, Third Choice = 1 | 2 | 3 | 1 |
+| Rankings                         | First Choice = 1, Second Choice = 2, Third Choice = 3 | 2 | 3 | 1 |
 
 ***
 
