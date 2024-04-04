@@ -36,7 +36,7 @@ Subsequently, the team engaged in an exhaustive research and evaluation phase, m
 | Available IC Packages/Footprints | Find in the microcontroller datasheet. Choose a microcontroller with both surface mount and DIP/through-hole packages available. See Most Common Mistakes below for requirements to improve manufacturing reliability. | SOIC (SM) | SOIC (SM) | SOIC (SM) |
 | Supports External Interupts? | Find in the Microcontroller Datasheet | 4 | 3 | 3 |
 | In-System Programming Capability and Type | Allows for programming the microcontroller without removing it from the PCB. Find in the microcontroller datasheet. | ICSP | PDID | ICSP |
-| Programming Hardware, Cost, and URL | Find on the Microcontroller Product Page | [SnapDebug](https://www.microchip.com/en-us/development-tool/PG164100) | [SnapDebug](https://www.microchip.com/en-us/development-tool/PG164100) | [SnapDebug]([https://www.microchip.com/en-us/development-tool/dv244140](https://www.microchip.com/en-us/development-tool/PG164100)) |
+| Programming Hardware, Cost, and URL | Find on the Microcontroller Product Page | [SnapDebug](https://www.microchip.com/en-us/development-tool/PG164100) | [SnapDebug](https://www.microchip.com/en-us/development-tool/PG164100) | [SnapDebug](https://www.microchip.com/en-us/development-tool/PG164100) |
 | Works with MPLAB® X Integrated Development Environment (IDE)? | Required | Yes | Yes | Yes |
 | Works with Microchip Code Configurator? | Required | Yes | Yes | Yes |
 
