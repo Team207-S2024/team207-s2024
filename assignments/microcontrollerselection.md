@@ -57,6 +57,10 @@ Subsequently, the team engaged in an exhaustive research and evaluation phase, m
 **Choice:** Option 1
 
 **Rationale:**
-Throughout this discerning evaluation process, each microcontroller was subjected to a comprehensive analysis of its strengths and weaknesses. Prospective advantages such as comprehensive code examples and ample I/O pins were carefully juxtaposed against potential limitations, including constraints such as limited program memory or processing power.
+The selection of the PIC18F26K40 was guided by its rich array of features, comprehensive documentation, and the esteemed reputation of its microcontroller family. This choice embodies a strategic decision aimed at optimizing project success.
 
-Upon meticulous deliberation and discernment, the team methodically ranked the options based on their alignment with the project's intricate requirements. Ultimately, following careful consideration, the team arrived at the definitive selection of the PIC18F26K40 microcontroller as the most fitting choice. This decision reflects a strategic alignment with the project's multifaceted needs and embodies a commitment to leveraging advanced technology to realize project objectives with unparalleled efficiency and effectiveness.
+The PIC18F26K40 offers a wide range of options, providing flexibility to accommodate diverse project requirements. Its extensive documentation further facilitates smooth integration and development, ensuring clarity and efficiency throughout the process. Moreover, the well-established quality associated with the PIC18F series instills confidence in its reliability and performance.
+
+Ease of soldering also factored into the decision, ensuring practicality and convenience during assembly and manufacturing processes.
+
+While challenges may arise in the future, the PIC18F26K40 stands as the most promising choice for achieving success within the group's current scope. Its robust features, ample documentation, and ease of soldering collectively position it as the optimal solution for driving the project forward with confidence and efficiency.
