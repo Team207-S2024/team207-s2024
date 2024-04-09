@@ -2,7 +2,7 @@
 
 _ASU EGR314 Spring 2024, Travis Kelley_
 
-_Jonathan Elijah Sales, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Werner_
+_Danial Haddad, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Werner_
 
 # Report
 
