@@ -38,6 +38,28 @@
 
 10. [Software Proposal](#software-proposal)
 
+## Appendix
+
+[Appendix A: Team Organization Document](https://team207-s2024.github.io/team207-s2024/assignments/teamorganization)
+
+[Appendix B: User Needs and Benchmarking](https://team207-s2024.github.io/team207-s2024/assignments/userneeds-benchmarking)
+
+[Appendix C: Product Requirements Document](https://team207-s2024.github.io/team207-s2024/assignments/productrequirements)
+
+[Appendix D: Design Ideation](https://team207-s2024.github.io/team207-s2024/assignments/designideation)
+
+[Appendix E: Selected Design](https://team207-s2024.github.io/team207-s2024/assignments/selecteddesign)
+
+[Appendix F: Block Diagram](https://team207-s2024.github.io/team207-s2024/assignments/blockdiagram)
+
+[Appendix G: Component Selection](https://team207-s2024.github.io/team207-s2024/assignments/componentselection)
+
+[Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection)
+
+[Appendix I: Software Proposal](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
+
+[Appendix J: Hardware Proposal](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
+
 ## Introduction
 
 The following is an exhaustive report on Team 207's project for EGR314. Below you will find the research, prototyping, and implementation of the team's idea. 
