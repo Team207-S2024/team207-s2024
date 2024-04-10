@@ -6,7 +6,9 @@ _Danial Haddad, Isaac D. Linares, Manuel Garcia, Michaela De Angelis Werner_
 
 # Report
 
-[Here](https://team207-s2024.github.io/team207-s2024/assignments/report) is a link to our full report. The purpose of this page is to provide easy access to not only the report but also the appendix that comprises the meat of the report. 
+[Here](https://team207-s2024.github.io/team207-s2024/assignments/report) is a link to our full report. 
+
+The purpose of this page is to provide easy access to not only the report but also the appendix that comprises the meat of the report. 
 
 # Appendix
 
