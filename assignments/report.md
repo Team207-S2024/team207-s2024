@@ -38,7 +38,7 @@
 
 10. [Software Proposal](#software-proposal)
 
-## Appendix
+# Appendix
 
 [Appendix A: Team Organization Document](https://team207-s2024.github.io/team207-s2024/assignments/teamorganization)
 
