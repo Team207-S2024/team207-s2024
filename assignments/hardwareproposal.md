@@ -130,5 +130,6 @@ The temperature sensor will transmit data that it gets from the area to the micr
 
 ## Bill of Materials
 
-[Back](/team207-s2024)
+[Back to Home Page](/team207-s2024)
 
+[Back to Report](report)
