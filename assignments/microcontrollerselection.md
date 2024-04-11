@@ -64,3 +64,7 @@ The PIC18F26K40 offers a wide range of options, providing flexibility to accommo
 Ease of soldering also factored into the decision, ensuring practicality and convenience during assembly and manufacturing processes.
 
 While challenges may arise in the future, the PIC18F26K40 stands as the most promising choice for achieving success within the group's current scope. Its robust features, ample documentation, and ease of soldering collectively position it as the optimal solution for driving the project forward with confidence and efficiency.
+
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
