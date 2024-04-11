@@ -111,8 +111,12 @@ Manuel Garcia
 
 Isaac D. Linares
 
-JJ Sales
+Danial Haddid
 
 Team 207
+
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
 
 [Back](/team207-s2024)
