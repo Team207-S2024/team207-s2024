@@ -127,7 +127,7 @@ The team worked exceptionally hard at identifying and deciphering the user needs
 Refer to [Appendix B: User Needs and Benchmarking Assignment](userneeds-benchmarking)
 for further information, the content of the VOC research, and the final table derived from the work. 
 
-The PRD (Product Requirements Document) was developed soon after, which involved creating unique scenarios for a potential product in order to generate further ideas as well as brainstorming potential stakeholders and what each person wanted from the project. Open questions were also developed that can hopefully be answered as the product develops. 
+The PRD (Product Requirements Document) was developed soon after, which involved creating unique scenarios for a potential product in order to generate further ideas as well as brainstorming potential stakeholders and what each person wanted from the project. Open questions were also developed that can hopefully be answered as the product develops. The aspects created from the PRD are going to be what the project will use as a baseline for the minimum requirements that the group deigns as necessary.  
 
 Refer to [Appendix C: Product Requirements Document Assignment](productrequirements)
 for further information about the brainstorming the team did for this assignment, including the stories and aspects created.
