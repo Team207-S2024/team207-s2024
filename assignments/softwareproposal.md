@@ -67,8 +67,9 @@ The diagram above displays the main way the motor driver receives information an
 
 [Link to main](#software-proposal)
 
-[Back](/team207-s2024)
+[Back to Home Page](/team207-s2024)
 
+[Back to Report](report)
 
 
 
