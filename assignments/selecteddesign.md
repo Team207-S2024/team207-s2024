@@ -117,3 +117,7 @@ All models were generated using Solidworks Some models from GrabCad website were
   height: 100%;
 }
 </style>
+
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
