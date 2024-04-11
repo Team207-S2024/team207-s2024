@@ -36,3 +36,8 @@ The purpose of this page is to provide easy access to not only the report but al
 
 {% include youtube.html id="mmC6a5EaF1E" %}  
 
+# Code Repository
+
+[Here](https://github.com/Team207-S2024/coderepo) is a link to our code repository. 
+
+
