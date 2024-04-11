@@ -82,7 +82,7 @@ for further information about our team organization and team decisions.
 ### Team Charter
 
 The team decided on the charter fairly late but eventually came to an agreement on what everyone wanted
-for the group in terms of personal goals.
+for the group in terms of personal goals. It was agreed that serial communication and the knowledge needed for that is something very important for an engineer to understand, no matter what kind. Many components, including various sensors and drivers require knowledge of not only the basics of how to set up serial communication, but how to find the information required to set it up. That concept includes understanding how to access and read datasheets for products, as well as how to manipulate bits. 
 
 _Our goal is to gain knowledge in digital circuits that utilize serial communication. 
 We as a team want this product to be compared to other professional-grade devices being sold on the market._
@@ -90,7 +90,7 @@ We as a team want this product to be compared to other professional-grade device
 ### Mission Statment
 
 After talking with each other about one another's interests, the team began to determine what the project
-needed to have as well as what each individual member wanted it to have. 
+needed to have as well as what each individual member wanted it to have. The product requirements were also a significant factor in what we wanted for the mission statement. 
 
 _The mission of the team is to create a sensor-based weather reporting product that is unique, portable, 
 professional, reliable, and user-friendly. It is something that should be focused on that a person can easily
