@@ -685,3 +685,7 @@ Rationale: This motor provided all the optimal specs for our specific applicatio
     </td>
   </tr>
 </table>
+
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
