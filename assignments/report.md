@@ -1,5 +1,6 @@
 <h1><b> EGR 314 Report </b></h1><br>
 <p align="center">
+
 	
 <p align="center", width = "50%">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/064d1419-6376-4e5f-84d7-16b91784d796" />
