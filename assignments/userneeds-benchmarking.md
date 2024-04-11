@@ -1538,4 +1538,7 @@ Finally, the group began the process of judging each need by an objective rank. 
   </tr>
 </table>
 
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
 [Back](/team207-s2024)
