@@ -81,4 +81,8 @@ This device would feature a sensor that is able to detect temperature and humidi
   <i>Figure 5: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight</i>
 </p>
 
+[Back to Home Page](/team207-s2024)
+
+[Back to Report](report)
+
 [Back](/team207-s2024)
