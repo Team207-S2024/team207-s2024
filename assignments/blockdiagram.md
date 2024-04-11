@@ -40,5 +40,6 @@ _Figure 5: Humidity Sensor_
 
 The humidity sensor will be our main way of communicating with the ESP32 Wifi module. The humidity sensor will be constanly tracking the humidity of the soil in the flower pot. If the sensor detects that the humidity is too low, it will send an alert to your phone notfiying you that the plant requires water.
 
-[Back](/team207-s2024)
+[Back to Home Page](/team207-s2024)
+[Back to Report](report)
 
