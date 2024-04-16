@@ -572,8 +572,18 @@ The humidity sensor will be our way of implementing wi-fi capability into this p
 
 The diagram above displays the main way the motor driver receives information and processes them. The data from the humidity and temp sensors will be converted to EUSART. The EUSART data will then be read by the microcontroller and sent to the motor driver, which will inform it of which direction to move and how far.  
 
-[Link to main](#software-proposal)
-
-[Back](/team207-s2024)
-
 Refer to [Appendix J: Software Proposal](softwareproposal) for further information.
+
+## Hardware Implementation
+
+Refer to [Appendix K: Hardware Implementation](hardwareimplementation) for further information.
+
+## Software Implementation
+
+Refer to [Appendix L: Software Implementation](softwareimplementation) for further information.
+
+## Innovation Showcase Poster
+
+## System Verification
+
+Refer to [Appendix M: System Verification](systemverification) for further information.
