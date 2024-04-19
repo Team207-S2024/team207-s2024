@@ -9,7 +9,7 @@
 
   <b>Team 207</b> - <i>Atmos-Gear </i><br>
 
-  <b>Members:</b> Isaac Linares, JJ Sales, Manuel Garcia, Michaela De Angelis Werner<br>
+  <b>Members:</b> Isaac Linares, Danial Haddad, Manuel Garcia, Michaela De Angelis Werner<br>
 
   <b>Date Created:</b> 01/23/2024<br>
 
@@ -496,6 +496,12 @@ One change that should have been made but wasn't was the swap between the ESP32'
   <i>Figure 12: Final Schematic of the project. </i>
 </p>
 
+### Version 2.0
+
+If this were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
+
+For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choice themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely in the soil of the plant, but because there was a distinct restriciton on daughter boards this was the closest to that concept. 
+
 ### Bill of Materials
 
 The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
@@ -508,7 +514,7 @@ The group also finalized the bill of materials for the project for the purpose o
   <i>Figure 13: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit, as well as the final PCB layout. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ### Software Implementation
 
