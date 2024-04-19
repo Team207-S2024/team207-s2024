@@ -480,7 +480,7 @@ Eventually, the group decided to go forward with the PIC18F26K40, for many reaso
 
 Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and pros/cons of each one.
 
-## Hardware Proposal
+## Hardware Implementation
 
 Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. Once tested on a beginning teamboard, the group made the necessary changes to the schematic to make it work correctly. 
 
@@ -538,7 +538,7 @@ Once done with reading data and completing actions, it will then print the data 
 
 #### Top 5 Biggest Changes Since Software Proposal
 
-There were a lot of changes to the flow of the software implementation. 
+There were a lot of changes to the flow of the . 
 
 <b> 1. Motor Move Position Interrupt </b>
 
@@ -550,14 +550,14 @@ In the beginning it was assumed that the humidity sensor would work simply like 
 
 <b> 3. Overall Flow of Main Loop </b>
 
-The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final software implementation correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
+The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
 
 <b> 4. Misunderstandings of Checks </b>
 
 It wasn't actually necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance it didn't seem necessary. 
 
-<b> 5. Misunderstandings of Checks </b>
-The bigger changes are from how the motor change was considered- it wasn't actually necessary to check if there was a motor signal, as all that is necessary to know is that it does one or the other thing. 
+<b> 5. Misunderstandings of Motor </b>
+The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
 Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report.
 
@@ -567,9 +567,33 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
-## Lessons Learned
+## Lessions Learned
 
-Overall, there was a lot to learn in this class, and if reading this as a new student, there's a good amount of stuff to consider:
+Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
+
+1. A
+
+2. B
+
+3. C
+
+4. D
+
+5. E
+
+6. F
+
+7. G
+
+8. H
+
+9. I
+
+10. J
+
+## Recommendations
+
+There's a lot of recommendations to give, and it's a bit difficult to leave it to 5, but here are the top 5 that the group considered:
 
 1. Time Management
 
@@ -579,10 +603,8 @@ There are a lot of things to learn and do in this class, and getting them done i
 
 This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
 
-3. Breadboarding
+3. A
 
-4. Soldering Experience
+4. B
 
-5. ESP32
-
-6. 
+5. C
