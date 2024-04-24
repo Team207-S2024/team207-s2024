@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <i>Figure 1: Picture of the Full Schematic</i>
+  <i>Figure 1: Picture of the First Schematic</i>
 </p>
 
-Here is the current iteration of the team's hardware proposal. Each major part was made separately according to each subsystem and then put together with one another in the final schematic. Many of the components were able to be imported from sites like Ultra Librarian, which helped to speed up the process, but some required custom symbols and footprints. 
+Here is the first iteration of the team's hardware proposal. Each major part was made separately according to each subsystem and then put together with one another in the final schematic. Many of the components were able to be imported from sites like Ultra Librarian, which helped to speed up the process, but some required custom symbols and footprints. 
 
 An in-depth look at each part of the schematic will be shown below. 
 
