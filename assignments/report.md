@@ -552,7 +552,7 @@ When coming up with the software proposal, it was assumed that it would be easy 
 
 <b> 2. Humidity Sensor Issues </b>
 
-In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function.
+In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. We sticked with the same part we simply swapped it out for another copy.
 
 <b> 3. Overall Flow of Main Loop </b>
 
@@ -573,29 +573,29 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
-## Lessions Learned
+## Lessons Learned
 
 Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
 
-1. A
+1. The simplest solution is usually the best solution
 
-2. B
+2. When working with commmunication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI.
 
-3. C
+3. Its best to assign a person dedicated to whatever theyre best at doing/most comfortable with. Its also good to put people in situations that they may not be the best at so they could improve. 
 
-4. D
+4. Things are going to break, so its always best to keep backups of every part/system.
 
-5. E
+5. Sometimes its faster to replace a part rather than fix it.
 
-6. F
+6. Picking a part with a well made/ detialed datasheet is usually a smart idea. This goes the same for technical notes. If a part has convoluted notes than it's going to be a pain to work with or debug.
 
-7. G
+7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversation with is always the best route. 
 
-8. H
+8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
 
-9. I
+9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. 
 
-10. J
+10. When ordering a board, the extra investment it takes to get a good quality board with good soldermasking and pads its well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the peralta boards here. 
 
 ## Recommendations
 
@@ -609,8 +609,11 @@ There are a lot of things to learn and do in this class, and getting them done i
 
 This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
 
-3. A
+3. Pick the easiest to work with parts
 
-4. B
+   Exactly as it sounds, pick the simplest part because the room for error is usually very high. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. Its also even better if said notes have a debug section detailing what you can do if you run into a specific problem. 
 
-5. C
+
+5. B
+
+6. C
