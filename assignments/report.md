@@ -569,6 +569,8 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 ## Innovation Showcase Poster
 
+![image](https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da)
+
 ## System Verification
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
