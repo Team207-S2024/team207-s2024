@@ -252,7 +252,7 @@ During this point, each team member chose their assigned subsystem. The choices 
 
 **Isaac Linares:** Humidity Sensor 
 
-**JJ Sales:** Temperature Sensor
+**Danial Haddad:** Temperature Sensor
 
 **Manuel Garcia:** Motor Driver/Motor
 
