@@ -32,9 +32,9 @@ The purpose of this page is to provide easy access to not only the report but al
 
 [Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection)
 
-[Appendix I: Software Proposal](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
+[Appendix I: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
 
-[Appendix J: Hardware Proposal](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
+[Appendix J: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
 
 # Team Checkpoint 1 Video
 
