@@ -468,7 +468,7 @@ The team also began work on the power supply for the system, with mixed results.
 </p>
 
 <p align="center">
-  <i>Figure 11: Current Power Budget of the project. </i>
+  <i>Figure 11: Current Power Budget of the Project. </i>
 </p>
 
 Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and its components.
@@ -479,13 +479,13 @@ The microcontroller selection was done soon after the component selection. The p
 
 Eventually, the group decided to go forward with the PIC18F26K40, for many reasons. For one, it will be a significantly nicer time to solder its 28 pins versus the competition's 40-64 pins. In addition, many previous groups had success with it, meaning that in the chance that help is necessary, the group can find it through previous students. Finally, the extensive documentation and the large datasheet will be critical when it comes to working with it hardware and software-wise. 
 
-Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and pros/cons of each one.
+Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and the pros/cons of each one.
 
 ## Hardware Implementation
 
-Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. Once tested on a beginning teamboard, the group made the necessary changes to the schematic to make it work correctly. 
+Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. Once tested on a beginning team board, the group made the necessary changes to the schematic to make it work correctly. 
 
-One of the most significant changes made between the original team schematic and the final team schematic was that the motor driver's SO and SI pins had to be changed in order to properly function- effectively, the microcontroller was sending an input into an input, instead of sending an input into an output. That made it so it couldn't get the exchange of bits necessary to move the motor. This was fixed in the schematic, which meant in the final PCB it was not necessary to make and break connections.
+One of the most significant changes made between the original team schematic and the final team schematic was that the motor driver's SO and SI pins had to be changed to properly function- effectively, the microcontroller was sending an input into an input, instead of sending an input into an output. That made it so it couldn't get the exchange of bits necessary to move the motor. This was fixed in the schematic, which meant in the final PCB it was not necessary to make and break connections.
 
 One change that should have been made but wasn't was the swap between the ESP32's VIN power pin and 3V3 power pin, which was due to a misunderstanding and less than accurate information found online. When the ESP32 is plugged into a computer via USB, it can output either 5V or 3.3V out of the respective pins. However, when it isn't plugged in, VIN and 3V3 turn into alternative power pins to plug the respective voltages into. Unfortunately, by the time the final PCB was printed, it wasn't realized that it was necessary to swap the 3.3V power plane going into VIN to instead go into 3V3. This was fixed by simply fly-wiring (as in, connecting the ESP32 to the board through male-to-female wires) and swapping where the voltage would go. 
 
@@ -511,11 +511,11 @@ One change that should have been made but wasn't was the swap between the ESP32'
 
 If the PCB were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
 
-For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choices themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely in the soil of the plant, but because there was a distinct restriction on daughter boards this was the closest to that concept. 
+For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choices themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely to the soil of the plant, but because there was a distinct restriction on daughter boards this was the closest to that concept. 
 
 ### Bill of Materials
 
-The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
+The group also finalized the bill of materials for the project to send out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
@@ -546,7 +546,7 @@ Simultaneously, it will read the humidity data of the surrounding area of the bo
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
 </p>
 
 <p align="center">
@@ -563,7 +563,7 @@ When coming up with the software proposal, it was assumed that it would be easy 
 
 <b> 2. Humidity Sensor Issues </b>
 
-In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. We sticked with the same part we simply swapped it out for another copy.
+In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
 
 <b> 3. Overall Flow of Main Loop </b>
 
