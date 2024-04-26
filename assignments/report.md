@@ -489,11 +489,24 @@ One of the most significant changes made between the original team schematic and
 One change that should have been made but wasn't was the swap between the ESP32's VIN power pin and 3V3 power pin, which was due to a misunderstanding and less than accurate information found online. When the ESP32 is plugged into a computer via USB, it can output either 5V or 3.3V out of the respective pins. However, when it isn't plugged in, VIN and 3V3 turn into alternative power pins to plug the respective voltages into. Unfortunately, by the time the final PCB was printed, it wasn't realized that it was necessary to swap the 3.3V power plane going into VIN to instead go into 3V3. This was fixed by simply fly-wiring (as in, connecting the ESP32 to the board through male-to-female wires) and swapping where the voltage would go. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
+</p>
+<p align="center">
+  <i>Figure 12: Final Schematic of the Project. </i>
 </p>
 
 <p align="center">
-  <i>Figure 12: Final Schematic of the project. </i>
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346" />
+</p>
+<p align="center">
+  <i>Figure 13: Top and Bottom PCB Layout of the Project. </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
+</p>
+<p align="center">
+  <i>Figure 14: Picture of PCB fully soldered. </i>
 </p>
 
 ### Version 2.0
