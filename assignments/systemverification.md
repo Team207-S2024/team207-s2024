@@ -1,4 +1,23 @@
 # System Verification
+
+<style>
+table, th, td {
+
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 10px;
+  padding: 5px;
+}
+th, td {
+  border-color: #666666;
+  background-color: #FFFFFF;
+  text-align: left;
+}
+th {
+  background-color: #D5D5D5;
+}
+</style>
+
 <google-sheets-html-origin><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" data-sheets-root="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;">
   <thead>
     <tr style="height: 21px;">
