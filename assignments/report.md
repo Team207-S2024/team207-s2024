@@ -511,7 +511,7 @@ The group also finalized the bill of materials for the project for the purpose o
 </p>
 
 <p align="center">
-  <i>Figure 13: Current Bill of Materials for the project. </i>
+  <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
 Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
@@ -523,7 +523,7 @@ Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further inf
 </p>
 
 <p align="center">
-  <i>Figure 14: Final Software Implementation UML Chart</i>
+  <i>Figure 16: Final Software Implementation UML Chart</i>
 </p>
 
 The software implementation went through a variety of changes over the course of the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficultes as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code actually turned out to be. 
