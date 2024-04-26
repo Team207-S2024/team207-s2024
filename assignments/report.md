@@ -37,9 +37,9 @@
 
 8. [Microcontroller Selection](#microcontroller-selection)
 
-9. [Hardware Proposal](#hardware-proposal)
+9. [Hardware Implementation](#hardware-implementation)
 
-10. [Software Proposal](#software-proposal)
+10. [Software Implementation](#software-implementation)
 
 # Appendix
 
@@ -528,11 +528,11 @@ Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further inf
   <i>Figure 14: Final Software Implementation UML Chart</i>
 </p>
 
-The software implementation went through a variety of changes over the course of the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficultes as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code actually turned out to be. 
+The software implementation went through a variety of changes over the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficulties as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code turned out to be. 
 
-For a brief explanation, the system will continuously check for if the surrounding temperature of the box is at too high a temperature for the plant to do well. If it is too high, it'll then make another check for if it's at "home" or not (as in, if it's under the shade or not.) If it's at home and it's too hot, it will stay in place. If it's not at home, then it will then move the plate home. This is to make sure that the motor does not accidentally drive the plate into the holding space, which could cause damage to the system as well as the plant. After a certain amount of time, it'll then make another check to see if it's gotten cooler and thus more healthy for the plant- if it has, and it's at home, then it'll move back out of the shade. If it's not at home, it will sit in place. 
+For a brief explanation, the system will continuously check for if the surrounding temperature of the box is too high a temperature for the plant to do well. If it is too high, it'll then make another check for if it's at "home" or not (as in, if it's under the shade or not.) If it's at home and it's too hot, it will stay in place. If it's not at home, it will move the plate home. This is to make sure that the motor does not accidentally drive the plate into the holding space, which could cause damage to the system as well as the plant. After a certain amount of time, it'll then make another check to see if it's gotten cooler and thus more healthy for the plant- if it has, and it's at home, then it'll move back out of the shade. If it's not at home, it will sit in place. 
 
-Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out, and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
+Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
 
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
 
@@ -567,7 +567,7 @@ It wasn't actually necessary to make variables for high humidity or temperature,
 <b> 5. Misunderstandings of Motor </b>
 The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report.
+Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Innovation Showcase Poster
 
@@ -575,7 +575,7 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 ## System Verification
 
-
+Finally, the group created a system verification table that would showcase how each system is connected. 
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
@@ -583,25 +583,25 @@ Refer to [Appendix M: System Verification](systemverification) for further infor
 
 Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
 
-1. The simplest solution is usually the best solution
+1. The simplest solution is usually the best solution. If you have a lot of time to kill you can try to make something very complex, but know that it will probably be your undoing. Keep it simple. 
 
-2. When working with commmunication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI.
+2. When working with communication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI. Each one has its ups and downs, and that's something you would need to figure out for yourself on what you're comfortable with.
 
-3. Its best to assign a person dedicated to whatever theyre best at doing/most comfortable with. Its also good to put people in situations that they may not be the best at so they could improve. 
+3. It's best to assign a person dedicated to whatever they're best at doing/most comfortable with. It's also good to put people in situations that they may not be the best at so they can improve. 
 
-4. Things are going to break, so its always best to keep backups of every part/system.
+4. Things are going to break, so it's always best to keep backups of every part/system. You will be learning by doing, and sometimes you won't know what to do, and that's okay.
 
-5. Sometimes its faster to replace a part rather than fix it.
+5. Sometimes it's faster to replace a part rather than fix it. Fixing a sinking ship is cheaper than escaping and buying another one, but whether you'll fix it before you drown is hard to say. 
 
-6. Picking a part with a well made/ detialed datasheet is usually a smart idea. This goes the same for technical notes. If a part has convoluted notes than it's going to be a pain to work with or debug.
+6. Picking a part with a well-made/detailed datasheet is very important. This goes the same for technical notes. If a part has convoluted notes then it's going to be a pain to work with or debug.
 
-7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversation with is always the best route. 
+7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversations with is always the best route. 
 
 8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
 
-9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. 
+9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. Trying to do everything yourself is a recipe for disaster, both for you and your group. You can't learn anything if someone else is doing everything, and you don't learn to work with people if you don't let them help. 
 
-10. When ordering a board, the extra investment it takes to get a good quality board with good soldermasking and pads its well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the peralta boards here. 
+10. When ordering a board, the extra investment it takes to get a good quality board with good solder masking and pads is well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the Peralta boards here. That isn't to say the Peralta boards are impossible to use, but whether it's worth painting soldermask on versus buying a JLC board for 15-20 bucks is up to you.
 
 ## Recommendations
 
@@ -613,11 +613,11 @@ There are a lot of things to learn and do in this class, and getting them done i
 
 2. Group Management
 
-This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
+This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. While it's nice to keep everything in the group, sometimes it can get sour very quick. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. This sounds harsh, but it's for the best that you understand how important it is to not overexert yourself so someone else can slack off. As stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. You need a team to get through it, not people relying on you to carry them. 
 
-3. Pick the easiest to work with parts
+3. Pick Easy Parts
 
-   Exactly as it sounds, pick the simplest part because the room for error is usually very high. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. Its also even better if said notes have a debug section detailing what you can do if you run into a specific problem. 
+   Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find 
 
 
 5. B
