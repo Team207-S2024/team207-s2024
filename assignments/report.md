@@ -2,10 +2,9 @@
 <p align="center">
 
 	
-<p align="center">
+<p align="center", width = "50%">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/064d1419-6376-4e5f-84d7-16b91784d796" />
 </p>
-
   <b> Portable Weather System </b><br>
 
   <b>Team 207</b> - <i>Atmos-Gear </i><br>
@@ -38,9 +37,9 @@
 
 8. [Microcontroller Selection](#microcontroller-selection)
 
-9. [Hardware Implementation](#hardware-implementation)
+9. [Hardware Proposal](#hardware-proposal)
 
-10. [Software Implementation](#software-implementation)
+10. [Software Proposal](#software-proposal)
 
 # Appendix
 
@@ -253,15 +252,15 @@ During this point, each team member chose their assigned subsystem. The choices 
 
 **Isaac Linares:** Humidity Sensor 
 
-**Danial Haddad:** Temperature Sensor
+**JJ Sales:** Temperature Sensor
 
 **Manuel Garcia:** Motor Driver/Motor
 
 **Michaela De Angelis Werner:** Microcontroller/Power Supply
 
-
-![UpdBlockDiagram drawio](https://github.com/Team207-S2024/team207-s2024/assets/157151171/cc29d781-eeb6-478a-a5ba-75a32d171a15)
-
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/3dd5a8ab-1391-4818-83de-0e93be987333" />
+</p>
 
 <p align="center">
   <i>Figure 10: Current Block Diagram of the project. </i>
@@ -468,7 +467,7 @@ The team also began work on the power supply for the system, with mixed results.
 </p>
 
 <p align="center">
-  <i>Figure 11: Current Power Budget of the Project. </i>
+  <i>Figure 11: Current Power Budget of the project. </i>
 </p>
 
 Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and its components.
@@ -479,188 +478,139 @@ The microcontroller selection was done soon after the component selection. The p
 
 Eventually, the group decided to go forward with the PIC18F26K40, for many reasons. For one, it will be a significantly nicer time to solder its 28 pins versus the competition's 40-64 pins. In addition, many previous groups had success with it, meaning that in the chance that help is necessary, the group can find it through previous students. Finally, the extensive documentation and the large datasheet will be critical when it comes to working with it hardware and software-wise. 
 
-Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and the pros/cons of each one.
+Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and pros/cons of each one.
 
 ## Hardware Implementation
 
-Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. Once tested on a beginning team board, the group made the necessary changes to the schematic to make it work correctly. 
+Soon after, it was time to begin putting everything together. At first, each member took the time to create their own subsystem's circuit according to not only their datasheets but also prior knowledge of using certain components. Next, they were compiled into one schematic, getting a good idea of where each pin would go with regards to each other system. Finally, the team took care in organizing the subsystems and various subcircuits in a way that could flow decently. Once tested on a beginning teamboard, the group made the necessary changes to the schematic to make it work correctly. 
 
-One of the most significant changes made between the original team schematic and the final team schematic was that the motor driver's SO and SI pins had to be changed to properly function- effectively, the microcontroller was sending an input into an input, instead of sending an input into an output. That made it so it couldn't get the exchange of bits necessary to move the motor. This was fixed in the schematic, which meant in the final PCB it was not necessary to make and break connections.
+One of the most significant changes made between the original team schematic and the final team schematic was that the motor driver's SO and SI pins had to be changed in order to properly function- effectively, the microcontroller was sending an input into an input, instead of sending an input into an output. That made it so it couldn't get the exchange of bits necessary to move the motor. This was fixed in the schematic, which meant in the final PCB it was not necessary to make and break connections.
 
 One change that should have been made but wasn't was the swap between the ESP32's VIN power pin and 3V3 power pin, which was due to a misunderstanding and less than accurate information found online. When the ESP32 is plugged into a computer via USB, it can output either 5V or 3.3V out of the respective pins. However, when it isn't plugged in, VIN and 3V3 turn into alternative power pins to plug the respective voltages into. Unfortunately, by the time the final PCB was printed, it wasn't realized that it was necessary to swap the 3.3V power plane going into VIN to instead go into 3V3. This was fixed by simply fly-wiring (as in, connecting the ESP32 to the board through male-to-female wires) and swapping where the voltage would go. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
-<p align="center">
-  <i>Figure 12: Final Schematic of the Project. </i>
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346" />
-<p align="center">
-  <i>Figure 13: Top and Bottom PCB Layout of the Project. </i>
-</p>
-
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
-<p align="center">
-  <i>Figure 14: Picture of PCB fully soldered. </i>
+  <i>Figure 12: Final Schematic of the project. </i>
 </p>
 
 ### Version 2.0
 
-If the PCB were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
+If this were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
 
-For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choices themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely to the soil of the plant, but because there was a distinct restriction on daughter boards this was the closest to that concept. 
+For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choice themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely in the soil of the plant, but because there was a distinct restriciton on daughter boards this was the closest to that concept. 
 
 ### Bill of Materials
 
-The group also finalized the bill of materials for the project to send out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
+The group also finalized the bill of materials for the project for the purpose of sending out a purchase request. The first iteration of the purchase request was not perfect, but it was revised as soon as it could be. 
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
 </p>
 
 <p align="center">
-  <i>Figure 15: Current Bill of Materials for the project. </i>
+  <i>Figure 13: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
-<h2> Software Implementation </h2>
+### Software Implementation
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/28a8e842-8534-4c73-9b45-f04b8580a899" />
 </p>
 
 <p align="center">
-  <i>Figure 16: Final Software Implementation UML Chart</i>
+  <i>Figure 14: Final Software Implementation UML Chart</i>
 </p>
 
-The software implementation went through a variety of changes over the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficulties as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code turned out to be. 
+The software implementation went through a variety of changes over the course of the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficultes as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code actually turned out to be. 
 
-For a brief explanation, the system will continuously check for if the surrounding temperature of the box is too high a temperature for the plant to do well. If it is too high, it'll then make another check for if it's at "home" or not (as in, if it's under the shade or not.) If it's at home and it's too hot, it will stay in place. If it's not at home, it will move the plate home. This is to make sure that the motor does not accidentally drive the plate into the holding space, which could cause damage to the system as well as the plant. After a certain amount of time, it'll then make another check to see if it's gotten cooler and thus more healthy for the plant- if it has, and it's at home, then it'll move back out of the shade. If it's not at home, it will sit in place. 
+For a brief explanation, the system will continuously check for if the surrounding temperature of the box is at too high a temperature for the plant to do well. If it is too high, it'll then make another check for if it's at "home" or not (as in, if it's under the shade or not.) If it's at home and it's too hot, it will stay in place. If it's not at home, then it will then move the plate home. This is to make sure that the motor does not accidentally drive the plate into the holding space, which could cause damage to the system as well as the plant. After a certain amount of time, it'll then make another check to see if it's gotten cooler and thus more healthy for the plant- if it has, and it's at home, then it'll move back out of the shade. If it's not at home, it will sit in place. 
 
-Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
+Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out, and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
 
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
 </p>
 
 <p align="center">
-  <i>Figure 17: Example of Output into MQTT. </i>
+  <i>Figure 14: Example of Output into MQTT. </i>
 </p>
 
-<h3> Five Biggest Changes Since Software Proposal </h3>
+#### Top 5 Biggest Changes Since Software Proposal
 
-There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
+There were a lot of changes to the flow of the . 
 
+<b> 1. Motor Move Position Interrupt </b>
 
-<b>1- Motor Move Position Interrupt </b>
+When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it would go too far. However, in reality it was significantly easier to code the motor going forward/backward according to delays, and then creating the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
 
+<b> 2. Humidity Sensor Issues </b>
 
-When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it went too far. However, in reality, it was significantly easier to code the motor going forward/backward according to delays, and then create the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
+In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function.
 
+<b> 3. Overall Flow of Main Loop </b>
 
-<b>2- Humidity Sensor Issues </b> 
+The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
 
+<b> 4. Misunderstandings of Checks </b>
 
-In the beginning, it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
+It wasn't actually necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance it didn't seem necessary. 
 
+<b> 5. Misunderstandings of Motor </b>
+The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-<b>3- Overall Flow of Main Loop </b>
+Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report.
 
+## Innovation Showcase Poster
 
-The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
-
-
-<b>4- Misunderstandings of Checks </b>
-
-
-It wasn't necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance, it didn't seem necessary. 
-
-
-<b> Misunderstandings of Motor </b>
-The motor didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
-
-
-Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
-
-<h2> Innovation Showcase Poster </h2>
-
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da" />
-</p>
-
-<p align="center">
-  <i>Figure 18: Picture of Innovation Showcase Poster. </i>
-</p>
-
-<h2> System Verification </h2>
-
-Finally, the group created a system verification table that would showcase how each system is connected. 
+## System Verification
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
-<h2> Lessons Learned </h2>
+## Lessions Learned
 
 Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
 
- 1. The simplest solution is usually the best solution. If you have a lot of time to kill you can try to make something very complex, but know that it will probably be your undoing. Keep it simple. 
+1. A
 
+2. B
 
- 2. When working with communication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI. Each one has its ups and downs, and that's something you would need to figure out for yourself on what you're comfortable with.
+3. C
 
- 3. It's best to assign a person dedicated to whatever they're best at doing/most comfortable with. It's also good to put people in situations that they may not be the best at so they can improve. 
+4. D
 
+5. E
 
- 4. Things are going to break, so it's always best to keep backups of every part/system. You will be learning by doing, and sometimes you won't know what to do, and that's okay.
+6. F
 
+7. G
 
- 5. Sometimes it's faster to replace a part rather than fix it. Fixing a sinking ship is cheaper than escaping and buying another one, but whether you'll fix it before you drown is hard to say. 
+8. H
 
+9. I
 
- 6. Picking a part with a well-made/detailed datasheet is very important. This goes the same for technical notes. If a part has convoluted notes then it's going to be a pain to work with or debug.
+10. J
 
-
- 7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversations with is always the best route. 
-
-
- 8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
-
-
- 9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. Trying to do everything yourself is a recipe for disaster, both for you and your group. You can't learn anything if someone else is doing everything, and you don't learn to work with people if you don't let them help. 
-
-
- 10. When ordering a board, the extra investment it takes to get a good quality board with good solder masking and pads is well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the Peralta boards here. That isn't to say the Peralta boards are impossible to use, but whether it's worth painting soldermask on versus buying a JLC board for 15-20 bucks is up to you.
-
-
-<h2> Recommendations </h2> 
+## Recommendations
 
 There's a lot of recommendations to give, and it's a bit difficult to leave it to 5, but here are the top 5 that the group considered:
 
-
-<b> 1. Time Management </b>
-
+1. Time Management
 
 There are a lot of things to learn and do in this class, and getting them done is paramount to getting a working project in the end. It's a bit of a lie to make this (and EGR 304) a 3-credit course, because it tells people that it's possible to succeed with only a couple of hours outside of class to get things done. It doesn't. Take advantage of all the free time you can muster, talk to TAs, talk to other students, make sure that you're doing at least 5-15 extra hours if you can help it. That seems like a lot, but it goes away really quickly as you're learning by doing, and that takes a lot of time. You will learn, but you will struggle at some point. 
 
+2. Group Management
 
-<b> 2. Group Management </b>
+This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
 
+3. A
 
-This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. While it's nice to keep everything in the group, sometimes it can get sour very quick. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. This sounds harsh, but it's for the best that you understand how important it is to not overexert yourself so someone else can slack off. As stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. You need a team to get through it, not people relying on you to carry them. 
+4. B
 
-
-<b> 3. Pick Easy Parts </b>
-
-
-   Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find parts that previous students have done, it's recommended to at least have a look at how they implemented them and if they had problems with them. 
-
-
-<b> 4. </b>
-
-
-<b> 5. </b>
+5. C
