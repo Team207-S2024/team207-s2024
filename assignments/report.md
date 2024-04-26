@@ -2,7 +2,7 @@
 <p align="center">
 
 	
-<p align="center", width = "50%">
+<p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/064d1419-6376-4e5f-84d7-16b91784d796" />
 </p>
   <b> Portable Weather System </b><br>
@@ -489,21 +489,11 @@ One of the most significant changes made between the original team schematic and
 One change that should have been made but wasn't was the swap between the ESP32's VIN power pin and 3V3 power pin, which was due to a misunderstanding and less than accurate information found online. When the ESP32 is plugged into a computer via USB, it can output either 5V or 3.3V out of the respective pins. However, when it isn't plugged in, VIN and 3V3 turn into alternative power pins to plug the respective voltages into. Unfortunately, by the time the final PCB was printed, it wasn't realized that it was necessary to swap the 3.3V power plane going into VIN to instead go into 3V3. This was fixed by simply fly-wiring (as in, connecting the ESP32 to the board through male-to-female wires) and swapping where the voltage would go. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
-<p align="center">
-  <i>Figure 12: Final Schematic of the Project. </i>
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346" />
-<p align="center">
-  <i>Figure 13: Top and Bottom PCB Layout of the Project. </i>
-</p>
-
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
-<p align="center">
-  <i>Figure 14: Picture of PCB fully soldered. </i>
+  <i>Figure 12: Final Schematic of the project. </i>
 </p>
 
 ### Version 2.0
@@ -521,7 +511,7 @@ The group also finalized the bill of materials for the project for the purpose o
 </p>
 
 <p align="center">
-  <i>Figure 15: Current Bill of Materials for the project. </i>
+  <i>Figure 13: Current Bill of Materials for the project. </i>
 </p>
 
 Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
@@ -533,7 +523,7 @@ Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further inf
 </p>
 
 <p align="center">
-  <i>Figure 16: Final Software Implementation UML Chart</i>
+  <i>Figure 14: Final Software Implementation UML Chart</i>
 </p>
 
 The software implementation went through a variety of changes over the course of the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficultes as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code actually turned out to be. 
@@ -545,16 +535,16 @@ Simultaneously, it will read the humidity data of the surrounding area of the bo
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
 </p>
 
 <p align="center">
-  <i>Figure 17: Example of Output into MQTT. </i>
+  <i>Figure 14: Example of Output into MQTT. </i>
 </p>
 
 #### Top 5 Biggest Changes Since Software Proposal
 
-There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
+There were a lot of changes to the flow of the . 
 
 <b> 1. Motor Move Position Interrupt </b>
 
@@ -579,17 +569,7 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 ## Innovation Showcase Poster
 
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da" />
-</p>
-
-<p align="center">
-  <i>Figure 18: Picture of Innovation Showcase Poster. </i>
-</p>
-
 ## System Verification
-
-Finally, the group created a system verification table that would showcase how each system is connected. 
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
@@ -597,25 +577,25 @@ Refer to [Appendix M: System Verification](systemverification) for further infor
 
 Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
 
-1. The simplest solution is usually the best solution. If you have a lot of time to kill you can try to make something very complex, but know that it will probably be your undoing. Keep it simple. 
+1. A
 
-2. When working with communication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI. Each one has its ups and downs, and that's something you would need to figure out for yourself on what you're comfortable with.
+2. B
 
-3. It's best to assign a person dedicated to whatever they're best at doing/most comfortable with. It's also good to put people in situations that they may not be the best at so they can improve. 
+3. C
 
-4. Things are going to break, so it's always best to keep backups of every part/system. You will be learning by doing, and sometimes you won't know what to do, and that's okay.
+4. D
 
-5. Sometimes it's faster to replace a part rather than fix it. Fixing a sinking ship is cheaper than escaping and buying another one, but whether you'll fix it before you drown is hard to say. 
+5. E
 
-6. Picking a part with a well-made/detailed datasheet is very important. This goes the same for technical notes. If a part has convoluted notes then it's going to be a pain to work with or debug.
+6. F
 
-7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversations with is always the best route. 
+7. G
 
-8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
+8. H
 
-9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. Trying to do everything yourself is a recipe for disaster, both for you and your group. You can't learn anything if someone else is doing everything, and you don't learn to work with people if you don't let them help. 
+9. I
 
-10. When ordering a board, the extra investment it takes to get a good quality board with good solder masking and pads is well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the Peralta boards here. That isn't to say the Peralta boards are impossible to use, but whether it's worth painting soldermask on versus buying a JLC board for 15-20 bucks is up to you.
+10. J
 
 ## Recommendations
 
@@ -629,9 +609,7 @@ There are a lot of things to learn and do in this class, and getting them done i
 
 This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
 
-3. Pick Easy Parts
-
-Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find parts that previous students have done, it's recommended to at least have a look at how they implemented them and if they had problems with them. 
+3. A
 
 4. B
 
