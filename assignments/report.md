@@ -553,87 +553,12 @@ Once done with reading data and completing actions, it will then print the data 
   <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
-### Five Biggest Changes Since Software Proposal
-
-There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
-
-1. Motor Move Position Interrupt 
-
-When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it went too far. However, in reality, it was significantly easier to code the motor going forward/backward according to delays, and then create the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
-
-2. Humidity Sensor Issues 
-
-In the beginning, it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
-
-3. Overall Flow of Main Loop
-
-The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
-
-4. Misunderstandings of Checks
-
-It wasn't necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance, it didn't seem necessary. 
-
-5. Misunderstandings of Motor
-The motor didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
-
-Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
-
-## Innovation Showcase Poster
+## Test 123
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/28a8e842-8534-4c73-9b45-f04b8580a899" />
 </p>
 
 <p align="center">
-  <i>Figure 18: Picture of Innovation Showcase Poster. </i>
+  <i>Figure 16: Final Software Implementation UML Chart</i>
 </p>
-
-## System Verification
-
-Finally, the group created a system verification table that would showcase how each system is connected. 
-
-Refer to [Appendix M: System Verification](systemverification) for further information.
-
-## Lessons Learned
-
-Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
-
-1. The simplest solution is usually the best solution. If you have a lot of time to kill you can try to make something very complex, but know that it will probably be your undoing. Keep it simple. 
-
-2. When working with communication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI. Each one has its ups and downs, and that's something you would need to figure out for yourself on what you're comfortable with.
-
-3. It's best to assign a person dedicated to whatever they're best at doing/most comfortable with. It's also good to put people in situations that they may not be the best at so they can improve. 
-
-4. Things are going to break, so it's always best to keep backups of every part/system. You will be learning by doing, and sometimes you won't know what to do, and that's okay.
-
-5. Sometimes it's faster to replace a part rather than fix it. Fixing a sinking ship is cheaper than escaping and buying another one, but whether you'll fix it before you drown is hard to say. 
-
-6. Picking a part with a well-made/detailed datasheet is very important. This goes the same for technical notes. If a part has convoluted notes then it's going to be a pain to work with or debug.
-
-7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversations with is always the best route. 
-
-8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
-
-9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. Trying to do everything yourself is a recipe for disaster, both for you and your group. You can't learn anything if someone else is doing everything, and you don't learn to work with people if you don't let them help. 
-
-10. When ordering a board, the extra investment it takes to get a good quality board with good solder masking and pads is well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the Peralta boards here. That isn't to say the Peralta boards are impossible to use, but whether it's worth painting soldermask on versus buying a JLC board for 15-20 bucks is up to you.
-
-## Recommendations
-
-There's a lot of recommendations to give, and it's a bit difficult to leave it to 5, but here are the top 5 that the group considered:
-
-1. Time Management
-
-There are a lot of things to learn and do in this class, and getting them done is paramount to getting a working project in the end. It's a bit of a lie to make this (and EGR 304) a 3-credit course, because it tells people that it's possible to succeed with only a couple of hours outside of class to get things done. It doesn't. Take advantage of all the free time you can muster, talk to TAs, talk to other students, make sure that you're doing at least 5-15 extra hours if you can help it. That seems like a lot, but it goes away really quickly as you're learning by doing, and that takes a lot of time. You will learn, but you will struggle at some point. 
-
-2. Group Management
-
-This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. While it's nice to keep everything in the group, sometimes it can get sour very quick. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. This sounds harsh, but it's for the best that you understand how important it is to not overexert yourself so someone else can slack off. As stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. You need a team to get through it, not people relying on you to carry them. 
-
-3. Pick Easy Parts
-
-   Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find parts that previous students have done, it's recommended to at least have a look at how they implemented them and if they had problems with them. 
-
-5. B
-
-6. C
