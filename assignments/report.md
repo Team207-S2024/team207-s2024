@@ -593,9 +593,15 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 
 ## System Verification
 
-Finally, the group created a system verification table that would showcase how each system is connected. 
+Finally, the group created a system verification table that would showcase how each system is connected. It was then confirmed by the teaching team over the end of the semester.
 
-Refer to [Appendix M: System Verification](systemverification) for further information.
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/d4e36a0c-91db-4d79-a53d-7dbb2d148827" />
+</p>
+
+<p align="center">
+  <i>Figure 18: Picture of System Verification Table. </i>
+</p>
 
 ## Lessons Learned
 
