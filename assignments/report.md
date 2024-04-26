@@ -577,25 +577,25 @@ Refer to [Appendix M: System Verification](systemverification) for further infor
 
 Many things were learned in this class, both hardware and software-wise. Below is a numbered list of the top 10 that the group considered: 
 
-1. A
+1. The simplest solution is usually the best solution. If you have a lot of time to kill you can try to make something very complex, but know that it will probably be your undoing. Keep it simple. 
 
-2. B
+2. When working with communication methods, try to make all components use the same language. If one is I2C, the rest should be as well. The same goes for SPI. Each one has its ups and downs, and that's something you would need to figure out for yourself on what you're comfortable with.
 
-3. C
+3. It's best to assign a person dedicated to whatever they're best at doing/most comfortable with. It's also good to put people in situations that they may not be the best at so they can improve. 
 
-4. D
+4. Things are going to break, so it's always best to keep backups of every part/system. You will be learning by doing, and sometimes you won't know what to do, and that's okay.
 
-5. E
+5. Sometimes it's faster to replace a part rather than fix it. Fixing a sinking ship is cheaper than escaping and buying another one, but whether you'll fix it before you drown is hard to say. 
 
-6. F
+6. Picking a part with a well-made/detailed datasheet is very important. This goes the same for technical notes. If a part has convoluted notes then it's going to be a pain to work with or debug.
 
-7. G
+7. Proper communication with teammates is the key to success and making sure you find people that you both can work with and have casual conversations with is always the best route. 
 
-8. H
+8. Having dedicated meeting times with your team can lead to a major boost in productivity. We believe that is what allowed us to be so successful with our design compared to other teams. 
 
-9. I
+9. Trying to do everything yourself is never a good idea, asking for help from your fellow teammates should not be frowned upon but instead encouraged. Trying to do everything yourself is a recipe for disaster, both for you and your group. You can't learn anything if someone else is doing everything, and you don't learn to work with people if you don't let them help. 
 
-10. J
+10. When ordering a board, the extra investment it takes to get a good quality board with good solder masking and pads is well worth it. It saved us a lot of time to do our team prototype on a JLC printed board rather than the Peralta boards here. That isn't to say the Peralta boards are impossible to use, but whether it's worth painting soldermask on versus buying a JLC board for 15-20 bucks is up to you.
 
 ## Recommendations
 
@@ -609,7 +609,9 @@ There are a lot of things to learn and do in this class, and getting them done i
 
 This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and they aren't slacking off. If someone isn't doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what's going on so it can get worked out immediately. Like stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they shouldn't have. 
 
-3. A
+3. Pick Easy Parts
+
+Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find parts that previous students have done, it's recommended to at least have a look at how they implemented them and if they had problems with them. 
 
 4. B
 
