@@ -527,7 +527,7 @@ The group also finalized the bill of materials for the project to send out a pur
 
 Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
-### Software Implementation
+## Software Implementation
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/28a8e842-8534-4c73-9b45-f04b8580a899" />
@@ -553,7 +553,7 @@ Once done with reading data and completing actions, it will then print the data 
   <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
-#### Top 5 Biggest Changes Since Software Proposal
+### 5 Biggest Changes Since Software Proposal
 
 There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
 
