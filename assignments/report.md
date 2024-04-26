@@ -557,24 +557,24 @@ Once done with reading data and completing actions, it will then print the data 
 
 There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
 
-<b> 1. Motor Move Position Interrupt </b>
+1. Motor Move Position Interrupt 
 
-When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it would go too far. However, in reality it was significantly easier to code the motor going forward/backward according to delays, and then creating the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
+When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it went too far. However, in reality, it was significantly easier to code the motor going forward/backward according to delays, and then create the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
 
-<b> 2. Humidity Sensor Issues </b>
+2. Humidity Sensor Issues 
 
-In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
+In the beginning, it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
 
-<b> 3. Overall Flow of Main Loop </b>
+3. Overall Flow of Main Loop
 
-The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
+The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
 
-<b> 4. Misunderstandings of Checks </b>
+4. Misunderstandings of Checks
 
-It wasn't actually necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance it didn't seem necessary. 
+It wasn't necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance, it didn't seem necessary. 
 
-<b> 5. Misunderstandings of Motor </b>
-The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
+5. Misunderstandings of Motor
+The motor didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
 Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
