@@ -3,11 +3,11 @@
 ## Current Schematic
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4b1e9b04-03c2-4d0f-9075-4b4df2f371de" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e467231a-3d5f-42f2-8d60-e518621b26a3" />
 </p>
 
 <p align="center">
-  <i>Figure 1: Picture of the First Schematic</i>
+  <i>Figure 1: Picture of the Final Schematic</i>
 </p>
 
 Here is the first iteration of the team's hardware proposal. Each major part was made separately according to each subsystem and then put together with one another in the final schematic. Many of the components were able to be imported from sites like Ultra Librarian, which helped to speed up the process, but some required custom symbols and footprints. 
@@ -47,7 +47,7 @@ As the power supply's existence is how every other circuit can function, it stan
 ### Microcontroller
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cce8e642-8ee2-4171-bbb3-12bf48860b4b" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/956c9b56-e793-4c82-850e-57ddc9a2289c" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ The ESP32 is how the device will be connecting to WiFi. It will be transmitting 
 ### Motor Driver
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/82bf034c-f651-4bc4-ad10-08ce1ab97737" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/5d7841f7-4e6d-4b2c-b929-5082b02e9f58" />
 </p>
 
 <p align="center">
@@ -129,6 +129,15 @@ The humidity sensor will transmit data that it gets from the soil to the microco
 The temperature sensor will transmit data that it gets from the area to the microcontroller. It will be using I2C communication. The circuit was obtained from the datasheet. 
 
 ## Bill of Materials
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/1ef5e5f5-9ff8-4b29-bb65-1513908fb523" />
+</p>
+
+<p align="center">
+  <i>Figure 10: The Bill of Materials </i>
+</p>
+
 
 [Back to Home Page](/team207-s2024)
 
