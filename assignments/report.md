@@ -525,7 +525,7 @@ The group also finalized the bill of materials for the project to send out a pur
   <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Software Implementation
 
@@ -544,6 +544,39 @@ For a brief explanation, the system will continuously check for if the surroundi
 Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
 
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
+</p>
+
+<p align="center">
+  <i>Figure 17: Example of Output into MQTT. </i>
+</p>
+
+### Five Biggest Changes Since Software Proposal
+
+There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
+
+<b> 1. Motor Move Position Interrupt </b>
+
+When coming up with the software proposal, it was assumed that it would be easy to detect the motor position and create an interrupt that would manually stop the motor if it would go too far. However, in reality it was significantly easier to code the motor going forward/backward according to delays, and then creating the home variable to control if it would move or not. The intention of stopping the motor before it would go too far was the same, but the actual implementation was not a proper interrupt. Programming-wise, it's a cruder method as during delays, the microcontroller will not do anything which can cause issues.
+
+<b> 2. Humidity Sensor Issues </b>
+
+In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
+
+<b> 3. Overall Flow of Main Loop </b>
+
+The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
+
+<b> 4. Misunderstandings of Checks </b>
+
+It wasn't actually necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance it didn't seem necessary. 
+
+<b> 5. Misunderstandings of Motor </b>
+The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
+
+Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Innovation Showcase Poster
 
