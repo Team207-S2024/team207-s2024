@@ -553,7 +553,7 @@ Once done with reading data and completing actions, it will then print the data 
   <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
-### 5 Biggest Changes Since Software Proposal
+### Five Biggest Changes Since Software Proposal
 
 There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
 
