@@ -535,16 +535,16 @@ Simultaneously, it will read the humidity data of the surrounding area of the bo
 Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
 </p>
 
 <p align="center">
-  <i>Figure 14: Example of Output into MQTT. </i>
+  <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
 #### Top 5 Biggest Changes Since Software Proposal
 
-There were a lot of changes to the flow of the . 
+There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
 
 <b> 1. Motor Move Position Interrupt </b>
 
@@ -552,24 +552,35 @@ When coming up with the software proposal, it was assumed that it would be easy 
 
 <b> 2. Humidity Sensor Issues </b>
 
-In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function.
+In the beginning, it was assumed that the humidity sensor would work simply like the temperature controller. However, it required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function.
 
 <b> 3. Overall Flow of Main Loop </b>
 
-The main loop of the original software proposal was done at a time where it was a bit vague on how the actual setup would work. It was very clunky originally, and really didn't make a lot of sense. The final  correctly follows what was actually written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
+The main loop of the original software proposal was done at a time when it was a bit vague on how the actual setup would work. It was very clunky originally and didn't make a lot of sense. The final  correctly follows what was written code-wise, instead of blindly writing pseudocode and then trying to make it flow in a "professional" way. 
 
 <b> 4. Misunderstandings of Checks </b>
 
-It wasn't actually necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance it didn't seem necessary. 
+It wasn't necessary to make variables for high humidity or temperature, it's more accurate to make a basic check function and work off of that instead of making additional variables to keep track of. There might be a good reason one might want to do that, but for this circumstance, it didn't seem necessary. 
 
 <b> 5. Misunderstandings of Motor </b>
-The motor really didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report.
+The motor didn't need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignment rather than something readable. 
+
+Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs to be stated previously within the report.
 
 ## Innovation Showcase Poster
 
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da" />
+</p>
+
+<p align="center">
+  <i>Figure 18: Picture of Innovation Showcase Poster. </i>
+</p>
+
 ## System Verification
+
+Finally, the group created a system verification table that would showcase how each system is connected. 
 
 Refer to [Appendix M: System Verification](systemverification) for further information.
 
