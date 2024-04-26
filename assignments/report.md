@@ -2,9 +2,10 @@
 <p align="center">
 
 	
-<p align="center", width = "50%">
+<p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/064d1419-6376-4e5f-84d7-16b91784d796" />
 </p>
+
   <b> Portable Weather System </b><br>
 
   <b>Team 207</b> - <i>Atmos-Gear </i><br>
@@ -489,20 +490,28 @@ One of the most significant changes made between the original team schematic and
 One change that should have been made but wasn't was the swap between the ESP32's VIN power pin and 3V3 power pin, which was due to a misunderstanding and less than accurate information found online. When the ESP32 is plugged into a computer via USB, it can output either 5V or 3.3V out of the respective pins. However, when it isn't plugged in, VIN and 3V3 turn into alternative power pins to plug the respective voltages into. Unfortunately, by the time the final PCB was printed, it wasn't realized that it was necessary to swap the 3.3V power plane going into VIN to instead go into 3V3. This was fixed by simply fly-wiring (as in, connecting the ESP32 to the board through male-to-female wires) and swapping where the voltage would go. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/6871cfb6-3dbf-4498-af6e-df87d93d083f" />
-
-
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
+<p align="center">
+  <i>Figure 12: Final Schematic of the Project. </i>
 </p>
 
 <p align="center">
-  <i>Figure 12: Final Schematic of the project. </i>
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346" />
+<p align="center">
+  <i>Figure 13: Top and Bottom PCB Layout of the Project. </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
+<p align="center">
+  <i>Figure 14: Picture of PCB fully soldered. </i>
 </p>
 
 ### Version 2.0
 
-If this were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
+If the PCB were to be made again, with certain restrictions unlocked, there's a decent amount that could be done to augment the concept. 
 
-For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choice themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely in the soil of the plant, but because there was a distinct restriciton on daughter boards this was the closest to that concept. 
+For starters, the PCB could have been made with less space in between components. The sensors are somewhat spaced out decently, and there is minimal interference between the ESP32 and the power supply/motor driver, but some things could be closer. The component choices themselves could have been better - the bypass capacitor and humidity sensor resistor size especially really didn't need to be as big as they were. In a proper device, it would have made a lot more sense to have the humidity sensor closer if not completely in the soil of the plant, but because there was a distinct restriction on daughter boards this was the closest to that concept. 
 
 ### Bill of Materials
 
@@ -513,7 +522,7 @@ The group also finalized the bill of materials for the project for the purpose o
 </p>
 
 <p align="center">
-  <i>Figure 13: Current Bill of Materials for the project. </i>
+  <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
 Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
@@ -525,7 +534,7 @@ Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further inf
 </p>
 
 <p align="center">
-  <i>Figure 14: Final Software Implementation UML Chart</i>
+  <i>Figure 16: Final Software Implementation UML Chart</i>
 </p>
 
 The software implementation went through a variety of changes over the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficulties as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code turned out to be. 
@@ -541,12 +550,12 @@ Once done with reading data and completing actions, it will then print the data 
 </p>
 
 <p align="center">
-  <i>Figure 14: Example of Output into MQTT. </i>
+  <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
 #### Top 5 Biggest Changes Since Software Proposal
 
-There were a lot of changes to the flow of the . 
+There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
 
 <b> 1. Motor Move Position Interrupt </b>
 
@@ -617,8 +626,7 @@ This is probably the meanest thing to say out of everything here, but depending 
 
 3. Pick Easy Parts
 
-   Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find 
-
+   Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It's also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it's possible to find parts that previous students have done, it's recommended to at least have a look at how they implemented them and if they had problems with them. 
 
 5. B
 
