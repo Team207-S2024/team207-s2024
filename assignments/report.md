@@ -527,32 +527,6 @@ The group also finalized the bill of materials for the project to send out a pur
 
 Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found in the repository if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
-## Software Implementation
-
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/28a8e842-8534-4c73-9b45-f04b8580a899" />
-</p>
-
-<p align="center">
-  <i>Figure 16: Final Software Implementation UML Chart</i>
-</p>
-
-The software implementation went through a variety of changes over the semester, although the basic concept of moving a plant in and out of shade based on sensor data remained the same. Some of the reasons for the changes included roadblocks involving coding difficulties as well as misunderstandings of what the software might represent. Much of the implementation was edited according to what the final code turned out to be. 
-
-For a brief explanation, the system will continuously check for if the surrounding temperature of the box is too high a temperature for the plant to do well. If it is too high, it'll then make another check for if it's at "home" or not (as in, if it's under the shade or not.) If it's at home and it's too hot, it will stay in place. If it's not at home, it will move the plate home. This is to make sure that the motor does not accidentally drive the plate into the holding space, which could cause damage to the system as well as the plant. After a certain amount of time, it'll then make another check to see if it's gotten cooler and thus more healthy for the plant- if it has, and it's at home, then it'll move back out of the shade. If it's not at home, it will sit in place. 
-
-Simultaneously, it will read the humidity data of the surrounding area of the box, and likewise translate the data into something readable. If the humidity data is below a certain amount, then it will also check if it's at home or not. If it is at home, it will do nothing, but if it isn't at home, it will move the plate out and set the alert variable to 1. The intention is that it's meant to alert the user that the plant should be watered. 
-
-Once done with reading data and completing actions, it will then print the data to the ESP32, and thus send it to the MQTT server. Below is an example of what kind of data would be shown:
-
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f" />
-</p>
-
-<p align="center">
-  <i>Figure 17: Example of Output into MQTT. </i>
-</p>
-
 ## Test 123
 
 <p align="center">
