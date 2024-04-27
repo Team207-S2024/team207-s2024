@@ -80,6 +80,26 @@ This is the second major 'check.' It will check the humData it gained from the h
 
 These are the two significant motor movements that happen. They are equivocal other than the direction they move the motor. The motor driver itself works best when used in tandem with delays, which is why it's set up the way it is. 
 
+# MQTT Table
+
+Here is the MQTT Topic Table we used to determine how best to go about developing our ESP32 Code: 
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0ea8b264-448c-4806-b154-7555bd1155ee" />
+</p>
+
+<p align="center">
+  <i>Figure 18: MQTT Table </i>
+</p>
+
+# MPLAB X Configuration
+
+
+
+# Code
+
+
+
 [Back to Home Page](/team207-s2024)
 
 [Back to Report](report)
