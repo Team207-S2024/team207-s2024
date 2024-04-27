@@ -17,7 +17,7 @@
   <b>Date Updated:</b> 1/25/2024<br>
 
   <i>ASU Polytechnic, EGR 314, Travis Kelley</i><br>
-  
+
 </p>
 
 # Table of Contents
@@ -533,7 +533,7 @@ Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further inf
 ## Software Implementation
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/28a8e842-8534-4c73-9b45-f04b8580a899" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/8b84c7f2-362e-4973-926b-3156ad32424d" />
 </p>
 
 <p align="center">
