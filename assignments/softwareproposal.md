@@ -12,7 +12,7 @@
 Shown in the figure above is a diagram of our software proposal. The diagram will give us an outline of our software design and what we would like to accomplish with each subsystem. The rest of the page will be dedicated to going more in-depth with each subsystem. 
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/157151171/140d4266-cc05-446d-b7d4-ed13b9fd61fb" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/33bf9d78-d385-4362-b317-615dc874cb9c" />
 </p>
 
 <p align="center">
