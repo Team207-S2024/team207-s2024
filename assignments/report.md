@@ -260,7 +260,7 @@ During this point, each team member chose their assigned subsystem. The choices 
 **Michaela De Angelis Werner:** Microcontroller/Power Supply
 
 
-![UpdBlockDiagram drawio](https://github.com/Team207-S2024/team207-s2024/assets/157151171/cc29d781-eeb6-478a-a5ba-75a32d171a15)
+![BD](https://github.com/Team207-S2024/team207-s2024/blob/main/images/blockdiagram/BlockDiagram.png)
 
 
 <p align="center">
