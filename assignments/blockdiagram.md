@@ -4,7 +4,7 @@
 
 The team constructed a Block Diagram that provides an ample overview of how we want our project to function.
 
-![BlockDiagram drawio](https://github.com/Team207-S2024/team207-s2024/assets/157151171/3dd5a8ab-1391-4818-83de-0e93be987333)
+![BD](https://github.com/Team207-S2024/team207-s2024/blob/main/images/blockdiagram/BlockDiagram.png)
 
 _Figure 1: Block Diagram of our Flower Pot_
 
