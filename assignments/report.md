@@ -1,6 +1,23 @@
 <h1><b> EGR 314 Report </b></h1><br>
 <p align="center">
+	
+<style>
+table, th, td {
 
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 10px;
+  padding: 5px;
+}
+th, td {
+  border-color: #666666;
+  background-color: #FFFFFF;
+  text-align: left;
+}
+th {
+  background-color: #D5D5D5;
+}
+</style>
 	
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/064d1419-6376-4e5f-84d7-16b91784d796" />
