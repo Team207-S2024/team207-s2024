@@ -580,6 +580,16 @@ Once done with reading data and completing actions, it will then print the data 
   <i>Figure 17: Example of Output into MQTT. </i>
 </p>
 
+Here is the MQTT Topic Table we used to determine how best to go about developing our ESP32 Code: 
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/0ea8b264-448c-4806-b154-7555bd1155ee" />
+</p>
+
+<p align="center">
+  <i>Figure 18: Example of Output into MQTT. </i>
+</p>
+
 ### Five Biggest Changes Since Software Proposal
 
 There were a lot of changes to the flow of the software proposal, but the top 5 biggest changes will be outlined below. 
@@ -612,7 +622,7 @@ Refer to [Appendix J: Software Implementation](softwareproposal) for further inf
 </p>
 
 <p align="center">
-  <i>Figure 18: Picture of Innovation Showcase Poster. </i>
+  <i>Figure 19: Picture of Innovation Showcase Poster. </i>
 </p>
 
 ## System Verification
@@ -624,7 +634,7 @@ Finally, the group created a system verification table that would showcase how e
 </p>
 
 <p align="center">
-  <i>Figure 18: Picture of System Verification Table. </i>
+  <i>Figure 20: Picture of System Verification Table. </i>
 </p>
 
 ## Lessons Learned
