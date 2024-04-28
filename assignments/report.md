@@ -59,6 +59,54 @@ th {
 
 10. [Software Implementation](#software-implementation)
 
+# Table of Figures
+
+1. [Figure 1: Finished Jamboard of User Needs](https://private-user-images.githubusercontent.com/156377035/299766885-2ac812a8-3b55-4e04-ae91-dae0052d43f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQzMzI2ODYsIm5iZiI6MTcxNDMzMjM4NiwicGF0aCI6Ii8xNTYzNzcwMzUvMjk5NzY2ODg1LTJhYzgxMmE4LTNiNTUtNGUwNC1hZTkxLWRhZTAwNTJkNDNmMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyOFQxOTI2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZTNmNTA5ODBiMmU1NDdjZTRkOGE4MTZhZTkwNmIyNDY0ZWUwMzAyMWE0M2JiODRmOWVmNjU2MjBhZDgwYjE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ArcOBsUg4yPSEcTkKJNqxfl_IK3JsyMaBJx0Ku92bjc)
+
+2. [Figure 2: Finished Jamboard Page of the Groups of Needs](https://private-user-images.githubusercontent.com/156377035/299766975-f76e13a6-ce90-4a6b-9a01-4b5c41783925.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQzMzI5MTEsIm5iZiI6MTcxNDMzMjYxMSwicGF0aCI6Ii8xNTYzNzcwMzUvMjk5NzY2OTc1LWY3NmUxM2E2LWNlOTAtNGE2Yi05YTAxLTRiNWM0MTc4MzkyNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyOFQxOTMwMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDJmM2VhMmRjZjkwZTg0Y2JlZTIwZWQ2MWVjYTI1ZTI5ZWU5YTE4OTRjZjRjN2ZiZDA1NzE4ODY1ZjI0YWMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UIfvSRdMtWGEqiKMTI40wW2308cU4Acv2331qM8S2QY)
+
+3. [Figure 3: Finished Jamboard Page for Ranking Needs](https://private-user-images.githubusercontent.com/156377035/299767086-f3bcb418-bae8-489a-8c10-d187e2fbfd16.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQzMzI5NTcsIm5iZiI6MTcxNDMzMjY1NywicGF0aCI6Ii8xNTYzNzcwMzUvMjk5NzY3MDg2LWYzYmNiNDE4LWJhZTgtNDg5YS04YzEwLWQxODdlMmZiZmQxNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyOFQxOTMwNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMTg2MjJlYjk4NjQ1NjVkZWI5ZTVjOTQ2ODY3YmZlZDg3N2U5NzVkNzU3OGEzOTkzZGFhYzA3ZDgwZWUzNmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.06VVG2nwkZYVbcItKqFNDM5SFIKcBHs9Y1Kc5RTY6Ec)
+
+4. [Figure 4: Jamboard of 100+ Ideas](https://private-user-images.githubusercontent.com/156377035/299767277-c6f79873-33ad-46b4-95e5-f77cf2fe6bc5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQzMzMwMTgsIm5iZiI6MTcxNDMzMjcxOCwicGF0aCI6Ii8xNTYzNzcwMzUvMjk5NzY3Mjc3LWM2Zjc5ODczLTMzYWQtNDZiNC05NWU1LWY3N2NmMmZlNmJjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyOFQxOTMxNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjVjNmUwZDYzMDBkODExNWE1NGRiOThlNWQ3M2QzNjAxYjljNDExZjExMDZlODM4OGQ0NjJiYTViZDBjMWNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5ZudBVdLmnNSccF0c4hT27FkICj29iIvEz9fqivzQX8)
+
+5. [Figure 5: Jamboard of Sorted Ideas](https://github.com/Team207-S2024/team207-s2024/assets/156377035/05bf809c-ae8a-430f-bfd4-adbaf3a57823)
+
+6. [Figure 6: Visual Representation of the Fishing Box Plus Weather Balloon](https://github.com/Team207-S2024/team207-s2024/assets/156377035/e3151873-df6c-43e4-ad2b-46fe11cc6450)
+
+7. [Figure 6a: .svg Version of a Visual Representation](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0c427504-2fb9-4878-b487-55d578584596)
+
+8. [Figure 7: Visual Representation of GPS Plus Cat Collar](https://github.com/Team207-S2024/team207-s2024/assets/156377035/1fd00c4e-63b4-4b71-bf99-68123fe1c7a1)
+
+9. [Figure 7a: .svg Version of a Visual Representation](https://github.com/Team207-S2024/team207-s2024/assets/156377035/79927f99-460f-4052-906a-408744bbc65d)
+
+10. [Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight](https://github.com/Team207-S2024/team207-s2024/assets/156377035/eae8ae64-4bde-4a5f-b422-1e579a1550ce)
+
+11. [Figure 9: Solidworks Drawing of a Mobile Plant Caretaker](https://github.com/Team207-S2024/team207-s2024/assets/123421321/9130f44f-f915-409b-8f47-7eacb999dd05)
+
+12. [Figure 10: Current Block Diagram of the project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/726e697d-b265-4ec1-9471-99309df1da97)
+
+13. [Figure 11: Current Power Budget of the Project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/cf89bee4-d5e6-4fe6-bfba-b43d13470e2d)
+
+14. [Figure 12: Final Schematic of the Project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419)
+
+15. [Figure 13: Top and Bottom PCB Layout of the Project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346)
+
+16. DONT HAVE YET
+
+17. [Figure 15: Current Bill of Materials for the project.](https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15)
+
+18. [Figure 16: Final Software Implementation UML Chart](https://github.com/Team207-S2024/team207-s2024/assets/156377035/8b84c7f2-362e-4973-926b-3156ad32424d)
+
+19. [Figure 17: Example of Output into MQTT.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f)
+
+20. [Figure 18: Example of Output into MQTT.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0ea8b264-448c-4806-b154-7555bd1155ee)
+
+21. [Figure 19: Picture of Innovation Showcase Poster.](https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da)
+
+22. [Figure 20: Picture of System Verification Table.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/d4e36a0c-91db-4d79-a53d-7dbb2d148827)
+
+
+
 # Appendix
 
 [Appendix A: Team Organization Document](https://team207-s2024.github.io/team207-s2024/assignments/teamorganization)
