@@ -54,16 +54,27 @@ He installed it in place and let it fly for about a week, before taking it back 
 For these aspects, the team went back over the user needs list, and sorted through each need by the group it was filed under first, followed by the highest rank. Once done, each need was put in order in the following list. If there were similar enough needs they were consolidated into one aspect in order to maintain focus. 
 
 1. Hardware/Product Design
+
     1. The product
-2. Software/Functionality
+
+3. Software/Functionality
+    
     2. The product
-3. Interactivity & User Experience
+
+4. Interactivity & User Experience
+
     3. The product
-4. Customization
+
+6. Customization
+    
     4. The product
-5. Manufacturing
+
+7. Manufacturing
+    
     5. The product
-6. Safety
+
+8. Safety
+    
     6. The product
 
 ### Open Questions
@@ -71,10 +82,15 @@ For these aspects, the team went back over the user needs list, and sorted throu
 The team still had many questions at this point in the design process, so they will thus be mentioned in this section. If there were additional, less-important questions considered at this point they were added into the others for the sake of brevity. 
 
 * How do we make this project more specialized towards a certain target audience?
+* ANSWER: Ultimately, the user is given the choice of whether they would like to use the device as a mobile weather station that collects enviromental metrics or they could use the device to optimize plant growth.
 * What does it mean for the device to be ‘mobile’?
+* ASNWER: Users would be able to travel with the device to collect data from around the world.
 * How intricate do we want this project to be going forward?
+* ANSWER: As simple as possible
 * Will this project utilize more subsystems for the sake of user handleability, or will we keep it to the bare minimum in order to prioritize getting what we need for the project to be 100%?
+* ASNWER: Prioritize what is needed for the project while keeping open room for adjustments if time is on our side.
 * How easy will this project be to be disassembled in case something goes wrong at a base level?
+* ASNWER: Very Simple.
 
 
 ## Milestones
