@@ -688,6 +688,10 @@ This is probably the meanest thing to say out of everything here, but depending 
 
 Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It is also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it is possible to find parts that previous students have done, it is recommended to at least have a look at how they implemented them and if they had problems with them. 
 
-5. B
+4. Make Good Relations
 
-6. C
+This one might seem obvious but is not implemented enough. Try to make as many relations as you can with your classmates, classmates in other sections taking the same course, your TA's, and your Insturctors. Leverage these relations to your advantage by acquiring new knowledge everyday. The people you spend time with shape who you are and shape the base of your knowledge and how you use it to a certain extent. Make sure your friends are as hardworking as you are if not more.
+
+5. Be Nice
+
+Being kind to your teammates, even when things get tough, is key to building strong relationships and effective teamwork. However, if someone consistently isn't pulling their weight, it's important to talk about it. Starting with a one-on-one chat can help uncover any issues they might be facing and find a way forward together. And if you've tried that and it's still not working, it's okay to bring it up with your instructor or team leader. It's not about blaming anyone; it's about finding the best way for everyone to work together and succeed. By balancing kindness with open communication, teams can overcome challenges and grow stronger together.
