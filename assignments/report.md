@@ -273,7 +273,9 @@ Refer to [Appendix E: Selected Design](https://team207-s2024.github.io/team207-s
 
 ## Block Diagram
 
-Once the team decided on a concept to move forward with, it became time to determine how the entire project would fit together within the technical requirements of the project. Thus, the group created a block diagram to hash out a basic concept of how everything would fit together on a technical level. It began with a rough idea, but once components were selected and finalized, the group was able to select what pins were necessary for each component to communicate with one another, as can be seen below.
+Once the team decided on a concept to move forward with, it became time to determine how the entire project would fit together within the technical requirements of the project. Thus, the group created a block diagram to hash out a basic concept of how everything would fit together on a technical level. It began with a rough idea, but once components were selected and finalized, the group was able to select what pins were necessary for each component to communicate with one another.
+
+By carefully analyzing user needs, selecting appropriate components, and constructing a visual representation of component interconnections, the block diagram ensures that the flower pot meets our objectives. Each selected component, including the PIC18LF26K40 microcontroller, temperature sensor, motor driver, and humidity sensor, serves a specific function essential for the flower pot's ability to monitor environmental conditions, orient itself toward sunlight, and notify users of soil moisture levels. Overall, the block diagram represents a comprehensive solution that fulfills user needs while considering technical feasibility and stakeholder interests.
 
 During this point, each team member chose their assigned subsystem. The choices were as follows:
 
