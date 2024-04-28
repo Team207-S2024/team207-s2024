@@ -77,9 +77,9 @@ th {
 
 [Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection)
 
-[Appendix I: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
+[Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
 
-[Appendix J: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
+[Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
 
 ## Introduction
 
@@ -563,7 +563,7 @@ The group also finalized the bill of materials for the project to send out a pur
   <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Software Implementation
 
