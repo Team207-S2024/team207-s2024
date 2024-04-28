@@ -82,15 +82,19 @@ For these aspects, the team went back over the user needs list, and sorted throu
 The team still had many questions at this point in the design process, so they will thus be mentioned in this section. If there were additional, less-important questions considered at this point they were added into the others for the sake of brevity. 
 
 * How do we make this project more specialized towards a certain target audience?
- ANSWER: Ultimately, the user is given the choice of whether they would like to use the device as a mobile weather station that collects enviromental metrics or they could use the device to optimize plant growth.
+ANSWER: Ultimately, the user is given the choice of whether they would like to use the device as a mobile weather station that collects enviromental metrics or they could use the device to optimize plant growth.
+
 * What does it mean for the device to be ‘mobile’?
  ANSWER: Users would be able to travel with the device to collect data from around the world.
+
 * How intricate do we want this project to be going forward?
  ANSWER: As simple as possible
+
 * Will this project utilize more subsystems for the sake of user handleability, or will we keep it to the bare minimum in order to prioritize getting what we need for the project to be 100%?
  ANSWER: Prioritize what is needed for the project while keeping open room for adjustments if time is on our side.
+
 * How easy will this project be to be disassembled in case something goes wrong at a base level?
- ANSWER: Very easy.
+ANSWER: Very easy.
 
 
 ## Milestones
