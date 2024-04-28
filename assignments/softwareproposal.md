@@ -89,11 +89,82 @@ Here is the MQTT Topic Table we used to determine how best to go about developin
 </p>
 
 <p align="center">
-  <i>Figure 18: MQTT Table </i>
+  <i>Figure 10: MQTT Table </i>
 </p>
 
 # MPLAB X Configuration
 
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/5da7fe75-e401-4377-a6f4-220474c0e20b" />
+</p>
+
+<p align="center">
+  <i>Figure 11: System Settings for MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/4d06d608-f4f9-4bfc-89ae-6b129bbb8b39" />
+</p>
+
+<p align="center">
+  <i>Figure 12: Picture of Pins on Graph for PIC in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/f7282b13-6493-41d9-beb5-88d838ed8063" />
+</p>
+
+<p align="center">
+  <i>Figure 13: Picture of Pins for PIC in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/08b0263f-d6d2-4672-a8b6-afa1fa78003e" />
+</p>
+
+<p align="center">
+  <i>Figure 14: Picture of Pins on Grid for PIC in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/aca0f4d6-d883-494f-a213-4064588934c3" />
+</p>
+
+<p align="center">
+  <i>Figure 15: Interrupts in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/69f54009-33a9-48fd-a65c-d566dcc1afc5" />
+</p>
+
+<p align="center">
+  <i>Figure 16: EUSART Settings in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e7bc4c90-0e8b-411e-9945-614f5dfe43c2" />
+</p>
+
+<p align="center">
+  <i>Figure 17: I2C Settings in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/b53a5da4-31ff-47c0-abd2-1998361a4a23" />
+</p>
+
+<p align="center">
+  <i>Figure 18: SPI Settings in MCC </i>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/6328085a-ed9f-4e0a-b35d-cdbf0d9927b0" />
+</p>
+
+<p align="center">
+  <i>Figure 19: Timer Settings in MCC </i>
+</p>
 
 
 # Code
