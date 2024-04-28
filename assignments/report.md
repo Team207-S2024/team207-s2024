@@ -94,7 +94,7 @@ The project itself is currently named *"Mobile Plant Caretaker,"* and as the nam
 The following subsections will detail our process for the team charter and mission statement. For the sake of
 succinctness, everything else is consolidated into the appendix.
 
-Refer to [Appendix A: Team Organization Assignment](teamorganization) 
+Refer to [Appendix A: Team Organization Assignment](https://team207-s2024.github.io/team207-s2024/assignments/teamorganization) 
 for further information about our team organization and team decisions.
 
 ### Team Charter
@@ -142,12 +142,12 @@ The team worked exceptionally hard at identifying and deciphering the user needs
   <i>Figure 3: Finished Jamboard Page for Ranking Needs </i>
 </p>
 
-Refer to [Appendix B: User Needs and Benchmarking Assignment](userneeds-benchmarking)
+Refer to [Appendix B: User Needs and Benchmarking Assignment](https://team207-s2024.github.io/team207-s2024/assignments/userneeds-benchmarking)
 for further information, the content of the VOC research, and the final table derived from the work. 
 
 The PRD (Product Requirements Document) was developed soon after, which involved creating unique scenarios for a potential product in order to generate further ideas as well as brainstorming potential stakeholders and what each person wanted from the project. Open questions were also developed that can hopefully be answered as the product develops. The aspects created from the PRD are going to be what the project will use as a baseline for the minimum requirements that the group designs as necessary.  
 
-Refer to [Appendix C: Product Requirements Document Assignment](productrequirements)
+Refer to [Appendix C: Product Requirements Document Assignment](https://team207-s2024.github.io/team207-s2024/assignments/productrequirements)
 for further information about the brainstorming the team did for this assignment, including the stories and aspects created.
 
 ## Design Ideation
@@ -222,7 +222,7 @@ This device would feature a sensor that can detect temperature and humidity leve
   <i>Figure 8: Solidworks Drawing of a Temperature Sensor for Optimal Sunlight</i>
 </p>
 
-Refer to [Appendix D: Design Ideation Assignment](designideation)
+Refer to [Appendix D: Design Ideation Assignment](https://team207-s2024.github.io/team207-s2024/assignments/designideation)
 for further information about the design ideation process.
 
 ## Selected Design
@@ -260,7 +260,7 @@ The plan is for this to not only be mobile in terms of the device moving somethi
 }
 </style>
 
-Refer to [Appendix E: Selected Design](selecteddesign) for further information about the selected design.
+Refer to [Appendix E: Selected Design](https://team207-s2024.github.io/team207-s2024/assignments/selecteddesign) for further information about the selected design.
 
 ## Block Diagram
 
@@ -284,7 +284,7 @@ During this point, each team member chose their assigned subsystem. The choices 
   <i>Figure 10: Current Block Diagram of the project. </i>
 </p>
 
-Refer to [Appendix F: Block Diagram](blockdiagram) for further information, such as a step-by-step breakdown of each component and its overall function within the project.
+Refer to [Appendix F: Block Diagram](https://team207-s2024.github.io/team207-s2024/assignments/blockdiagram) for further information, such as a step-by-step breakdown of each component and its overall function within the project.
 
 ## Component Selection
 
@@ -488,7 +488,7 @@ The team also began work on the power supply for the system, with mixed results.
   <i>Figure 11: Current Power Budget of the Project. </i>
 </p>
 
-Refer to [Appendix G: Component Selection](componentselection) for further information, such as the full list for each subsystem and its components.
+Refer to [Appendix G: Component Selection](https://team207-s2024.github.io/team207-s2024/assignments/componentselection) for further information, such as the full list for each subsystem and its components.
 
 ## Microcontroller Selection
 
@@ -496,7 +496,7 @@ The microcontroller selection was done soon after the component selection. The p
 
 Eventually, the group decided to go forward with the PIC18F26K40, for many reasons. For one, it will be a significantly nicer time to solder its 28 pins versus the competition's 40-64 pins. In addition, many previous groups had success with it, meaning that in the chance that help is necessary, the group can find it through previous students. Finally, the extensive documentation and the large datasheet will be critical when it comes to working with it, hardware and software-wise. 
 
-Refer to [Appendix H: Microcontroller Selection](microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and the pros/cons of each one.
+Refer to [Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection) for further information, which includes a full table of what was considered, the information on each microcontroller, and the pros/cons of each one.
 
 ## Hardware Implementation
 
@@ -552,7 +552,7 @@ The group also finalized the bill of materials for the project to send out a pur
   <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Software Implementation
 
@@ -613,7 +613,7 @@ It was not actually necessary to make variables for high humidity or temperature
 <b> 5. Misunderstandings of Motor </b>
 The motor really did not need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-Refer to [Appendix J: Software Implementation](softwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Innovation Showcase Poster
 
