@@ -87,6 +87,15 @@ The following is an exhaustive report on Team 207's project for EGR314. Below yo
 
 The project itself is currently named *"Mobile Plant Caretaker,"* and as the name suggests, it aids the user in taking care of a potted plant by automatically moving it in and out of shade based on whether it is too hot or too cold, and whether it needs water or not. It is meant to be lightweight for the user to be able to put it where they need to and be mobile in the sense of not needing to be plugged in. To fulfill the ESP32 requirements, it will send its data over Wi-Fi so the user can see how the temperature and humidity and the plant fluctuate over certain intervals. In addition, it will send out a small notification when the plant needs water, so the user can water the plant themselves.
 
+The Mobile Plant Caretaker represents a significant advancement in the realm of automated plant management systems, offering a sophisticated yet user-friendly solution to the challenges of maintaining optimal growing conditions for potted plants. By taking advantage of a combination of cutting-edge hardware components and intelligent software algorithms, our device represents seamless technological interactions aimed at making plant care more efficient in diverse environments.
+
+Through a rigorous process of research and prototyping, our team has successfully engineered a device that transcends traditional approaches to plant care. At its core, the Mobile Plant Caretaker contains two sensors, including a temperature and humidity sensor, to continuously monitor the plant's immediate environment. Coupled with motorized actuators, this system enables precise adjustments to the plant's position relative to light sources, ensuring optimal exposure for photosynthesis and growth.
+
+Central to the functionality of the Mobile Plant Caretaker is the ESP32 microcontroller, a powerful computing platform that collects sensory data and contains wireless communication capabilities. By harnessing the ESP32's processing power, our device delivers real-time insights into environmental metrics, allowing users to remotely monitor and intervene as necessary through the MQTT software on a laptop interface.
+
+What distinguishes the Mobile Plant Caretaker is not just its technical sophistication, but also its potential to revolutionize the way we interact with plants. In essence, the Mobile Plant Caretaker represents a convergence of scientific innovation and practical utility, creating a new era of smart plant care solutions for enthusiasts and professionals alike.
+
+
 [Here](https://embedded-systems-design.bitbucket.io/course-sequence-requirements/) is a link to the requirements for this course. 
 
 ## Team Organization
