@@ -91,7 +91,7 @@ th {
 
 15. [Figure 13: Top and Bottom PCB Layout of the Project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346)
 
-16. [Figure 14: Picture of PCB fully soldered.](https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/imgonline-com-ua-twotoone-ZomtRfHAWU0FwS.jpg?raw=true)
+16. [Figure 14: Picture of PCB In-Person.](https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/imgonline-com-ua-twotoone-ZomtRfHAWU0FwS.jpg?raw=true)
 
 17. [Figure 15: Current Bill of Materials for the project.](https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15)
 
@@ -99,7 +99,7 @@ th {
 
 19. [Figure 17: Example of Output into MQTT.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/cc5276a2-97fd-414c-bc85-24fcd4e0118f)
 
-20. [Figure 18: Example of Output into MQTT.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0ea8b264-448c-4806-b154-7555bd1155ee)
+20. [Figure 18: Topic Table for MQTT.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/0ea8b264-448c-4806-b154-7555bd1155ee)
 
 21. [Figure 19: Picture of Innovation Showcase Poster.](https://github.com/Team207-S2024/team207-s2024/assets/157151171/79103f75-4e04-4a18-b838-770c90ca01da)
 
@@ -583,7 +583,7 @@ One change that should have been made but was not implemented, is the swap betwe
   <img src = "https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/imgonline-com-ua-twotoone-ZomtRfHAWU0FwS.jpg?raw=true" />
 </p>
 <p align="center">
-  <i>Figure 14: Picture of PCB fully soldered. </i>
+  <i>Figure 14: Picture of PCB In-Person. </i>
 </p>
 
 ### Version 2.0
@@ -646,7 +646,7 @@ Here is the MQTT Topic Table we used to determine how best to go about developin
 </p>
 
 <p align="center">
-  <i>Figure 18: Example of Output into MQTT. </i>
+  <i>Figure 18: Topic Table for MQTT. </i>
 </p>
 
 ### Five Biggest Changes Since Software Proposal
