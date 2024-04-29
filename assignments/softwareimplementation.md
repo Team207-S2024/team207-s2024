@@ -1,4 +1,4 @@
-# Software Proposal
+# Software Implementation
 
 <p align="center">
   <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/8b84c7f2-362e-4973-926b-3156ad32424d" />
