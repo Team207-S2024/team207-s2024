@@ -125,9 +125,9 @@ th {
 
 [Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection)
 
-[Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal)
+[Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation)
 
-[Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareproposal)
+[Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareimplementation)
 
 ## Introduction
 
@@ -612,7 +612,7 @@ The group also finalized the bill of materials for the project to send out a pur
   <i>Figure 15: Current Bill of Materials for the project. </i>
 </p>
 
-Refer to [Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation) for further information, such as a full breakdown of the schematic, including each subsystem and circuit. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/hardwareimplementation.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Software Implementation
 
@@ -673,7 +673,7 @@ It was not actually necessary to make variables for high humidity or temperature
 <b> 5. Misunderstandings of Motor </b>
 The motor really did not need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-Refer to [Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareproposal) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareproposal.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareimplementation.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Innovation Showcase Poster
 
@@ -725,22 +725,22 @@ Many things were learned in this class, both hardware and software-wise. Below i
 
 There is a lot of recommendations to give, and it is a bit difficult to leave it to 5, but here are the top 5 that the group considered:
 
-1. Time Management
+<b> 1. Time Management </b>
 
 There are a lot of things to learn and do in this class, and getting them done is paramount to getting a working project in the end. It is a bit of a lie to make this (and EGR 304) a 3-credit course, because it tells people that it is possible to succeed with only a couple of hours outside of class to get things done. It does not. Take advantage of all the free time you can muster, talk to TAs, talk to other students, make sure that you are doing at least 5-15 extra hours if you can help it. That seems like a lot, but it goes away really quickly as you are learning by doing, and that takes a lot of time. You will learn, but you will struggle at some point. 
 
-2. Group Management
+<b> 2. Group Management </b>
 
 This is probably the meanest thing to say out of everything here, but depending on your situation it will be extremely important. Make sure that people are doing their job, and are not slacking off. If someone is not doing their job, do not try to handle it yourself before going to the instructor. Tell the instructor immediately what is going on so it can get worked out immediately. While it is nice to keep everything in the group, sometimes it can get sour very quick. If you take too long in alerting the instructor something is wrong, there is a high chance of that person getting away with it, and being allowed to succeed when they should not have. This sounds harsh, but it is for the best that you understand how important it is to not overexert yourself so someone else can slack off. As stated previously, there is a lot to do in this course, and you will burn out if you think you can get it done by yourself. You need a team to get through it, not people relying on you to carry them. 
 
-3. Pick Easy Parts
+<b> 3. Pick Easy Parts </b>
 
 Exactly as it sounds, pick the simplest part because the room for error is usually very low. Our recommendation is based a lot on the communication type and datasheet of the part. A part that has a well-written datasheet and technical notes is always a good choice. It is also even better if said notes have a debug section detailing what you can do if you run into a specific problem. If it is possible to find parts that previous students have done, it is recommended to at least have a look at how they implemented them and if they had problems with them. 
 
-4. Make Good Relations
+<b> 4. Make Good Relations </b>
 
 This one might seem obvious but is not implemented enough. Try to make as many relations as you can with your classmates, classmates in other sections taking the same course, your TA's, and your Insturctors. Leverage these relations to your advantage by acquiring new knowledge everyday. The people you spend time with shape who you are and shape the base of your knowledge and how you use it to a certain extent. Make sure your friends are as hardworking as you are if not more.
 
-5. Be Nice
+<b> 5. Be Nice </b>
 
 Being kind to your teammates, even when things get tough, is key to building strong relationships and effective teamwork. However, if someone consistently isn't pulling their weight, it's important to talk about it. Starting with a one-on-one chat can help uncover any issues they might be facing and find a way forward together. And if you've tried that and it's still not working, it's okay to bring it up with your instructor or team leader. It's not about blaming anyone; it's about finding the best way for everyone to work together and succeed. By balancing kindness with open communication, teams can overcome challenges and grow stronger together.
