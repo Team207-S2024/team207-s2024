@@ -288,7 +288,7 @@ The selected design was [Optimal Sunlight for a Plant](#optimal-sunlight-for-a-p
 The plan is for this to not only be mobile in terms of the device moving something but also be lightweight enough for a user to position this where they need to as well as using batteries so it does not need to be tied down anywhere. 
 
 <p align="center">
-  <img src = "github.com/Team207-S2024/team207-s2024/assets/123421321/421205be-2c06-4509-bc35-15e75da96693" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/123421321/39f9c1cf-7efa-44a7-adc1-816b349d2b55" />
 </p>
 
 
