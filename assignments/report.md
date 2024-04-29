@@ -125,9 +125,9 @@ th {
 
 [Appendix H: Microcontroller Selection](https://team207-s2024.github.io/team207-s2024/assignments/microcontrollerselection)
 
-[Appendix I: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation)
+[Appendix I: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareimplementation)
 
-[Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareimplementation)
+[Appendix J: Hardware Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation)
 
 ## Introduction
 
@@ -156,8 +156,7 @@ for further information about our team organization and team decisions.
 
 ### Team Charter
 
-The team decided on the charter fairly late but eventually came to an agreement on what everyone wanted
-for the group in terms of personal goals. It was agreed that serial communication and the knowledge needed for that is something very important for an engineer to understand, no matter what kind. Many components, including various sensors and drivers, require knowledge of not only the basics of how to set up serial communication but how to find the information required to set it up. That concept includes understanding how to access and read datasheets for products, as well as how to manipulate bits. 
+The team decided on the charter fairly late but eventually agreed on what everyone wanted for the group in terms of personal goals. It was agreed that serial communication and the knowledge needed for that is something very important for an engineer to understand, no matter what kind. Many components, including various sensors and drivers, require knowledge of not only the basics of how to set up serial communication but how to find the information required to set it up. That concept includes understanding how to access and read datasheets for products, as well as how to manipulate bits. 
 
 _Our goal is to gain knowledge in digital circuits that utilize serial communication. 
 We as a team want this product to be compared to other professional-grade devices being sold on the market._
