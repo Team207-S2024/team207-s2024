@@ -1,4 +1,4 @@
-# Hardware Proposal
+# Hardware Implementation
 
 ## Current Schematic
 
@@ -10,7 +10,7 @@
   <i>Figure 1: Picture of the Final Schematic</i>
 </p>
 
-Here is the first iteration of the team's hardware proposal. Each major part was made separately according to each subsystem and then put together with one another in the final schematic. Many of the components were able to be imported from sites like Ultra Librarian, which helped to speed up the process, but some required custom symbols and footprints. 
+Here is team 207's final itteration of the hardware implementation. Each major part was made separately according to each subsystem and then put together with one another in the final schematic. Many of the components were able to be imported from sites like Ultra Librarian, which helped to speed up the process, but some required custom symbols and footprints. 
 
 An in-depth look at each part of the schematic will be shown below. 
 
@@ -119,7 +119,7 @@ The humidity sensor will transmit data that it gets from the soil to the microco
 ### Temperature Sensor
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/e692ecd0-006b-4786-8cab-35a96292e758" />
+  <img src = "https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/mycirc.png?raw=true" />
 </p>
 
 <p align="center">
