@@ -659,7 +659,7 @@ When coming up with the software proposal, it was assumed that it would be easy 
 
 <b> 2. Humidity Sensor Issues </b>
 
-In the beginning it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
+In the beginning, it was assumed that the humidity sensor would work simply like the temperature controller. However, it actually required significantly more coding prowess than what was assumed, which meant the software proposal concept simply did not match the actual work required for the humdity sensor to function. We also found that we had to replace the humidity sensor due to us receiving a buggy/defective humidity sensor. Though there was a chance to replace the on-board sensor, we decided to not potentially cause issues from desoldering and resoldering a new humidity sensor, and instead left it as-is. 
 
 <b> 3. Overall Flow of Main Loop </b>
 
@@ -672,7 +672,7 @@ It was not actually necessary to make variables for high humidity or temperature
 <b> 5. Misunderstandings of Motor </b>
 The motor really did not need to check if there was a signal or not, this was done because there was a misunderstanding of whether technical lingo was necessary for this assignement rather than something actually readable. 
 
-Refer to [Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/hardwareimplementation) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareimplementation.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
+Refer to [Appendix J: Software Implementation](https://team207-s2024.github.io/team207-s2024/assignments/softwareimplementation) for further information, including a full breakdown of what the UML chart demonstrates as well as how each part aids in the user needs stated previously within the report. If necessary, the history of the page can be found [here](https://github.com/Team207-S2024/team207-s2024/commits/main/assignments/softwareimplementation.md) if one were to be interested in the process of how the hardware implementation developed over the semester. 
 
 ## Innovation Showcase Poster
 
