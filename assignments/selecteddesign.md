@@ -4,7 +4,9 @@ All models were generated using Solidworks Some models from GrabCad website were
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/cac55455-5e03-49a4-bee5-17ac9067fc36" />
+  
+ ![Figure 1: Page 1 of Selected Design](https://github.com/Team207-S2024/team207-s2024/blob/main/images/selecteddesign/Screenshot%202024-04-29%20003010.png?raw=true)
+
 </p>
 
 <p align="center">
@@ -21,7 +23,9 @@ All models were generated using Solidworks Some models from GrabCad website were
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/7fc79195-d0d1-4ed2-bed2-7350cc2aeb9b"/>
+  
+  ![Figure 2: Page 3 of Selected Design](https://github.com/Team207-S2024/team207-s2024/blob/main/images/selecteddesign/up2.png?raw=true)
+
 </p>
 
 <p align="center">
@@ -49,7 +53,7 @@ All models were generated using Solidworks Some models from GrabCad website were
 </p>
 
 <p align="center">
-  <i>Figure 1: Page 6 of Selected Design</i>
+  <i>Figure 2: Page 6 of Selected Design</i>
 </p>
 
 <p align="center">
@@ -77,7 +81,9 @@ All models were generated using Solidworks Some models from GrabCad website were
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/8b828a0c-02ef-4a6c-9479-6d6dd26ee552"/>
+  
+  ![Figure 2: Page 10 of Selected Design](https://github.com/Team207-S2024/team207-s2024/blob/main/images/selecteddesign/platform.png?raw=true)
+
 </p>
 
 <p align="center">
