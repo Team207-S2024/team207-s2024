@@ -12,8 +12,9 @@ All models were generated using Solidworks Some models from GrabCad website were
 </p>
 
 <p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/209a6e18-2192-411b-b8c4-d67d4bf23e42"/>
+  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/123421321/8ca80b59-3477-42a4-b667-9b3f5b92f2d1"/>
 </p>
+
 
 <p align="center">
   <i>Figure 2: Page 2 of Selected Design</i>
