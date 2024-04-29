@@ -91,7 +91,7 @@ th {
 
 15. [Figure 13: Top and Bottom PCB Layout of the Project.](https://github.com/Team207-S2024/team207-s2024/assets/156377035/4c162306-1a49-4cd9-a8e2-2fcc4e730346)
 
-16. DONT HAVE YET
+16. [Figure 14: Picture of PCB fully soldered.](https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/imgonline-com-ua-twotoone-ZomtRfHAWU0FwS.jpg?raw=true)
 
 17. [Figure 15: Current Bill of Materials for the project.](https://github.com/Team207-S2024/team207-s2024/assets/157151171/305feb18-94b1-4edf-b72a-67d888a22c15)
 
@@ -580,8 +580,8 @@ One change that should have been made but was not implemented, is the swap betwe
   <i>Figure 13: Top and Bottom PCB Layout of the Project. </i>
 </p>
 
-<p align="center">
-  <img src = "https://github.com/Team207-S2024/team207-s2024/assets/156377035/a5f646c2-cc15-4f79-939f-580197792419" />
+<p align="center">	
+  <img src = "https://github.com/Team207-S2024/team207-s2024/blob/main/images/hardwareproposal/imgonline-com-ua-twotoone-ZomtRfHAWU0FwS.jpg?raw=true" />
 </p>
 <p align="center">
   <i>Figure 14: Picture of PCB fully soldered. </i>
